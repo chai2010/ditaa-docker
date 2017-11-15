@@ -5,13 +5,17 @@
 SIMPLE_FILES=$(sort $(wildcard ./testdata/*.txt))
 
 build:
-	docker build -t ditaa -f ./Dockerfile .
+	docker build -t chai2010/ditaa -f ./Dockerfile .
 	@docker image prune -f 1>/dev/null 2>&1
+	@echo "ok"
+
+pull:
+	docker pull chai2010/ditaa
 	@echo "ok"
 
 test:
 	@for file in $(SIMPLE_FILES) ; do \
-		docker run --rm -it  -v `pwd`:/root ditaa $$file $$file.png ; \
+		docker run --rm -it  -v `pwd`:/root chai2010/ditaa $$file $$file.png ; \
 	done
 	@echo "ok"
 
