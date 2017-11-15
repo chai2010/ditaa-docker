@@ -34,3 +34,17 @@ Output:
 
 ![](output.png)
 
+## More examples
+
+
+### [./testdata/art10.txt](testdata/art10.txt)
+
+![](testdata/art10.txt.png)
+
+
+### [./testdata/simple4.txt](testdata/simple4.txt)
+
+![](testdata/simple4.txt.png)
+
+### [./testdata/more...](testdata)
+
