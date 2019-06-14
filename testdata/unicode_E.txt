@@ -1,0 +1,227 @@
+E
+Description                                            Entity       Preview
+E With Acute, Latin Capital Letter                     &#x00C9;     É
+E With Acute, Latin Small Letter                       &#x00E9;     é
+E With Breve, Latin Small Letter                       &#x0115;     ĕ
+E With Caron, Latin Small Letter                       &#x011B;     ě
+E With Cedilla, Latin Small Letter                     &#x0229;     ȩ
+E With Circumflex Below, Latin Small Letter            &#x1E19;     ḙ
+E With Circumflex, Latin Capital Letter                &#x00CA;     Ê
+E With Circumflex, Latin Small Letter                  &#x00EA;     ê
+E With Diaeresis, Latin Capital Letter                 &#x00CB;     Ë
+E With Diaeresis, Latin Small Letter                   &#x00EB;     ë
+E With Dot Above, Latin Small Letter                   &#x0117;     ė
+E With Dot Below, Latin Small Letter                   &#x1EB9;     ẹ
+E With Double Grave, Latin Small Letter                &#x0205;     ȅ
+E With Grave, Latin Capital Letter                     &#x00C8;     È
+E With Grave, Latin Small Letter                       &#x00E8;     è
+E With Hook Above, Latin Small Letter                  &#x1EBB;     ẻ
+E With Hook, Latin Small Letter Reversed Open          &#x025D;     ɝ
+E With Inverted Breve, Latin Small Letter              &#x0207;     ȇ
+E With Macron, Latin Small Letter                      &#x0113;     ē
+E With Ogonek, Latin Small Letter                      &#x0119;     ę
+E With Stroke, Latin Capital Letter                    &#x0246;     Ɇ
+E With Stroke, Latin Small Letter                      &#x0247;     ɇ
+E With Tilde Below, Latin Small Letter                 &#x1E1B;     ḛ
+E With Tilde, Latin Small Letter                       &#x1EBD;     ẽ
+E, Combining Latin Small Letter                        &#x0364;
+E, Double-Struck Italic Small                          &#x2147;     ⅇ
+E, Latin Capital Letter Open                           &#x0190;     Ɛ
+E, Latin Capital Letter Reversed                       &#x018E;     Ǝ
+E, Latin Capital Letter Turned                         &#x018E;     Ǝ
+E, Latin Letter Small Capital                          &#x1D07;     ᴇ
+E, Latin Small Letter Closed Open                      &#x029A;     ʚ
+E, Latin Small Letter Closed Reversed Open             &#x025E;     ɞ
+E, Latin Small Letter O                                &#x0153;     œ
+E, Latin Small Letter Open                             &#x025B;     ɛ
+E, Latin Small Letter Reversed                         &#x0258;     ɘ
+E, Latin Small Letter Reversed Open                    &#x025C;     ɜ
+E, Latin Small Letter Turned                           &#x01DD;     ǝ
+E, Latin Small Letter Turned Open                      &#x1D08;     ᴈ
+E, Script Capital                                      &#x2130;     ℰ
+E, Script Small                                        &#x212F;     ℯ
+Earth                                                  &#x2641;     ♁
+Earth Ground                                           &#x23DA;     ⏚
+East Syriac Cross                                      &#x2671;     ♱
+Eastern Arabic-Indic Digits                            &#x06F0;     ۰
+Editorial Symbols, New Testament                       &#x2E00;     ⸀
+Egressive Airflow                                      &#x2191;     ↑
+Eighth Note                                            &#x266A;     ♪
+Eighth Notes, Beamed                                   &#x266B;     ♫
+Eighths, Fractions                                     &#x215B;     ⅛
+Eject Media                                            &#x23CF;     ⏏
+Ek Onkar, Gurmukhi                                     &#x0A74;     ੴ
+El Salvadorian Currency                                &#x20A1;     ₡
+Electric Arrow                                         &#x2301;     ⌁
+Electrical Intersection                                &#x23E7;     ⏧
+Electrolysis                                           &#x21AF;     ↯
+Electromotive Force                                    &#x2130;     ℰ
+Electrotechnical Symbols                               &#x238D;     ⎍
+Element Of                                             &#x2208;     ∈
+Element Of, Not An                                     &#x2209;     ∉
+Element Of, Small                                      &#x220A;     ∊
+Element, Unique                                        &#x2129;     ℩
+Ellipses                                               &#x2B2C;     ⬬
+Ellipsis, Down Right Diagonal                          &#x22F1;     ⋱
+Ellipsis, Horizontal                                   &#x2026;     …
+Ellipsis, Lao                                          &#x0EAF;     ຯ
+Ellipsis, Midline Horizontal                           &#x22EF;     ⋯
+Ellipsis, Mongolian                                    &#x1801;     ᠁
+Ellipsis, Up Right Diagonal                            &#x22F0;     ⋰
+Ellipsis, Vertical                                     &#x22EE;     ⋮
+Elliptic Function, Weierstrass                         &#x2118;     ℘
+Em Dash                                                &#x2014;     —
+Em Quad                                                &#x2001;      
+Em Space                                               &#x2003;      
+Embedding, Left-To-Right                               &#x202A;     ‪
+Embedding, Right-To-Left                               &#x202B;     ‫
+Emf                                                    &#x2130;     ℰ
+Emphasis Mark, Armenian                                &#x055B;     ՛
+Emphasis Marks, Sidelining                             &#xFE45;     ﹅
+Emphasis Symbol                                        &#x2383;     ⎃
+Empty Set                                              &#x2205;     ∅
+Empty Sets                                             &#x29B0;     ⦰
+En Dash                                                &#x2013;     –
+En Quad                                                &#x2000;      
+En Space                                               &#x2002;      
+Enclosed Alphanumerics                                 &#x2460;     ①
+Enclosed Cjk Letters And Months                        &#x3200;     ㈀
+Enclosed Mathematical Operators                        &#x2295;     ⊕
+Enclosing Circle Backslash, Combining                  &#x20E0;
+Enclosing Circle, Combining                            &#x20DD;
+Enclosing Diacritics                                   &#x20DD;
+Enclosing Diamond, Combining                           &#x20DF;
+Enclosing Keycap, Combining                            &#x20E3;
+Enclosing Screen, Combining                            &#x20E2;
+Enclosing Square, Combining                            &#x20DE;
+Enclosing Upward Pointing Triangle, Combining          &#x20E4;
+End                                                    &#x21F2;     ⇲
+End Of Guarded Area                                    &#x0097;     �
+End Of Line                                            &#x000A;    
+End Of Medium                                          &#x0019;     �
+End Of Medium, Symbol For                              &#x237F;     ⍿
+End Of Medium, Symbol For                              &#x2419;     ␙
+End Of Proof                                           &#x220E;     ∎
+End Of Selected Area                                   &#x0087;     �
+End Of Text                                            &#x0003;     �
+End Of Text, Symbol For                                &#x2403;     ␃
+End Of Transmission                                    &#x0004;     �
+End Of Transmission Block                              &#x0017;     �
+End Of Transmission Block, Symbol For                  &#x2417;     ␗
+End Of Transmission Symbol                             &#x2301;     ⌁
+End Of Transmission, Symbol For                        &#x2404;     ␄
+Eng, Latin Small Letter                                &#x014B;     ŋ
+Enn, Tamil                                             &#x0BFA;     ௺
+Enotikon, Greek                                        &#x203F;     ‿
+Enquiry                                                &#x0005;     �
+Enquiry, Symbol For                                    &#x2405;     ␅
+Enter Key                                              &#x2324;     ⌤
+Enter Symbol                                           &#x2386;     ⎆
+Entity &Amp;Iinfin;, Isotech                           &#x29DC;     ⧜
+Envelope                                               &#x2709;     ✉
+Eol                                                    &#x000A;    
+Epidaurean Acrophonic Symbol Three                     &#x205D;     ⁝
+Epsilon Symbol, Greek Lunate                           &#x03F5;     ϵ
+Epsilon Symbol, Greek Reversed Lunate                  &#x03F6;     ϶
+Epsilon, Latin Capital Letter                          &#x0190;     Ɛ
+Epsilon, Latin Small Letter                            &#x025B;     ɛ
+Epsilon, Latin Small Letter Closed                     &#x029A;     ʚ
+Epsilon, Latin Small Letter Closed Reversed            &#x025E;     ɞ
+Epsilon, Reversed Straight                             &#x03F6;     ϶
+Epsilon, Reversed Straight                             &#x220D;     ∍
+Epsilon, Straight                                      &#x03F5;     ϵ
+Equal To Above, Combining Almost                       &#x034C;
+Equal To By Definition                                 &#x225C;     ≜
+Equal To By Definition                                 &#x225D;     ≝
+Equal To, All                                          &#x224C;     ≌
+Equal To, Almost                                       &#x2248;     ≈
+Equal To, Approximately                                &#x2245;     ≅
+Equal To, Approximately                                &#x2257;     ≗
+Equal To, Asymptotically                               &#x2243;     ≃
+Equal To, Delta                                        &#x225C;     ≜
+Equal To, Geometrically                                &#x2251;     ≑
+Equal To, Greater-Than Or                              &#x2265;     ≥
+Equal To, Less-Than Or                                 &#x2264;     ≤
+Equal To, Not                                          &#x2260;     ≠
+Equal To, Questioned                                   &#x225F;     ≟
+Equal To, Ring                                         &#x2257;     ≗
+Equal To, Ring In                                      &#x2256;     ≖
+Equality And Inequality Signs                          &#x2243;     ≃
+Equality And Inequality Signs                          &#x22D5;     ⋕
+Equals Colon                                           &#x2255;     ≕
+Equals Sign                                            &#x003D;     =
+Equals Sign Below, Combining                           &#x0347;
+Equals, Circled                                        &#x229C;     ⊜
+Equals, Colon                                          &#x2254;     ≔
+Equals, Nearly                                         &#x2252;     ≒
+Equals, Reversed Tilde                                 &#x22CD;     ⋍
+Equals, Star                                           &#x225B;     ≛
+Equiangular                                            &#x225C;     ≜
+Equiangular To                                         &#x225A;     ≚
+Equivalent To                                          &#x224D;     ≍
+Equivalent To, Geometrically                           &#x224E;     ≎
+Equivalent To, Strictly                                &#x2263;     ≣
+Equivalent, Tautological                               &#x29E6;     ⧦
+Era Names, Japanese                                    &#x337B;     ㍻
+Erase To The Left                                      &#x232B;     ⌫
+Erase To The Right                                     &#x2326;     ⌦
+Error                                                  &#x212F;     ℯ
+Error Bar Symbols                                      &#x29EE;     ⧮
+Escape                                                 &#x001B;     �
+Escape                                                 &#x238B;     ⎋
+Escape, Data Link                                      &#x0010;     �
+Escape, Symbol For                                     &#x241B;     ␛
+Escape, Symbol For Data Link                           &#x2410;     ␐
+Escudo                                                 &#x0024;     $
+Esh Loop, Latin Letter Reversed                        &#x01AA;     ƪ
+Esh, Latin Capital Letter                              &#x01A9;     Ʃ
+Esh, Latin Small Letter                                &#x0283;     ʃ
+Esh, Latin Small Letter Squat Reversed                 &#x0285;     ʅ
+Estimated Symbol                                       &#x212E;     ℮
+Estimates                                              &#x2259;     ≙
+Eszett                                                 &#x00DF;     ß
+Et, Tironian Sign                                      &#x204A;     ⁊
+Eth, Latin Capital Letter                              &#x00D0;     Ð
+Eth, Latin Letter Small Capital                        &#x1D06;     ᴆ
+Eth, Latin Small Letter                                &#x00F0;     ð
+Ethel                                                  &#x0153;     œ
+Ethiopic Colon                                         &#x1365;     ፥
+Ethiopic Comma                                         &#x1363;     ፣
+Ethiopic Digits                                        &#x1369;     ፩
+Ethiopic Extended                                      &#x2D80;     ⶀ
+Ethiopic Full Stop                                     &#x1362;     ።
+Ethiopic Numbers                                       &#x1369;     ፩
+Ethiopic Paragraph Separator                           &#x1368;     ፨
+Ethiopic Preface Colon                                 &#x1366;     ፦
+Ethiopic Punctuation                                   &#x1361;     ፡
+Ethiopic Question Mark                                 &#x1367;     ፧
+Ethiopic Semicolon                                     &#x1364;     ፤
+Ethiopic Supplement                                    &#x1380;     ᎀ
+Ethiopic Syllables                                     &#x1200;     ሀ
+Ethiopic Wordspace                                     &#x1361;     ፡
+Euler Constant                                         &#x2107;     ℇ
+Euro European Currency                                 &#x20AC;     €
+Euro Sign                                              &#x20AC;     €
+European Latin                                         &#x0100;     Ā
+European Paragraph Sign                                &#x00A7;     §
+European Section Sign                                  &#x00B6;     ¶
+Excess                                                 &#x2239;     ∹
+Exclamation Mark                                       &#x0021;     !
+Exclamation Mark Ornament, Heavy                       &#x2762;     ❢
+Exclamation Mark, Armenian                             &#x055C;     ՜
+Exclamation Mark, Double                               &#x203C;     ‼
+Exclamation Mark, Inverted                             &#x00A1;     ¡
+Exclamation Mark, Latin Letter                         &#x01C3;     ǃ
+Exclamation Mark, Limbu                                &#x1944;     ᥄
+Exclamation Mark, Question                             &#x2048;     ⁈
+Exclamation Question Mark                              &#x2049;     ⁉
+Exist, There Does Not                                  &#x2204;     ∄
+Existential Quantifier                                 &#x2203;     ∃
+Exists, There                                          &#x2203;     ∃
+Exponent, Natural                                      &#x212F;     ℯ
+Extensions For Ainu, Katakana                          &#x31F0;     ㇰ
+Ezh Reversed, Latin Small Letter                       &#x01B9;     ƹ
+Ezh With Caron, Latin Small Letter                     &#x01EF;     ǯ
+Ezh, Latin Capital Letter                              &#x01B7;     Ʒ
+Ezh, Latin Letter Small Capital                        &#x1D23;     ᴣ
+Ezh, Latin Small Letter                                &#x0292;     ʒ

@@ -1,0 +1,1510 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg 
+    xmlns='http://www.w3.org/2000/svg'
+    width='790'
+    height='7812'
+    shape-rendering='geometricPrecision'
+    version='1.0'>
+  <defs>
+    <filter id='f2' x='0' y='0' width='200%' height='200%'>
+      <feOffset result='offOut' in='SourceGraphic' dx='5' dy='5' />
+      <feGaussianBlur result='blurOut' in='offOut' stdDeviation='3' />
+      <feBlend in='SourceGraphic' in2='blurOut' mode='normal' />
+    </filter>
+  </defs>
+  <g stroke-width='1' stroke-linecap='square' stroke-linejoin='round'>
+    <rect x='0' y='0' width='790' height='7812' style='fill: #ffffff'/>
+    <path stroke='none' stroke-width='1.000000' stroke-linecap='round' stroke-linejoin='round' fill='#000000' d='M705.0 2142.0 L700.0 2156.0 L710.0 2156.0 z' />
+    <path stroke='none' stroke-width='1.000000' stroke-linecap='round' stroke-linejoin='round' fill='#000000' d='M705.0 2198.0 L700.0 2212.0 L710.0 2212.0 z' />
+    <path stroke='#000000' stroke-width='1.000000' stroke-linecap='round' stroke-linejoin='round' fill='none' d='M250.0 1855.0 L259.0 1855.0 ' />
+    <path stroke='#000000' stroke-width='1.000000' stroke-linecap='round' stroke-linejoin='round' fill='none' d='M250.0 4235.0 L259.0 4235.0 ' />
+    <path stroke='#000000' stroke-width='1.000000' stroke-linecap='round' stroke-linejoin='round' fill='none' d='M240.0 4249.0 L249.0 4249.0 ' />
+    <path stroke='#000000' stroke-width='1.000000' stroke-linecap='round' stroke-linejoin='round' fill='none' d='M190.0 7707.0 L199.0 7707.0 ' />
+    <path stroke='#000000' stroke-width='1.000000' stroke-linecap='round' stroke-linejoin='round' fill='none' d='M190.0 7693.0 L199.0 7693.0 ' />
+    <path stroke='#000000' stroke-width='1.000000' stroke-linecap='round' stroke-linejoin='round' fill='none' d='M100.0 217.0 L109.0 217.0 ' />
+    <path stroke='#000000' stroke-width='1.000000' stroke-linecap='round' stroke-linejoin='round' fill='none' d='M140.0 6251.0 L149.0 6251.0 ' />
+    <path stroke='#000000' stroke-width='1.000000' stroke-linecap='round' stroke-linejoin='round' fill='none' d='M270.0 2121.0 L279.0 2121.0 ' />
+    <path stroke='#000000' stroke-width='1.000000' stroke-linecap='round' stroke-linejoin='round' fill='none' d='M110.0 245.0 L119.0 245.0 ' />
+    <path stroke='#000000' stroke-width='1.000000' stroke-linecap='round' stroke-linejoin='round' fill='none' d='M290.0 4249.0 L299.0 4249.0 ' />
+    <path stroke='#000000' stroke-width='1.000000' stroke-linecap='round' stroke-linejoin='round' fill='none' d='M110.0 1547.0 L119.0 1547.0 ' />
+    <path stroke='#000000' stroke-width='1.000000' stroke-linecap='round' stroke-linejoin='round' fill='none' d='M260.0 2065.0 L269.0 2065.0 ' />
+    <text x='20' y='40' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[C ]]></text>
+    <text x='20' y='54' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Description]]></text>
+    <text x='20' y='68' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[C With Acute, Latin Small Letter]]></text>
+    <text x='20' y='82' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[C With Caron, Latin Small Letter]]></text>
+    <text x='20' y='96' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[C With Cedilla, Latin Capital Letter]]></text>
+    <text x='20' y='110' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[C With Cedilla, Latin Small Letter]]></text>
+    <text x='20' y='124' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[C With Circumflex, Latin Small Letter]]></text>
+    <text x='20' y='138' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[C With Curl, Latin Small Letter]]></text>
+    <text x='20' y='152' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[C With Dot Above, Latin Small Letter]]></text>
+    <text x='20' y='166' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[C With Hook, Latin Small Letter]]></text>
+    <text x='20' y='180' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[C With Stroke, Latin Capital Letter]]></text>
+    <text x='20' y='194' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[C With Stroke, Latin Small Letter]]></text>
+    <text x='20' y='208' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[C, Apostrophic]]></text>
+    <text x='20' y='222' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[C, Black Letter Capital]]></text>
+    <text x='20' y='236' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[C, Combining Latin Small Letter]]></text>
+    <text x='20' y='250' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[C, Double Struck Capital]]></text>
+    <text x='20' y='264' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[C, Latin Letter Small Capital]]></text>
+    <text x='20' y='278' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[C, Latin Letter Stretched]]></text>
+    <text x='20' y='292' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[C, Latin Small Letter Reversed]]></text>
+    <text x='20' y='306' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cada Una]]></text>
+    <text x='20' y='320' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Caduceus]]></text>
+    <text x='20' y='334' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[Cambodian]]></text>
+    <text x='20' y='348' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Canadian Aboriginal Syllabics, Unified]]></text>
+    <text x='20' y='362' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Canadian Syllabics Full Stop]]></text>
+    <text x='20' y='376' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Canadian Syllabics Punctuation]]></text>
+    <text x='20' y='390' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cancel]]></text>
+    <text x='20' y='404' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cancel Character]]></text>
+    <text x='20' y='418' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cancel Tag]]></text>
+    <text x='20' y='432' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cancel, Symbol For]]></text>
+    <text x='20' y='446' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cancellation Mark, Lao]]></text>
+    <text x='20' y='460' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cancer]]></text>
+    <text x='20' y='474' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Candrabindu, Combining]]></text>
+    <text x='20' y='488' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Candrabindu, Devanagari Sign]]></text>
+    <text x='20' y='502' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cantillation Marks, Hebrew]]></text>
+    <text x='20' y='516' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cantillation Signs, Tibetan]]></text>
+    <text x='20' y='530' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[Cap]]></text>
+    <text x='20' y='544' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cap, Square]]></text>
+    <text x='20' y='558' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Capital Letters, Armenian]]></text>
+    <text x='20' y='572' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Capital Letters, Cyrillic]]></text>
+    <text x='20' y='586' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Capital Letters, Georgian]]></text>
+    <text x='20' y='600' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Capital Letters, Greek]]></text>
+    <text x='20' y='614' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Capital Letters, Latin]]></text>
+    <text x='20' y='628' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Capricorn]]></text>
+    <text x='20' y='642' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Caps Lock]]></text>
+    <text x='20' y='656' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Caps Lock]]></text>
+    <text x='20' y='670' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Card Suits, Playing]]></text>
+    <text x='20' y='684' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cardinal, First Transfinite]]></text>
+    <text x='20' y='698' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cardinal, Fourth Transfinite]]></text>
+    <text x='20' y='712' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cardinal, Second Transfinite]]></text>
+    <text x='20' y='726' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cardinal, Third Transfinite]]></text>
+    <text x='20' y='740' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Care Of]]></text>
+    <text x='20' y='754' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Caret]]></text>
+    <text x='20' y='768' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Caret]]></text>
+    <text x='20' y='782' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Caret Insertion Point]]></text>
+    <text x='20' y='796' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Carian]]></text>
+    <text x='20' y='810' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Caron]]></text>
+    <text x='20' y='824' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Caron Below, Combining]]></text>
+    <text x='20' y='838' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Caron, Combining]]></text>
+    <text x='20' y='852' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Carriage Return]]></text>
+    <text x='20' y='866' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Carriage Return, Symbol For]]></text>
+    <text x='20' y='880' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cartesian Product]]></text>
+    <text x='20' y='894' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Caution Sign]]></text>
+    <text x='20' y='908' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cedi Sign]]></text>
+    <text x='20' y='922' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cedilla]]></text>
+    <text x='20' y='936' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cedilla Above]]></text>
+    <text x='20' y='950' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cedilla, Combining]]></text>
+    <text x='20' y='964' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cedilla, Latin Capital Letter C With]]></text>
+    <text x='20' y='978' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cedilla, Latin Small Letter C With]]></text>
+    <text x='20' y='992' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cedilla, Spacing]]></text>
+    <text x='20' y='1006' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Ceiling, Left]]></text>
+    <text x='20' y='1020' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Ceiling, Right]]></text>
+    <text x='20' y='1034' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Celsius, Degree]]></text>
+    <text x='20' y='1048' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cent Sign]]></text>
+    <text x='20' y='1062' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Center]]></text>
+    <text x='20' y='1076' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Centigrade, Degrees]]></text>
+    <text x='20' y='1090' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Centre Line Symbol]]></text>
+    <text x='20' y='1104' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Centreline Low Line]]></text>
+    <text x='20' y='1118' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Centreline Overline]]></text>
+    <text x='20' y='1131' font-family='Courier' font-size='12' stroke='none' fill='#000000' ><![CDATA[Cham]]></text>
+    <text x='20' y='1146' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Chandrakkala, Malayalam]]></text>
+    <text x='20' y='1160' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Character Introducer, Single]]></text>
+    <text x='20' y='1174' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Character Tabulation]]></text>
+    <text x='20' y='1188' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Character Tabulation Set]]></text>
+    <text x='20' y='1202' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Character Tabulation With Justification]]></text>
+    <text x='20' y='1216' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Character Tie]]></text>
+    <text x='20' y='1230' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Chart Components, Form And]]></text>
+    <text x='20' y='1244' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Check Mark]]></text>
+    <text x='20' y='1258' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Check Mark, Heavy]]></text>
+    <text x='20' y='1272' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Check Mark, Not]]></text>
+    <text x='20' y='1286' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Check, Ballot Box With]]></text>
+    <text x='20' y='1300' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Checkers, Symbols For Draughts And]]></text>
+    <text x='20' y='1314' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cherokee]]></text>
+    <text x='20' y='1328' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Chess Symbols]]></text>
+    <text x='20' y='1342' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Chess Symbols, Japanese]]></text>
+    <text x='20' y='1356' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Chevron Bracket, Left]]></text>
+    <text x='20' y='1370' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Chevron Bracket, Right]]></text>
+    <text x='20' y='1384' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Chevrons]]></text>
+    <text x='20' y='1398' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Chi Rho]]></text>
+    <text x='20' y='1412' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Chillu Letters, Malayalam]]></text>
+    <text x='20' y='1426' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Chinese Bopomofo]]></text>
+    <text x='20' y='1440' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Chinese Bopomofo Extensions]]></text>
+    <text x='20' y='1454' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Chinese Fifth Or Neutral Tone, Mandarin]]></text>
+    <text x='20' y='1468' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Chinese First Tone, Mandarin]]></text>
+    <text x='20' y='1482' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Chinese Fourth Tone, Mandarin]]></text>
+    <text x='20' y='1496' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Chinese Second Tone, Mandarin]]></text>
+    <text x='20' y='1510' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Chinese Third Tone, Mandarin]]></text>
+    <text x='20' y='1524' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Chinese, Corner Tone Marks For]]></text>
+    <text x='20' y='1538' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Choice, Dijkstra]]></text>
+    <text x='20' y='1552' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Choice, N Ary Dijkstra]]></text>
+    <text x='20' y='1566' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Christogram]]></text>
+    <text x='20' y='1580' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circle Backslash, Combining Enclosing]]></text>
+    <text x='20' y='1594' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circle Symbols]]></text>
+    <text x='20' y='1608' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circle, Black]]></text>
+    <text x='20' y='1622' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circle, Black Small]]></text>
+    <text x='20' y='1636' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circle, Combining Enclosing]]></text>
+    <text x='20' y='1650' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circle, Dotted]]></text>
+    <text x='20' y='1664' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circle, Jis Composition]]></text>
+    <text x='20' y='1678' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circle, Large]]></text>
+    <text x='20' y='1692' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circle, Medium Black]]></text>
+    <text x='20' y='1706' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circle, Medium Small White]]></text>
+    <text x='20' y='1720' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circle, Medium White]]></text>
+    <text x='20' y='1734' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circle, Shadowed White]]></text>
+    <text x='20' y='1748' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circle, White]]></text>
+    <text x='20' y='1762' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Asterisk Operator]]></text>
+    <text x='20' y='1776' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Dash]]></text>
+    <text x='20' y='1790' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Digit Zero]]></text>
+    <text x='20' y='1804' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Digits, Dingbat]]></text>
+    <text x='20' y='1818' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Division Sign]]></text>
+    <text x='20' y='1832' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Division Slash]]></text>
+    <text x='20' y='1846' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Dot Operator]]></text>
+    <text x='20' y='1860' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Dot Operator, N Ary]]></text>
+    <text x='20' y='1874' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Equals]]></text>
+    <text x='20' y='1888' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Ideographs]]></text>
+    <text x='20' y='1902' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Inverse Numbers]]></text>
+    <text x='20' y='1916' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Katakana]]></text>
+    <text x='20' y='1930' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Korean Hangul Elements]]></text>
+    <text x='20' y='1944' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Korean Hangul Syllables]]></text>
+    <text x='20' y='1958' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Latin Letters]]></text>
+    <text x='20' y='1972' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Minus]]></text>
+    <text x='20' y='1986' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Numbers]]></text>
+    <text x='20' y='2000' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Numbers]]></text>
+    <text x='20' y='2014' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Numbers]]></text>
+    <text x='20' y='2028' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Numbers, Double]]></text>
+    <text x='20' y='2042' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Numbers, White On Black]]></text>
+    <text x='20' y='2056' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Plus]]></text>
+    <text x='20' y='2070' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Plus Operator, N Ary]]></text>
+    <text x='20' y='2084' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Postal Mark]]></text>
+    <text x='20' y='2098' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Ring Operator]]></text>
+    <text x='20' y='2112' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Times]]></text>
+    <text x='20' y='2126' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circled Times Operator, N Ary]]></text>
+    <text x='20' y='2140' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circles]]></text>
+    <text x='20' y='2154' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circumflex Accent]]></text>
+    <text x='20' y='2168' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circumflex Accent Below, Combining]]></text>
+    <text x='20' y='2182' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circumflex Accent, Combining]]></text>
+    <text x='20' y='2196' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circumflex Accent, Modifier Letter]]></text>
+    <text x='20' y='2210' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Circumflex Accent, Spacing]]></text>
+    <text x='20' y='2224' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cjk Angle Brackets]]></text>
+    <text x='20' y='2238' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cjk Compatibility]]></text>
+    <text x='20' y='2252' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cjk Compatibility Forms]]></text>
+    <text x='20' y='2266' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cjk Compatibility Ideographs]]></text>
+    <text x='20' y='2280' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cjk Compatibility Ideographs Supplement]]></text>
+    <text x='20' y='2294' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cjk Corner Brackets]]></text>
+    <text x='20' y='2308' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cjk Diacritics]]></text>
+    <text x='20' y='2322' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cjk Ideographic Description Characters]]></text>
+    <text x='20' y='2336' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cjk Ideographs Area]]></text>
+    <text x='20' y='2350' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cjk Ideographs Area, Supplementary]]></text>
+    <text x='20' y='2364' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cjk Ideographs, Parenthesized]]></text>
+    <text x='20' y='2378' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cjk Kangxi Radicals]]></text>
+    <text x='20' y='2392' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cjk Letters And Months, Enclosed]]></text>
+    <text x='20' y='2406' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cjk Phonetics And Symbols Area]]></text>
+    <text x='20' y='2420' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cjk Punctuation, Halfwidth]]></text>
+    <text x='20' y='2434' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cjk Quotation Marks]]></text>
+    <text x='20' y='2448' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cjk Radicals Supplement]]></text>
+    <text x='20' y='2462' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cjk Strokes]]></text>
+    <text x='20' y='2476' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cjk Symbols And Punctuation]]></text>
+    <text x='20' y='2490' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cjk Unified Ideographs]]></text>
+    <text x='20' y='2504' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cjk Unified Ideographs Extension A]]></text>
+    <text x='20' y='2518' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cjk Unified Ideographs Extension B]]></text>
+    <text x='20' y='2532' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Claudian Antisigma]]></text>
+    <text x='20' y='2546' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Claudian Digamma Inversum]]></text>
+    <text x='20' y='2560' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Clear Key]]></text>
+    <text x='20' y='2574' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Clear Screen Symbol]]></text>
+    <text x='20' y='2588' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Clear Weather]]></text>
+    <text x='20' y='2602' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Click, Latin Letter Alveolar]]></text>
+    <text x='20' y='2616' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Click, Latin Letter Bilabial]]></text>
+    <text x='20' y='2630' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Click, Latin Letter Dental]]></text>
+    <text x='20' y='2644' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Click, Latin Letter Lateral]]></text>
+    <text x='20' y='2658' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Click, Latin Letter Retroflex]]></text>
+    <text x='20' y='2672' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Clicks, African Letters For]]></text>
+    <text x='20' y='2686' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Clockwise Arrow Above, Combining]]></text>
+    <text x='20' y='2700' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Clockwise Contour Integral]]></text>
+    <text x='20' y='2714' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Clockwise Integral]]></text>
+    <text x='20' y='2728' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Clockwise Ring Overlay, Combining]]></text>
+    <text x='20' y='2742' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Clone]]></text>
+    <text x='20' y='2756' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Clones Of Diacritics, Spacing]]></text>
+    <text x='20' y='2770' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Close Up]]></text>
+    <text x='20' y='2784' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Closed Epsilon, Latin Small Letter]]></text>
+    <text x='20' y='2798' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Closed Omega, Latin Small Letter]]></text>
+    <text x='20' y='2812' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Closed Open E, Latin Small Letter]]></text>
+    <text x='20' y='2826' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Closed Reversed Epsilon, Latin Small Letter]]></text>
+    <text x='20' y='2840' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Closed Reversed Open E, Latin Small Letter]]></text>
+    <text x='20' y='2854' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Closing Brace]]></text>
+    <text x='20' y='2868' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Closing Curly Bracket]]></text>
+    <text x='20' y='2882' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Closing Mark, Ideographic]]></text>
+    <text x='20' y='2896' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Closing Parenthesis]]></text>
+    <text x='20' y='2910' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Closing Square Bracket]]></text>
+    <text x='20' y='2924' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cloud]]></text>
+    <text x='20' y='2938' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cloudy Weather]]></text>
+    <text x='20' y='2952' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Coffee, Cup Of]]></text>
+    <text x='20' y='2966' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Coffin]]></text>
+    <text x='20' y='2980' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Colon]]></text>
+    <text x='20' y='2994' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Colon Equals]]></text>
+    <text x='20' y='3008' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Colon Right Arrow]]></text>
+    <text x='20' y='3022' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Colon Sign]]></text>
+    <text x='20' y='3036' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Colon, Equals]]></text>
+    <text x='20' y='3050' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Colon, Ethiopic]]></text>
+    <text x='20' y='3064' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Colon, Ethiopic Preface]]></text>
+    <text x='20' y='3078' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Colon, Modifier Letter Half Triangular]]></text>
+    <text x='20' y='3092' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Colon, Modifier Letter Triangular]]></text>
+    <text x='20' y='3106' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Colon, Mongolian]]></text>
+    <text x='20' y='3120' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Colon, Z Notation Type]]></text>
+    <text x='20' y='3134' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Acute Accent]]></text>
+    <text x='20' y='3148' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Acute Accent Below]]></text>
+    <text x='20' y='3162' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Acute Tone Mark]]></text>
+    <text x='20' y='3176' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Almost Equal To Above]]></text>
+    <text x='20' y='3190' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Alphabet, Korean Hangul Jamo]]></text>
+    <text x='20' y='3204' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Annuity Symbol]]></text>
+    <text x='20' y='3218' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Anticlockwise Arrow Above]]></text>
+    <text x='20' y='3232' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Anticlockwise Ring Overlay]]></text>
+    <text x='20' y='3246' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Asterisk Above]]></text>
+    <text x='20' y='3260' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Asterisk Below]]></text>
+    <text x='20' y='3274' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Breve]]></text>
+    <text x='20' y='3288' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Breve Below]]></text>
+    <text x='20' y='3302' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Bridge Above]]></text>
+    <text x='20' y='3316' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Bridge Below]]></text>
+    <text x='20' y='3330' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Candrabindu]]></text>
+    <text x='20' y='3344' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Caron]]></text>
+    <text x='20' y='3358' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Caron Below]]></text>
+    <text x='20' y='3372' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Cedilla]]></text>
+    <text x='20' y='3386' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Characters, Cyrillic]]></text>
+    <text x='20' y='3400' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Circumflex Accent]]></text>
+    <text x='20' y='3414' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Circumflex Accent Below]]></text>
+    <text x='20' y='3428' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Clockwise Arrow Above]]></text>
+    <text x='20' y='3442' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Clockwise Ring Overlay]]></text>
+    <text x='20' y='3456' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Comma Above]]></text>
+    <text x='20' y='3470' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Comma Above Right]]></text>
+    <text x='20' y='3484' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Comma Below]]></text>
+    <text x='20' y='3498' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Conjoining Macron]]></text>
+    <text x='20' y='3512' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Counterclockwise Arrow Above]]></text>
+    <text x='20' y='3526' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Counterclockwise Ring Overlay]]></text>
+    <text x='20' y='3540' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Diacritical Marks]]></text>
+    <text x='20' y='3554' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Diacritical Marks For Symbols]]></text>
+    <text x='20' y='3568' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Diaeresis]]></text>
+    <text x='20' y='3582' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Diaeresis Below]]></text>
+    <text x='20' y='3596' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Dot Above]]></text>
+    <text x='20' y='3610' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Dot Above Right]]></text>
+    <text x='20' y='3624' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Dot Below]]></text>
+    <text x='20' y='3638' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Double Acute Accent]]></text>
+    <text x='20' y='3652' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Double Breve]]></text>
+    <text x='20' y='3666' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Double Breve Below]]></text>
+    <text x='20' y='3680' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Double Grave Accent]]></text>
+    <text x='20' y='3694' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Double Inverted Breve]]></text>
+    <text x='20' y='3708' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Double Low Line]]></text>
+    <text x='20' y='3722' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Double Macron]]></text>
+    <text x='20' y='3736' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Double Macron Below]]></text>
+    <text x='20' y='3750' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Double Overline]]></text>
+    <text x='20' y='3764' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Double Rightwards Arrow Below]]></text>
+    <text x='20' y='3778' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Double Ring Below]]></text>
+    <text x='20' y='3792' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Double Tilde]]></text>
+    <text x='20' y='3806' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Double Vertical Line Above]]></text>
+    <text x='20' y='3820' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Double Vertical Line Below]]></text>
+    <text x='20' y='3834' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Double Vertical Stroke Overlay]]></text>
+    <text x='20' y='3848' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Down Tack Below]]></text>
+    <text x='20' y='3862' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Enclosing Circle]]></text>
+    <text x='20' y='3876' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Enclosing Circle Backslash]]></text>
+    <text x='20' y='3890' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Enclosing Diamond]]></text>
+    <text x='20' y='3904' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Enclosing Keycap]]></text>
+    <text x='20' y='3918' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Enclosing Screen]]></text>
+    <text x='20' y='3932' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Enclosing Square]]></text>
+    <text x='20' y='3946' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Enclosing Upward Pointing Triangle]]></text>
+    <text x='20' y='3960' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Equals Sign Below]]></text>
+    <text x='20' y='3974' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Fermata]]></text>
+    <text x='20' y='3988' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Four Dots Above]]></text>
+    <text x='20' y='4002' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Grapheme Joiner]]></text>
+    <text x='20' y='4016' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Grave Accent]]></text>
+    <text x='20' y='4030' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Grave Accent Below]]></text>
+    <text x='20' y='4044' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Grave Tone Mark]]></text>
+    <text x='20' y='4058' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Greek Dialytika Tonos]]></text>
+    <text x='20' y='4072' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Greek Koronis]]></text>
+    <text x='20' y='4086' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Greek Perispomeni]]></text>
+    <text x='20' y='4100' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Greek Ypogegrammeni]]></text>
+    <text x='20' y='4114' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Hacek]]></text>
+    <text x='20' y='4128' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Half Marks]]></text>
+    <text x='20' y='4142' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Homothetic Above]]></text>
+    <text x='20' y='4156' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Hook Above]]></text>
+    <text x='20' y='4170' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Horn]]></text>
+    <text x='20' y='4184' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Inverted Breve]]></text>
+    <text x='20' y='4198' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Inverted Breve Below]]></text>
+    <text x='20' y='4212' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Inverted Bridge Below]]></text>
+    <text x='20' y='4226' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Inverted Double Arch Below]]></text>
+    <text x='20' y='4240' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Japanese Daku On]]></text>
+    <text x='20' y='4254' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Japanese Han Daku On]]></text>
+    <text x='20' y='4268' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Latin Small Letters]]></text>
+    <text x='20' y='4282' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Left Angle Above]]></text>
+    <text x='20' y='4296' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Left Angle Below]]></text>
+    <text x='20' y='4310' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Left Arrow Above]]></text>
+    <text x='20' y='4324' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Left Arrow Below]]></text>
+    <text x='20' y='4338' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Left Arrowhead Below]]></text>
+    <text x='20' y='4352' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Left Half Ring Above]]></text>
+    <text x='20' y='4366' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Left Half Ring Below]]></text>
+    <text x='20' y='4380' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Left Harpoon Above]]></text>
+    <text x='20' y='4394' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Left Right Arrow Above]]></text>
+    <text x='20' y='4408' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Left Right Arrow Below]]></text>
+    <text x='20' y='4422' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Left Tack Below]]></text>
+    <text x='20' y='4436' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Leftwards Arrow Overlay]]></text>
+    <text x='20' y='4450' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Leftwards Harpoon With Barb Downwards]]></text>
+    <text x='20' y='4464' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Long Double Solidus Overlay]]></text>
+    <text x='20' y='4478' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Long Solidus Overlay]]></text>
+    <text x='20' y='4492' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Long Stroke Overlay]]></text>
+    <text x='20' y='4506' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Long Vertical Line Overlay]]></text>
+    <text x='20' y='4520' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Low Line]]></text>
+    <text x='20' y='4534' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Macron]]></text>
+    <text x='20' y='4548' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Macron Below]]></text>
+    <text x='20' y='4562' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Macron Left Half]]></text>
+    <text x='20' y='4576' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Macron Right Half]]></text>
+    <text x='20' y='4590' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Marks, Arabic]]></text>
+    <text x='20' y='4604' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Minus Sign Below]]></text>
+    <text x='20' y='4618' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Not Tilde Above]]></text>
+    <text x='20' y='4632' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Ogonek]]></text>
+    <text x='20' y='4646' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Overline]]></text>
+    <text x='20' y='4660' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Palatalized Hook Below]]></text>
+    <text x='20' y='4674' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Plus Sign Below]]></text>
+    <text x='20' y='4688' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Retroflex Hook Below]]></text>
+    <text x='20' y='4702' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Reverse Solidus Overlay]]></text>
+    <text x='20' y='4716' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Reversed Comma Above]]></text>
+    <text x='20' y='4730' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Right Arrow Above]]></text>
+    <text x='20' y='4744' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Right Arrow Below]]></text>
+    <text x='20' y='4758' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Right Arrowhead Above]]></text>
+    <text x='20' y='4772' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Right Arrowhead Below]]></text>
+    <text x='20' y='4786' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Right Half Ring Above]]></text>
+    <text x='20' y='4800' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Right Half Ring Below]]></text>
+    <text x='20' y='4814' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Right Harpoon Above]]></text>
+    <text x='20' y='4828' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Right Tack Below]]></text>
+    <text x='20' y='4842' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Rightwards Harpoon With Barb Downwards]]></text>
+    <text x='20' y='4856' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Ring Above]]></text>
+    <text x='20' y='4870' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Ring Below]]></text>
+    <text x='20' y='4884' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Ring Overlay]]></text>
+    <text x='20' y='4898' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Seagull Below]]></text>
+    <text x='20' y='4912' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Short Solidus Overlay]]></text>
+    <text x='20' y='4926' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Short Stroke Overlay]]></text>
+    <text x='20' y='4940' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Short Vertical Line Overlay]]></text>
+    <text x='20' y='4954' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Square Below]]></text>
+    <text x='20' y='4968' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Three Dots Above]]></text>
+    <text x='20' y='4982' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Tilde]]></text>
+    <text x='20' y='4996' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Tilde Below]]></text>
+    <text x='20' y='5010' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Tilde Overlay]]></text>
+    <text x='20' y='5024' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Triple Underdot]]></text>
+    <text x='20' y='5038' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Turned Comma Above]]></text>
+    <text x='20' y='5052' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Up Tack Below]]></text>
+    <text x='20' y='5066' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Upwards Arrow Below]]></text>
+    <text x='20' y='5080' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Vertical Line Above]]></text>
+    <text x='20' y='5094' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Vertical Line Below]]></text>
+    <text x='20' y='5108' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Vertical Tilde]]></text>
+    <text x='20' y='5122' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Wide Bridge Above]]></text>
+    <text x='20' y='5136' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining X Above]]></text>
+    <text x='20' y='5150' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining X Below]]></text>
+    <text x='20' y='5164' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Combining Zigzag Above]]></text>
+    <text x='20' y='5178' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[Comet]]></text>
+    <text x='20' y='5191' font-family='Courier' font-size='11' stroke='none' fill='#000000' ><![CDATA[Comma]]></text>
+    <text x='20' y='5206' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Comma Above Right, Combining]]></text>
+    <text x='20' y='5220' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Comma Above, Combining]]></text>
+    <text x='20' y='5234' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Comma Above, Combining Reversed]]></text>
+    <text x='20' y='5248' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Comma Above, Combining Turned]]></text>
+    <text x='20' y='5262' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Comma Below, Combining]]></text>
+    <text x='20' y='5276' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Comma Quotation Mark, Double]]></text>
+    <text x='20' y='5290' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Comma Quotation Mark, Double Reversed]]></text>
+    <text x='20' y='5304' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Comma Quotation Mark, Double Turned]]></text>
+    <text x='20' y='5318' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Comma Quotation Mark, Low Double]]></text>
+    <text x='20' y='5332' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Comma Quotation Mark, Low Single]]></text>
+    <text x='20' y='5346' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Comma Quotation Mark, Single]]></text>
+    <text x='20' y='5360' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Comma Quotation Mark, Single Reversed]]></text>
+    <text x='20' y='5374' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Comma Quotation Mark, Single Turned]]></text>
+    <text x='20' y='5388' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Comma, Arabic]]></text>
+    <text x='20' y='5402' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[Comma, Armenian]]></text>
+    <text x='20' y='5416' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Comma, Ethiopic]]></text>
+    <text x='20' y='5430' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Comma, Georgian]]></text>
+    <text x='20' y='5444' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Comma, Ideographic]]></text>
+    <text x='20' y='5458' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Comma, Invisible]]></text>
+    <text x='20' y='5472' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Comma, Modifier Letter Reversed]]></text>
+    <text x='20' y='5486' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Comma, Modifier Letter Turned]]></text>
+    <text x='20' y='5500' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Comma, Mongolian]]></text>
+    <text x='20' y='5514' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Comma, Mongolian Manchu]]></text>
+    <text x='20' y='5528' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[Command Key]]></text>
+    <text x='20' y='5542' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Command, Application Program]]></text>
+    <text x='20' y='5556' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Command, Operating System]]></text>
+    <text x='20' y='5570' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Commercial At]]></text>
+    <text x='20' y='5584' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Commercial Minus Sign]]></text>
+    <text x='20' y='5598' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[Compass]]></text>
+    <text x='20' y='5612' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Compatibility And Specials Area]]></text>
+    <text x='20' y='5626' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Compatibility Forms, Cjk]]></text>
+    <text x='20' y='5640' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Compatibility Ideographs Supplement, Cjk]]></text>
+    <text x='20' y='5654' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Compatibility Ideographs, Cjk]]></text>
+    <text x='20' y='5668' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Compatibility Ideographs, Dprk]]></text>
+    <text x='20' y='5682' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Compatibility Ideographs, Jis X 0213]]></text>
+    <text x='20' y='5696' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Compatibility Jamo, Korean Hangul]]></text>
+    <text x='20' y='5710' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Compatibility, Cjk]]></text>
+    <text x='20' y='5724' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[Complement]]></text>
+    <text x='20' y='5738' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[Complex Numbers]]></text>
+    <text x='20' y='5752' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Component, Radial]]></text>
+    <text x='20' y='5766' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Components, Form And Chart]]></text>
+    <text x='20' y='5780' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Composite Function]]></text>
+    <text x='20' y='5794' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Composition Circle, Jis]]></text>
+    <text x='20' y='5808' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Composition Symbol]]></text>
+    <text x='20' y='5822' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Concatenation, Sequence]]></text>
+    <text x='20' y='5836' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Conical Taper]]></text>
+    <text x='20' y='5850' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Conjoining Macron, Combining]]></text>
+    <text x='20' y='5864' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Conjugate Matrix, Hermitian]]></text>
+    <text x='20' y='5878' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Conjunction]]></text>
+    <text x='20' y='5892' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Conjunction]]></text>
+    <text x='20' y='5906' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Constant Pi, Mathematical]]></text>
+    <text x='20' y='5920' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Constant, Euler]]></text>
+    <text x='20' y='5934' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Constant, Planck]]></text>
+    <text x='20' y='5948' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Constantine's Cross]]></text>
+    <text x='20' y='5962' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Contains As Member]]></text>
+    <text x='20' y='5976' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Contains As Member, Small]]></text>
+    <text x='20' y='5990' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Contains As Normal Subgroup]]></text>
+    <text x='20' y='6004' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Contextual Form Glyphs, Arabic]]></text>
+    <text x='20' y='6018' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Contextual Form Glyphs, Arabic]]></text>
+    <text x='20' y='6032' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Continuity, Absolute]]></text>
+    <text x='20' y='6046' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Continuous Underline Symbol]]></text>
+    <text x='20' y='6060' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Continuum, Second Transfinite Cardinal]]></text>
+    <text x='20' y='6074' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Contour Integral]]></text>
+    <text x='20' y='6088' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Contour Integral, Anticlockwise]]></text>
+    <text x='20' y='6102' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Contour Integral, Clockwise]]></text>
+    <text x='20' y='6116' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Contour Integral, Counterclockwise]]></text>
+    <text x='20' y='6130' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Contraction Operator]]></text>
+    <text x='20' y='6144' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Control]]></text>
+    <text x='20' y='6158' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Control Code Graphics, Quadrant]]></text>
+    <text x='20' y='6172' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Control Codes, Graphic Pictures For]]></text>
+    <text x='20' y='6186' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Control Codes, Graphics For]]></text>
+    <text x='20' y='6200' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Control Sequence Introducer]]></text>
+    <text x='20' y='6214' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Controls, Bidirectional Format]]></text>
+    <text x='20' y='6228' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Controls, Mongolian Format]]></text>
+    <text x='20' y='6242' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Coproduct Sign]]></text>
+    <text x='20' y='6256' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Coproduct, N Ary]]></text>
+    <text x='20' y='6270' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Coptic Letters Derived From Demotic]]></text>
+    <text x='20' y='6284' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Coptic, Bohairic]]></text>
+    <text x='20' y='6298' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Coptic, Continuous Macrons For]]></text>
+    <text x='20' y='6312' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Coptic, Extended]]></text>
+    <text x='20' y='6326' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Copyright Sign]]></text>
+    <text x='20' y='6340' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Copyright, Sound Recording]]></text>
+    <text x='20' y='6354' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Corner Brackets]]></text>
+    <text x='20' y='6368' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Corner Brackets, Cjk]]></text>
+    <text x='20' y='6382' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Corner Tone Marks For Chinese]]></text>
+    <text x='20' y='6396' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Corners, Quine]]></text>
+    <text x='20' y='6410' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Corresponds To]]></text>
+    <text x='20' y='6424' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Corresponds To]]></text>
+    <text x='20' y='6438' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Costa Rican Currency]]></text>
+    <text x='20' y='6452' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Countable, First Transfinite Cardinal]]></text>
+    <text x='20' y='6466' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Counterbore]]></text>
+    <text x='20' y='6480' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Counterclockwise Arrow Above, Combining]]></text>
+    <text x='20' y='6494' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Counterclockwise Contour Integral]]></text>
+    <text x='20' y='6508' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Counterclockwise Integration]]></text>
+    <text x='20' y='6522' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Counterclockwise Ring Overlay, Combining]]></text>
+    <text x='20' y='6536' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Countersink]]></text>
+    <text x='20' y='6550' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Credit Sign, Tamil]]></text>
+    <text x='20' y='6564' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cremated Symbol]]></text>
+    <text x='20' y='6578' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Crescent, Star And]]></text>
+    <text x='20' y='6592' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Croatian Digraphs Matching Serbian Cyrillic Letters]]></text>
+    <text x='20' y='6606' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Crops]]></text>
+    <text x='20' y='6620' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cross Accent, Modifier Letter]]></text>
+    <text x='20' y='6634' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cross Dingbats]]></text>
+    <text x='20' y='6648' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cross Of Jerusalem]]></text>
+    <text x='20' y='6662' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cross Of Lorraine]]></text>
+    <text x='20' y='6676' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cross Ratio]]></text>
+    <text x='20' y='6690' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cross, Constantine's]]></text>
+    <text x='20' y='6704' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cross, Dotted]]></text>
+    <text x='20' y='6718' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cross, East Syriac]]></text>
+    <text x='20' y='6732' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cross, Latin]]></text>
+    <text x='20' y='6746' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cross, Long]]></text>
+    <text x='20' y='6760' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cross, Maltese]]></text>
+    <text x='20' y='6774' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cross, Orthodox]]></text>
+    <text x='20' y='6788' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cross, St. Andrew's]]></text>
+    <text x='20' y='6802' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cross, West Syriac]]></text>
+    <text x='20' y='6816' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Crossed Swords]]></text>
+    <text x='20' y='6830' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Crosses]]></text>
+    <text x='20' y='6844' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Crosshatch]]></text>
+    <text x='20' y='6858' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cruzeiro Sign]]></text>
+    <text x='20' y='6872' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cube Root]]></text>
+    <text x='20' y='6886' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[Cubed]]></text>
+    <text x='20' y='6900' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cuneiform]]></text>
+    <text x='20' y='6914' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cuneiform Numbers And Punctuation]]></text>
+    <text x='20' y='6928' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[Cup]]></text>
+    <text x='20' y='6942' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cup Of Coffee]]></text>
+    <text x='20' y='6956' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cup Of Tea]]></text>
+    <text x='20' y='6970' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cup, Square]]></text>
+    <text x='20' y='6984' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Curled Beta]]></text>
+    <text x='20' y='6998' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Curly Bracket, Closing]]></text>
+    <text x='20' y='7012' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Curly Bracket, Left]]></text>
+    <text x='20' y='7026' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Curly Bracket, Left White]]></text>
+    <text x='20' y='7040' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Curly Bracket, Opening]]></text>
+    <text x='20' y='7054' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Curly Bracket, Right]]></text>
+    <text x='20' y='7068' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Curly Bracket, Right White]]></text>
+    <text x='20' y='7082' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Curly Logical And]]></text>
+    <text x='20' y='7096' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Curly Logical Or]]></text>
+    <text x='20' y='7110' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency Sign]]></text>
+    <text x='20' y='7124' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency Signs, Bengali]]></text>
+    <text x='20' y='7138' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency Symbol Baht, Thai]]></text>
+    <text x='20' y='7152' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency Symbol Riel, Khmer]]></text>
+    <text x='20' y='7166' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency Symbol, Florin]]></text>
+    <text x='20' y='7180' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency Symbols]]></text>
+    <text x='20' y='7194' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency, Argentinian Former]]></text>
+    <text x='20' y='7208' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency, Brazilian]]></text>
+    <text x='20' y='7222' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency, Costa Rican]]></text>
+    <text x='20' y='7236' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency, El Salvadorian]]></text>
+    <text x='20' y='7250' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency, Euro European]]></text>
+    <text x='20' y='7264' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency, French]]></text>
+    <text x='20' y='7278' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency, Ghana]]></text>
+    <text x='20' y='7292' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency, Greek]]></text>
+    <text x='20' y='7306' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency, Indian]]></text>
+    <text x='20' y='7320' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency, Iranian]]></text>
+    <text x='20' y='7334' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency, Israeli]]></text>
+    <text x='20' y='7348' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency, Italian]]></text>
+    <text x='20' y='7362' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency, Korean]]></text>
+    <text x='20' y='7376' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency, Laotian]]></text>
+    <text x='20' y='7390' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency, Mongolian]]></text>
+    <text x='20' y='7404' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency, Nigerian]]></text>
+    <text x='20' y='7418' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency, Paraguayan]]></text>
+    <text x='20' y='7432' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency, Phillipine]]></text>
+    <text x='20' y='7446' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency, Spanish]]></text>
+    <text x='20' y='7460' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency, Turkish]]></text>
+    <text x='20' y='7474' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency, Ukrainian]]></text>
+    <text x='20' y='7488' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Currency, Vietnamese]]></text>
+    <text x='20' y='7502' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Current Symbol Form Two, Direct]]></text>
+    <text x='20' y='7516' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Current, AC]]></text>
+    <text x='20' y='7530' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Current, Alternating]]></text>
+    <text x='20' y='7544' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Current, Direct, Symbol Form Two]]></text>
+    <text x='20' y='7558' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cursor Down, Fast]]></text>
+    <text x='20' y='7572' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cursor Left, Fast]]></text>
+    <text x='20' y='7586' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cursor Right, Fast]]></text>
+    <text x='20' y='7600' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cursor Up, Fast]]></text>
+    <text x='20' y='7614' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cycle]]></text>
+    <text x='20' y='7628' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cylindricity]]></text>
+    <text x='20' y='7642' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cypriot Syllabary]]></text>
+    <text x='20' y='7656' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cyrillic]]></text>
+    <text x='20' y='7670' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cyrillic Capital Letters]]></text>
+    <text x='20' y='7684' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cyrillic Combining Characters]]></text>
+    <text x='20' y='7698' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cyrillic Extended A]]></text>
+    <text x='20' y='7712' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cyrillic Extended B]]></text>
+    <text x='20' y='7726' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cyrillic Extensions]]></text>
+    <text x='20' y='7740' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cyrillic Extensions]]></text>
+    <text x='20' y='7754' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cyrillic Historic Letters]]></text>
+    <text x='20' y='7768' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cyrillic Small Letters]]></text>
+    <text x='20' y='7782' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Cyrillic Supplement]]></text>
+    <text x='570' y='54' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Entity]]></text>
+    <text x='570' y='68' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0107;]]></text>
+    <text x='570' y='82' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x010D;]]></text>
+    <text x='570' y='96' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x00C7;]]></text>
+    <text x='570' y='110' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x00E7;]]></text>
+    <text x='570' y='124' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0109;]]></text>
+    <text x='570' y='138' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0255;]]></text>
+    <text x='570' y='152' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x010B;]]></text>
+    <text x='570' y='166' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0188;]]></text>
+    <text x='570' y='180' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x023B;]]></text>
+    <text x='570' y='194' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x023C;]]></text>
+    <text x='570' y='208' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2183;]]></text>
+    <text x='570' y='222' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x212D;]]></text>
+    <text x='570' y='236' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0368;]]></text>
+    <text x='570' y='250' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2102;]]></text>
+    <text x='570' y='264' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x1D04;]]></text>
+    <text x='570' y='278' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0297;]]></text>
+    <text x='570' y='292' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2184;]]></text>
+    <text x='570' y='306' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2106;]]></text>
+    <text x='570' y='320' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2624;]]></text>
+    <text x='570' y='334' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x1780;]]></text>
+    <text x='570' y='348' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x1400;]]></text>
+    <text x='570' y='362' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x166E;]]></text>
+    <text x='570' y='376' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x166D;]]></text>
+    <text x='570' y='390' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0018;]]></text>
+    <text x='570' y='404' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0094;]]></text>
+    <text x='570' y='418' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#xE007F;]]></text>
+    <text x='570' y='432' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2418;]]></text>
+    <text x='570' y='446' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x0ECC;]]></text>
+    <text x='570' y='460' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x264B;]]></text>
+    <text x='570' y='474' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0310;]]></text>
+    <text x='570' y='488' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0901;]]></text>
+    <text x='570' y='502' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0591;]]></text>
+    <text x='570' y='516' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0FC0;]]></text>
+    <text x='570' y='530' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2229;]]></text>
+    <text x='570' y='544' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2293;]]></text>
+    <text x='570' y='558' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0531;]]></text>
+    <text x='570' y='572' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0400;]]></text>
+    <text x='570' y='586' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x10A0;]]></text>
+    <text x='570' y='600' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0391;]]></text>
+    <text x='570' y='614' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0041;]]></text>
+    <text x='570' y='628' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2651;]]></text>
+    <text x='570' y='642' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x21EA;]]></text>
+    <text x='570' y='656' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x21EC;]]></text>
+    <text x='570' y='670' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2660;]]></text>
+    <text x='570' y='684' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2135;]]></text>
+    <text x='570' y='698' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2138;]]></text>
+    <text x='570' y='712' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2136;]]></text>
+    <text x='570' y='726' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2137;]]></text>
+    <text x='570' y='740' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2105;]]></text>
+    <text x='570' y='754' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x028C;]]></text>
+    <text x='570' y='768' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2038;]]></text>
+    <text x='570' y='782' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2041;]]></text>
+    <text x='570' y='796' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x102A0;]]></text>
+    <text x='570' y='810' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x02C7;]]></text>
+    <text x='570' y='824' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x032C;]]></text>
+    <text x='570' y='838' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x030C;]]></text>
+    <text x='570' y='852' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x000D;]]></text>
+    <text x='570' y='866' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x240D;]]></text>
+    <text x='570' y='880' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x00D7;]]></text>
+    <text x='570' y='894' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2621;]]></text>
+    <text x='570' y='908' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20B5;]]></text>
+    <text x='570' y='922' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x00B8;]]></text>
+    <text x='570' y='936' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0312;]]></text>
+    <text x='570' y='950' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0327;]]></text>
+    <text x='570' y='964' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x00C7;]]></text>
+    <text x='570' y='978' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x00E7;]]></text>
+    <text x='570' y='992' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x00B8;]]></text>
+    <text x='570' y='1006' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2308;]]></text>
+    <text x='570' y='1020' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2309;]]></text>
+    <text x='570' y='1034' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2103;]]></text>
+    <text x='570' y='1048' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x00A2;]]></text>
+    <text x='570' y='1062' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2385;]]></text>
+    <text x='570' y='1076' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2103;]]></text>
+    <text x='570' y='1090' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2104;]]></text>
+    <text x='570' y='1104' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#xFE4E;]]></text>
+    <text x='570' y='1118' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#xFE4A;]]></text>
+    <text x='570' y='1132' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#xAA00;]]></text>
+    <text x='570' y='1146' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x0D4D;]]></text>
+    <text x='570' y='1160' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x009A;]]></text>
+    <text x='570' y='1174' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0009;]]></text>
+    <text x='570' y='1188' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0088;]]></text>
+    <text x='570' y='1202' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0089;]]></text>
+    <text x='570' y='1216' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2040;]]></text>
+    <text x='570' y='1230' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2500;]]></text>
+    <text x='570' y='1244' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2713;]]></text>
+    <text x='570' y='1258' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2714;]]></text>
+    <text x='570' y='1272' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x237B;]]></text>
+    <text x='570' y='1286' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2611;]]></text>
+    <text x='570' y='1300' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x26C0;]]></text>
+    <text x='570' y='1314' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x13A0;]]></text>
+    <text x='570' y='1328' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2654;]]></text>
+    <text x='570' y='1342' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2616;]]></text>
+    <text x='570' y='1356' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x27EA;]]></text>
+    <text x='570' y='1370' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x27EB;]]></text>
+    <text x='570' y='1384' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x00AB;]]></text>
+    <text x='570' y='1398' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2627;]]></text>
+    <text x='570' y='1412' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x0D7A;]]></text>
+    <text x='570' y='1426' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x3100;]]></text>
+    <text x='570' y='1440' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x31A0;]]></text>
+    <text x='570' y='1454' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x02D9;]]></text>
+    <text x='570' y='1468' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x02C9;]]></text>
+    <text x='570' y='1482' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x02CB;]]></text>
+    <text x='570' y='1496' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x02CA;]]></text>
+    <text x='570' y='1510' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x02C7;]]></text>
+    <text x='570' y='1524' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#xA700;]]></text>
+    <text x='570' y='1538' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2AFE;]]></text>
+    <text x='570' y='1552' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2AFF;]]></text>
+    <text x='570' y='1566' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2627;]]></text>
+    <text x='570' y='1580' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20E0;]]></text>
+    <text x='570' y='1594' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x29B5;]]></text>
+    <text x='570' y='1608' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x25CF;]]></text>
+    <text x='570' y='1622' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2022;]]></text>
+    <text x='570' y='1636' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20DD;]]></text>
+    <text x='570' y='1650' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x25CC;]]></text>
+    <text x='570' y='1664' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20DD;]]></text>
+    <text x='570' y='1678' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x25EF;]]></text>
+    <text x='570' y='1692' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x26AB;]]></text>
+    <text x='570' y='1706' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x26AC;]]></text>
+    <text x='570' y='1720' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x26AA;]]></text>
+    <text x='570' y='1734' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x274D;]]></text>
+    <text x='570' y='1748' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x25CB;]]></text>
+    <text x='570' y='1762' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x229B;]]></text>
+    <text x='570' y='1776' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x229D;]]></text>
+    <text x='570' y='1790' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x24EA;]]></text>
+    <text x='570' y='1804' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2776;]]></text>
+    <text x='570' y='1818' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x2A38;]]></text>
+    <text x='570' y='1832' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2298;]]></text>
+    <text x='570' y='1846' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2299;]]></text>
+    <text x='570' y='1860' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x2A00;]]></text>
+    <text x='570' y='1874' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x229C;]]></text>
+    <text x='570' y='1888' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x3280;]]></text>
+    <text x='570' y='1902' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2776;]]></text>
+    <text x='570' y='1916' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x32D0;]]></text>
+    <text x='570' y='1930' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x3260;]]></text>
+    <text x='570' y='1944' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x326E;]]></text>
+    <text x='570' y='1958' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x24B6;]]></text>
+    <text x='570' y='1972' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2296;]]></text>
+    <text x='570' y='1986' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2460;]]></text>
+    <text x='570' y='2000' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x3251;]]></text>
+    <text x='570' y='2014' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x32B1;]]></text>
+    <text x='570' y='2028' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x24F5;]]></text>
+    <text x='570' y='2042' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x24EB;]]></text>
+    <text x='570' y='2056' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2295;]]></text>
+    <text x='570' y='2070' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x2A01;]]></text>
+    <text x='570' y='2084' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x3036;]]></text>
+    <text x='570' y='2098' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x229A;]]></text>
+    <text x='570' y='2112' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2297;]]></text>
+    <text x='570' y='2126' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x2A02;]]></text>
+    <text x='570' y='2140' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x25CB;]]></text>
+    <text x='570' y='2154' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x005E;]]></text>
+    <text x='570' y='2168' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x032D;]]></text>
+    <text x='570' y='2182' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0302;]]></text>
+    <text x='570' y='2196' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x02C6;]]></text>
+    <text x='570' y='2210' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x005E;]]></text>
+    <text x='570' y='2224' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x3008;]]></text>
+    <text x='570' y='2238' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x3300;]]></text>
+    <text x='570' y='2252' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#xFE30;]]></text>
+    <text x='570' y='2266' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#xF900;]]></text>
+    <text x='570' y='2280' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2F800;]]></text>
+    <text x='570' y='2294' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x300C;]]></text>
+    <text x='570' y='2308' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x302A;]]></text>
+    <text x='570' y='2322' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2FF0;]]></text>
+    <text x='570' y='2336' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x3400;]]></text>
+    <text x='570' y='2350' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20000;]]></text>
+    <text x='570' y='2364' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x3220;]]></text>
+    <text x='570' y='2378' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2F00;]]></text>
+    <text x='570' y='2392' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x3200;]]></text>
+    <text x='570' y='2406' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2E80;]]></text>
+    <text x='570' y='2420' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#xFF61;]]></text>
+    <text x='570' y='2434' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x300C;]]></text>
+    <text x='570' y='2448' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2E80;]]></text>
+    <text x='570' y='2462' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x31C0;]]></text>
+    <text x='570' y='2476' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x3000;]]></text>
+    <text x='570' y='2490' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x4E00;]]></text>
+    <text x='570' y='2504' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x3400;]]></text>
+    <text x='570' y='2518' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20000;]]></text>
+    <text x='570' y='2532' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2183;]]></text>
+    <text x='570' y='2546' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2132;]]></text>
+    <text x='570' y='2560' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2327;]]></text>
+    <text x='570' y='2574' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x239A;]]></text>
+    <text x='570' y='2588' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2600;]]></text>
+    <text x='570' y='2602' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x01C2;]]></text>
+    <text x='570' y='2616' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0298;]]></text>
+    <text x='570' y='2630' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x01C0;]]></text>
+    <text x='570' y='2644' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x01C1;]]></text>
+    <text x='570' y='2658' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x01C3;]]></text>
+    <text x='570' y='2672' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x01C0;]]></text>
+    <text x='570' y='2686' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20D5;]]></text>
+    <text x='570' y='2700' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2232;]]></text>
+    <text x='570' y='2714' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2231;]]></text>
+    <text x='570' y='2728' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20D9;]]></text>
+    <text x='570' y='2742' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2104;]]></text>
+    <text x='570' y='2756' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x02D8;]]></text>
+    <text x='570' y='2770' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2050;]]></text>
+    <text x='570' y='2784' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x029A;]]></text>
+    <text x='570' y='2798' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0277;]]></text>
+    <text x='570' y='2812' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x029A;]]></text>
+    <text x='570' y='2826' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x025E;]]></text>
+    <text x='570' y='2840' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x025E;]]></text>
+    <text x='570' y='2854' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x007D;]]></text>
+    <text x='570' y='2868' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x007D;]]></text>
+    <text x='570' y='2882' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x3006;]]></text>
+    <text x='570' y='2896' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0029;]]></text>
+    <text x='570' y='2910' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x005D;]]></text>
+    <text x='570' y='2924' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2601;]]></text>
+    <text x='570' y='2938' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2601;]]></text>
+    <text x='570' y='2952' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2615;]]></text>
+    <text x='570' y='2966' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x26B0;]]></text>
+    <text x='570' y='2980' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x003A;]]></text>
+    <text x='570' y='2994' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2254;]]></text>
+    <text x='570' y='3008' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x29F4;]]></text>
+    <text x='570' y='3022' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20A1;]]></text>
+    <text x='570' y='3036' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2255;]]></text>
+    <text x='570' y='3050' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x1365;]]></text>
+    <text x='570' y='3064' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x1366;]]></text>
+    <text x='570' y='3078' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x02D1;]]></text>
+    <text x='570' y='3092' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x02D0;]]></text>
+    <text x='570' y='3106' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x1804;]]></text>
+    <text x='570' y='3120' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2982;]]></text>
+    <text x='570' y='3134' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0301;]]></text>
+    <text x='570' y='3148' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0317;]]></text>
+    <text x='570' y='3162' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0341;]]></text>
+    <text x='570' y='3176' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x034C;]]></text>
+    <text x='570' y='3190' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x1100;]]></text>
+    <text x='570' y='3204' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20E7;]]></text>
+    <text x='570' y='3218' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20D4;]]></text>
+    <text x='570' y='3232' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20DA;]]></text>
+    <text x='570' y='3246' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20F0;]]></text>
+    <text x='570' y='3260' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0359;]]></text>
+    <text x='570' y='3274' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0306;]]></text>
+    <text x='570' y='3288' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x032E;]]></text>
+    <text x='570' y='3302' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0346;]]></text>
+    <text x='570' y='3316' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x032A;]]></text>
+    <text x='570' y='3330' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0310;]]></text>
+    <text x='570' y='3344' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x030C;]]></text>
+    <text x='570' y='3358' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x032C;]]></text>
+    <text x='570' y='3372' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0327;]]></text>
+    <text x='570' y='3386' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0483;]]></text>
+    <text x='570' y='3400' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0302;]]></text>
+    <text x='570' y='3414' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x032D;]]></text>
+    <text x='570' y='3428' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20D5;]]></text>
+    <text x='570' y='3442' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20D9;]]></text>
+    <text x='570' y='3456' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0313;]]></text>
+    <text x='570' y='3470' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0315;]]></text>
+    <text x='570' y='3484' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0326;]]></text>
+    <text x='570' y='3498' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#xFE26;]]></text>
+    <text x='570' y='3512' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20D4;]]></text>
+    <text x='570' y='3526' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20DA;]]></text>
+    <text x='570' y='3540' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0300;]]></text>
+    <text x='570' y='3554' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20D0;]]></text>
+    <text x='570' y='3568' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0308;]]></text>
+    <text x='570' y='3582' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0324;]]></text>
+    <text x='570' y='3596' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0307;]]></text>
+    <text x='570' y='3610' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0358;]]></text>
+    <text x='570' y='3624' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0323;]]></text>
+    <text x='570' y='3638' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x030B;]]></text>
+    <text x='570' y='3652' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x035D;]]></text>
+    <text x='570' y='3666' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x035C;]]></text>
+    <text x='570' y='3680' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x030F;]]></text>
+    <text x='570' y='3694' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0361;]]></text>
+    <text x='570' y='3708' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0333;]]></text>
+    <text x='570' y='3722' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x035E;]]></text>
+    <text x='570' y='3736' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x035F;]]></text>
+    <text x='570' y='3750' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x033F;]]></text>
+    <text x='570' y='3764' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0362;]]></text>
+    <text x='570' y='3778' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x035A;]]></text>
+    <text x='570' y='3792' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0360;]]></text>
+    <text x='570' y='3806' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x030E;]]></text>
+    <text x='570' y='3820' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0348;]]></text>
+    <text x='570' y='3834' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20E6;]]></text>
+    <text x='570' y='3848' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x031E;]]></text>
+    <text x='570' y='3862' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20DD;]]></text>
+    <text x='570' y='3876' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20E0;]]></text>
+    <text x='570' y='3890' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20DF;]]></text>
+    <text x='570' y='3904' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20E3;]]></text>
+    <text x='570' y='3918' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20E2;]]></text>
+    <text x='570' y='3932' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20DE;]]></text>
+    <text x='570' y='3946' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20E4;]]></text>
+    <text x='570' y='3960' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0347;]]></text>
+    <text x='570' y='3974' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0352;]]></text>
+    <text x='570' y='3988' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20DC;]]></text>
+    <text x='570' y='4002' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x034F;]]></text>
+    <text x='570' y='4016' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0300;]]></text>
+    <text x='570' y='4030' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0316;]]></text>
+    <text x='570' y='4044' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0340;]]></text>
+    <text x='570' y='4058' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0344;]]></text>
+    <text x='570' y='4072' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0343;]]></text>
+    <text x='570' y='4086' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0342;]]></text>
+    <text x='570' y='4100' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0345;]]></text>
+    <text x='570' y='4114' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x030C;]]></text>
+    <text x='570' y='4128' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#xFE20;]]></text>
+    <text x='570' y='4142' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x034B;]]></text>
+    <text x='570' y='4156' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0309;]]></text>
+    <text x='570' y='4170' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x031B;]]></text>
+    <text x='570' y='4184' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0311;]]></text>
+    <text x='570' y='4198' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x032F;]]></text>
+    <text x='570' y='4212' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x033A;]]></text>
+    <text x='570' y='4226' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x032B;]]></text>
+    <text x='570' y='4240' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x3099;]]></text>
+    <text x='570' y='4254' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x309A;]]></text>
+    <text x='570' y='4268' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0363;]]></text>
+    <text x='570' y='4282' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x031A;]]></text>
+    <text x='570' y='4296' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0349;]]></text>
+    <text x='570' y='4310' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20D6;]]></text>
+    <text x='570' y='4324' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20EE;]]></text>
+    <text x='570' y='4338' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0354;]]></text>
+    <text x='570' y='4352' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0351;]]></text>
+    <text x='570' y='4366' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x031C;]]></text>
+    <text x='570' y='4380' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20D0;]]></text>
+    <text x='570' y='4394' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20E1;]]></text>
+    <text x='570' y='4408' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x034D;]]></text>
+    <text x='570' y='4422' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0318;]]></text>
+    <text x='570' y='4436' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20EA;]]></text>
+    <text x='570' y='4450' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20ED;]]></text>
+    <text x='570' y='4464' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20EB;]]></text>
+    <text x='570' y='4478' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0338;]]></text>
+    <text x='570' y='4492' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0336;]]></text>
+    <text x='570' y='4506' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20D2;]]></text>
+    <text x='570' y='4520' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0332;]]></text>
+    <text x='570' y='4534' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0304;]]></text>
+    <text x='570' y='4548' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0331;]]></text>
+    <text x='570' y='4562' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#xFE24;]]></text>
+    <text x='570' y='4576' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#xFE25;]]></text>
+    <text x='570' y='4590' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0653;]]></text>
+    <text x='570' y='4604' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0320;]]></text>
+    <text x='570' y='4618' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x034A;]]></text>
+    <text x='570' y='4632' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0328;]]></text>
+    <text x='570' y='4646' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0305;]]></text>
+    <text x='570' y='4660' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0321;]]></text>
+    <text x='570' y='4674' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x031F;]]></text>
+    <text x='570' y='4688' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0322;]]></text>
+    <text x='570' y='4702' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20E5;]]></text>
+    <text x='570' y='4716' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0314;]]></text>
+    <text x='570' y='4730' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20D7;]]></text>
+    <text x='570' y='4744' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20EF;]]></text>
+    <text x='570' y='4758' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0350;]]></text>
+    <text x='570' y='4772' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0355;]]></text>
+    <text x='570' y='4786' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0357;]]></text>
+    <text x='570' y='4800' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0339;]]></text>
+    <text x='570' y='4814' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20D1;]]></text>
+    <text x='570' y='4828' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0319;]]></text>
+    <text x='570' y='4842' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20EC;]]></text>
+    <text x='570' y='4856' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x030A;]]></text>
+    <text x='570' y='4870' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0325;]]></text>
+    <text x='570' y='4884' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20D8;]]></text>
+    <text x='570' y='4898' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x033C;]]></text>
+    <text x='570' y='4912' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0337;]]></text>
+    <text x='570' y='4926' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0335;]]></text>
+    <text x='570' y='4940' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20D3;]]></text>
+    <text x='570' y='4954' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x033B;]]></text>
+    <text x='570' y='4968' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20DB;]]></text>
+    <text x='570' y='4982' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0303;]]></text>
+    <text x='570' y='4996' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0330;]]></text>
+    <text x='570' y='5010' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0334;]]></text>
+    <text x='570' y='5024' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20E8;]]></text>
+    <text x='570' y='5038' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0312;]]></text>
+    <text x='570' y='5052' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x031D;]]></text>
+    <text x='570' y='5066' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x034E;]]></text>
+    <text x='570' y='5080' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x030D;]]></text>
+    <text x='570' y='5094' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0329;]]></text>
+    <text x='570' y='5108' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x033E;]]></text>
+    <text x='570' y='5122' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20E9;]]></text>
+    <text x='570' y='5136' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x033D;]]></text>
+    <text x='570' y='5150' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0353;]]></text>
+    <text x='570' y='5164' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x035B;]]></text>
+    <text x='570' y='5178' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2604;]]></text>
+    <text x='570' y='5192' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x002C;]]></text>
+    <text x='570' y='5206' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0315;]]></text>
+    <text x='570' y='5220' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0313;]]></text>
+    <text x='570' y='5234' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0314;]]></text>
+    <text x='570' y='5248' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0312;]]></text>
+    <text x='570' y='5262' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0326;]]></text>
+    <text x='570' y='5276' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x201D;]]></text>
+    <text x='570' y='5290' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x201F;]]></text>
+    <text x='570' y='5304' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x201C;]]></text>
+    <text x='570' y='5318' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x201E;]]></text>
+    <text x='570' y='5332' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x201A;]]></text>
+    <text x='570' y='5346' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2019;]]></text>
+    <text x='570' y='5360' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x201B;]]></text>
+    <text x='570' y='5374' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2018;]]></text>
+    <text x='570' y='5388' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x060C;]]></text>
+    <text x='570' y='5402' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x055D;]]></text>
+    <text x='570' y='5416' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x1363;]]></text>
+    <text x='570' y='5430' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x00B7;]]></text>
+    <text x='570' y='5444' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x3001;]]></text>
+    <text x='570' y='5458' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2063;]]></text>
+    <text x='570' y='5472' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x02BD;]]></text>
+    <text x='570' y='5486' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x02BB;]]></text>
+    <text x='570' y='5500' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x1802;]]></text>
+    <text x='570' y='5514' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x1808;]]></text>
+    <text x='570' y='5528' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2318;]]></text>
+    <text x='570' y='5542' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x009F;]]></text>
+    <text x='570' y='5556' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x009D;]]></text>
+    <text x='570' y='5570' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0040;]]></text>
+    <text x='570' y='5584' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2052;]]></text>
+    <text x='570' y='5598' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x263C;]]></text>
+    <text x='570' y='5612' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#xF900;]]></text>
+    <text x='570' y='5626' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#xFE30;]]></text>
+    <text x='570' y='5640' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2F800;]]></text>
+    <text x='570' y='5654' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#xF900;]]></text>
+    <text x='570' y='5668' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#xFA70;]]></text>
+    <text x='570' y='5682' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#xFA30;]]></text>
+    <text x='570' y='5696' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x3130;]]></text>
+    <text x='570' y='5710' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x3300;]]></text>
+    <text x='570' y='5724' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2201;]]></text>
+    <text x='570' y='5738' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2102;]]></text>
+    <text x='570' y='5752' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x27DF;]]></text>
+    <text x='570' y='5766' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2500;]]></text>
+    <text x='570' y='5780' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2218;]]></text>
+    <text x='570' y='5794' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20DD;]]></text>
+    <text x='570' y='5808' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2384;]]></text>
+    <text x='570' y='5822' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2040;]]></text>
+    <text x='570' y='5836' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2332;]]></text>
+    <text x='570' y='5850' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#xFE26;]]></text>
+    <text x='570' y='5864' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x22B9;]]></text>
+    <text x='570' y='5878' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2227;]]></text>
+    <text x='570' y='5892' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x260C;]]></text>
+    <text x='570' y='5906' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x03C0;]]></text>
+    <text x='570' y='5920' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2107;]]></text>
+    <text x='570' y='5934' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x210E;]]></text>
+    <text x='570' y='5948' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2627;]]></text>
+    <text x='570' y='5962' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x220B;]]></text>
+    <text x='570' y='5976' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x220D;]]></text>
+    <text x='570' y='5990' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x22B3;]]></text>
+    <text x='570' y='6004' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#xFB50;]]></text>
+    <text x='570' y='6018' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#xFE80;]]></text>
+    <text x='570' y='6032' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x2AA1;]]></text>
+    <text x='570' y='6046' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2381;]]></text>
+    <text x='570' y='6060' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2136;]]></text>
+    <text x='570' y='6074' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x222E;]]></text>
+    <text x='570' y='6088' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2233;]]></text>
+    <text x='570' y='6102' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2232;]]></text>
+    <text x='570' y='6116' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2233;]]></text>
+    <text x='570' y='6130' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20E9;]]></text>
+    <text x='570' y='6144' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2388;]]></text>
+    <text x='570' y='6158' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x25F0;]]></text>
+    <text x='570' y='6172' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2400;]]></text>
+    <text x='570' y='6186' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x237D;]]></text>
+    <text x='570' y='6200' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x009B;]]></text>
+    <text x='570' y='6214' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x202A;]]></text>
+    <text x='570' y='6228' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x180B;]]></text>
+    <text x='570' y='6242' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2210;]]></text>
+    <text x='570' y='6256' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2210;]]></text>
+    <text x='570' y='6270' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x03E2;]]></text>
+    <text x='570' y='6284' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x2C80;]]></text>
+    <text x='570' y='6298' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#xFE24;]]></text>
+    <text x='570' y='6312' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x2CB2;]]></text>
+    <text x='570' y='6326' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x00A9;]]></text>
+    <text x='570' y='6340' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2117;]]></text>
+    <text x='570' y='6354' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2308;]]></text>
+    <text x='570' y='6368' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x300C;]]></text>
+    <text x='570' y='6382' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#xA700;]]></text>
+    <text x='570' y='6396' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x231C;]]></text>
+    <text x='570' y='6410' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2258;]]></text>
+    <text x='570' y='6424' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2259;]]></text>
+    <text x='570' y='6438' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20A1;]]></text>
+    <text x='570' y='6452' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2135;]]></text>
+    <text x='570' y='6466' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2334;]]></text>
+    <text x='570' y='6480' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20D4;]]></text>
+    <text x='570' y='6494' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2233;]]></text>
+    <text x='570' y='6508' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x2A11;]]></text>
+    <text x='570' y='6522' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20DA;]]></text>
+    <text x='570' y='6536' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2335;]]></text>
+    <text x='570' y='6550' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0BF7;]]></text>
+    <text x='570' y='6564' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x26B1;]]></text>
+    <text x='570' y='6578' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x262A;]]></text>
+    <text x='570' y='6592' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x01C4;]]></text>
+    <text x='570' y='6606' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x230C;]]></text>
+    <text x='570' y='6620' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x02DF;]]></text>
+    <text x='570' y='6634' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2719;]]></text>
+    <text x='570' y='6648' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2629;]]></text>
+    <text x='570' y='6662' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2628;]]></text>
+    <text x='570' y='6676' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x211E;]]></text>
+    <text x='570' y='6690' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2627;]]></text>
+    <text x='570' y='6704' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x205C;]]></text>
+    <text x='570' y='6718' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2671;]]></text>
+    <text x='570' y='6732' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x271D;]]></text>
+    <text x='570' y='6746' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2020;]]></text>
+    <text x='570' y='6760' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2720;]]></text>
+    <text x='570' y='6774' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2626;]]></text>
+    <text x='570' y='6788' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2613;]]></text>
+    <text x='570' y='6802' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2670;]]></text>
+    <text x='570' y='6816' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2694;]]></text>
+    <text x='570' y='6830' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2719;]]></text>
+    <text x='570' y='6844' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0023;]]></text>
+    <text x='570' y='6858' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20A2;]]></text>
+    <text x='570' y='6872' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x221B;]]></text>
+    <text x='570' y='6886' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x00B3;]]></text>
+    <text x='570' y='6900' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x12000;]]></text>
+    <text x='570' y='6914' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x12400;]]></text>
+    <text x='570' y='6928' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x222A;]]></text>
+    <text x='570' y='6942' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2615;]]></text>
+    <text x='570' y='6956' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2615;]]></text>
+    <text x='570' y='6970' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2294;]]></text>
+    <text x='570' y='6984' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x03D0;]]></text>
+    <text x='570' y='6998' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x007D;]]></text>
+    <text x='570' y='7012' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x007B;]]></text>
+    <text x='570' y='7026' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2983;]]></text>
+    <text x='570' y='7040' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x007B;]]></text>
+    <text x='570' y='7054' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x007D;]]></text>
+    <text x='570' y='7068' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2984;]]></text>
+    <text x='570' y='7082' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x22CF;]]></text>
+    <text x='570' y='7096' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x22CE;]]></text>
+    <text x='570' y='7110' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x00A4;]]></text>
+    <text x='570' y='7124' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x09F2;]]></text>
+    <text x='570' y='7138' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0E3F;]]></text>
+    <text x='570' y='7152' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x17DB;]]></text>
+    <text x='570' y='7166' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0192;]]></text>
+    <text x='570' y='7180' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20A0;]]></text>
+    <text x='570' y='7194' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20B3;]]></text>
+    <text x='570' y='7208' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20A2;]]></text>
+    <text x='570' y='7222' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20A1;]]></text>
+    <text x='570' y='7236' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20A1;]]></text>
+    <text x='570' y='7250' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20AC;]]></text>
+    <text x='570' y='7264' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20A3;]]></text>
+    <text x='570' y='7278' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20B5;]]></text>
+    <text x='570' y='7292' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20AF;]]></text>
+    <text x='570' y='7306' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20A8;]]></text>
+    <text x='570' y='7320' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#xFDFC;]]></text>
+    <text x='570' y='7334' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20AA;]]></text>
+    <text x='570' y='7348' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20A4;]]></text>
+    <text x='570' y='7362' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20A9;]]></text>
+    <text x='570' y='7376' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20AD;]]></text>
+    <text x='570' y='7390' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20AE;]]></text>
+    <text x='570' y='7404' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20A6;]]></text>
+    <text x='570' y='7418' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20B2;]]></text>
+    <text x='570' y='7432' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20B1;]]></text>
+    <text x='570' y='7446' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20A7;]]></text>
+    <text x='570' y='7460' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20A4;]]></text>
+    <text x='570' y='7474' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x20B4;]]></text>
+    <text x='570' y='7488' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x20AB;]]></text>
+    <text x='570' y='7502' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2393;]]></text>
+    <text x='570' y='7516' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x23E6;]]></text>
+    <text x='570' y='7530' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x223F;]]></text>
+    <text x='570' y='7544' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2393;]]></text>
+    <text x='570' y='7558' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x21A1;]]></text>
+    <text x='570' y='7572' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x219E;]]></text>
+    <text x='570' y='7586' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x21A0;]]></text>
+    <text x='570' y='7600' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x219F;]]></text>
+    <text x='570' y='7614' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x223C;]]></text>
+    <text x='570' y='7628' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x232D;]]></text>
+    <text x='570' y='7642' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x10800;]]></text>
+    <text x='570' y='7656' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0400;]]></text>
+    <text x='570' y='7670' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0400;]]></text>
+    <text x='570' y='7684' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0483;]]></text>
+    <text x='570' y='7698' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x2DE0;]]></text>
+    <text x='570' y='7712' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#xA640;]]></text>
+    <text x='570' y='7726' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0450;]]></text>
+    <text x='570' y='7740' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[&#x048A;]]></text>
+    <text x='570' y='7754' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0460;]]></text>
+    <text x='570' y='7768' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0430;]]></text>
+    <text x='570' y='7782' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[&#x0500;]]></text>
+    <text x='700' y='964' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Ç ]]></text>
+    <text x='700' y='978' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ç ]]></text>
+    <text x='700' y='992' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[¸ ]]></text>
+    <text x='700' y='1006' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⌈ ]]></text>
+    <text x='700' y='1020' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⌉ ]]></text>
+    <text x='700' y='1033' font-family='Courier' font-size='12' stroke='none' fill='#000000' ><![CDATA[℃ ]]></text>
+    <text x='700' y='1048' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[¢ ]]></text>
+    <text x='700' y='1062' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⎅ ]]></text>
+    <text x='700' y='1075' font-family='Courier' font-size='12' stroke='none' fill='#000000' ><![CDATA[℃ ]]></text>
+    <text x='700' y='1090' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[℄ ]]></text>
+    <text x='700' y='1104' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[﹎ ]]></text>
+    <text x='700' y='1118' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[﹊ ]]></text>
+    <text x='700' y='1132' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ꨀ ]]></text>
+    <text x='700' y='866' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[␍ ]]></text>
+    <text x='700' y='880' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[× ]]></text>
+    <text x='700' y='894' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[☡ ]]></text>
+    <text x='700' y='908' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[₵ ]]></text>
+    <text x='700' y='922' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[¸ ]]></text>
+    <text x='700' y='1188' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[� ]]></text>
+    <text x='700' y='1202' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[� ]]></text>
+    <text x='700' y='1216' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⁀ ]]></text>
+    <text x='700' y='1230' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[─ ]]></text>
+    <text x='700' y='1244' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[✓ ]]></text>
+    <text x='700' y='1258' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[✔ ]]></text>
+    <text x='700' y='1272' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⍻ ]]></text>
+    <text x='700' y='1286' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[☑ ]]></text>
+    <text x='700' y='1300' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⛀ ]]></text>
+    <text x='700' y='1314' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Ꭰ ]]></text>
+    <text x='700' y='1328' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[♔ ]]></text>
+    <text x='700' y='1342' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[☖ ]]></text>
+    <text x='700' y='1356' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⟪ ]]></text>
+    <text x='700' y='1370' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⟫ ]]></text>
+    <text x='700' y='1384' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[« ]]></text>
+    <text x='700' y='1398' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[☧ ]]></text>
+    <text x='700' y='1412' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ൺ ]]></text>
+    <text x='700' y='1426' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[㄀ ]]></text>
+    <text x='700' y='1440' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ㆠ ]]></text>
+    <text x='700' y='1454' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[˙ ]]></text>
+    <text x='700' y='1468' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ˉ ]]></text>
+    <text x='700' y='1482' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ˋ ]]></text>
+    <text x='700' y='1496' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ˊ ]]></text>
+    <text x='700' y='1510' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ˇ ]]></text>
+    <text x='700' y='1524' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[꜀ ]]></text>
+    <text x='700' y='1538' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⫾ ]]></text>
+    <text x='700' y='1552' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⫿ ]]></text>
+    <text x='700' y='1566' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[☧ ]]></text>
+    <text x='701' y='1160' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[� ]]></text>
+    <text x='700' y='1678' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[◯ ]]></text>
+    <text x='700' y='1692' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⚫ ]]></text>
+    <text x='700' y='1706' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⚬ ]]></text>
+    <text x='700' y='1720' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⚪ ]]></text>
+    <text x='700' y='1734' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[❍ ]]></text>
+    <text x='700' y='1748' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[○ ]]></text>
+    <text x='700' y='1762' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⊛ ]]></text>
+    <text x='700' y='1776' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⊝ ]]></text>
+    <text x='700' y='1790' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[⓪ ]]></text>
+    <text x='700' y='1804' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[❶ ]]></text>
+    <text x='700' y='1818' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⨸ ]]></text>
+    <text x='700' y='1832' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⊘ ]]></text>
+    <text x='700' y='1846' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⊙ ]]></text>
+    <text x='700' y='1860' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⨀ ]]></text>
+    <text x='700' y='1874' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⊜ ]]></text>
+    <text x='700' y='1888' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[㊀ ]]></text>
+    <text x='700' y='1902' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[❶ ]]></text>
+    <text x='700' y='1916' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[㋐ ]]></text>
+    <text x='700' y='1930' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[㉠ ]]></text>
+    <text x='700' y='1944' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[㉮ ]]></text>
+    <text x='700' y='1958' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[Ⓐ ]]></text>
+    <text x='700' y='1972' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⊖ ]]></text>
+    <text x='700' y='1986' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[① ]]></text>
+    <text x='700' y='2000' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[㉑ ]]></text>
+    <text x='700' y='2014' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[㊱ ]]></text>
+    <text x='700' y='2028' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[⓵ ]]></text>
+    <text x='700' y='2042' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[⓫ ]]></text>
+    <text x='700' y='2056' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⊕ ]]></text>
+    <text x='700' y='2070' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⨁ ]]></text>
+    <text x='700' y='2084' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[〶 ]]></text>
+    <text x='700' y='2098' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⊚ ]]></text>
+    <text x='700' y='2112' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⊗ ]]></text>
+    <text x='700' y='2126' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⨂ ]]></text>
+    <text x='700' y='2140' font-family='Courier' font-size='15' stroke='none' fill='#ffffff' ><![CDATA[○ ]]></text>
+    <text x='701' y='1650' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[◌ ]]></text>
+    <text x='700' y='1594' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[⦵ ]]></text>
+    <text x='700' y='1608' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[● ]]></text>
+    <text x='700' y='1622' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[• ]]></text>
+    <text x='700' y='54' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Preview]]></text>
+    <text x='700' y='68' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ć ]]></text>
+    <text x='700' y='82' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[č ]]></text>
+    <text x='700' y='96' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Ç ]]></text>
+    <text x='700' y='110' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ç ]]></text>
+    <text x='700' y='124' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ĉ ]]></text>
+    <text x='700' y='138' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ɕ ]]></text>
+    <text x='700' y='152' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ċ ]]></text>
+    <text x='700' y='166' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ƈ ]]></text>
+    <text x='700' y='180' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Ȼ ]]></text>
+    <text x='700' y='194' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ȼ ]]></text>
+    <text x='700' y='208' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Ↄ ]]></text>
+    <text x='700' y='222' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ℭ ]]></text>
+    <text x='700' y='250' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ℂ ]]></text>
+    <text x='700' y='264' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ᴄ ]]></text>
+    <text x='700' y='278' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ʗ ]]></text>
+    <text x='700' y='292' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ↄ ]]></text>
+    <text x='700' y='306' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[℆ ]]></text>
+    <text x='700' y='320' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[☤ ]]></text>
+    <text x='700' y='334' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ក ]]></text>
+    <text x='700' y='348' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[᐀ ]]></text>
+    <text x='700' y='362' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[᙮ ]]></text>
+    <text x='700' y='376' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[᙭ ]]></text>
+    <text x='700' y='390' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[� ]]></text>
+    <text x='700' y='404' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[� ]]></text>
+    <text x='700' y='418' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[󠁿]]></text>
+    <text x='700' y='432' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[␘ ]]></text>
+    <text x='700' y='516' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[࿀ ]]></text>
+    <text x='700' y='530' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[∩ ]]></text>
+    <text x='700' y='544' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⊓ ]]></text>
+    <text x='700' y='558' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Ա ]]></text>
+    <text x='700' y='572' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Ѐ ]]></text>
+    <text x='700' y='586' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Ⴀ ]]></text>
+    <text x='700' y='600' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Α ]]></text>
+    <text x='700' y='614' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[A ]]></text>
+    <text x='700' y='628' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[♑ ]]></text>
+    <text x='700' y='642' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⇪ ]]></text>
+    <text x='700' y='656' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⇬ ]]></text>
+    <text x='700' y='670' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[♠ ]]></text>
+    <text x='700' y='684' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ℵ ]]></text>
+    <text x='700' y='698' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ℸ ]]></text>
+    <text x='700' y='712' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ℶ ]]></text>
+    <text x='700' y='726' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ℷ ]]></text>
+    <text x='700' y='740' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[℅ ]]></text>
+    <text x='700' y='754' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ʌ ]]></text>
+    <text x='700' y='768' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[‸ ]]></text>
+    <text x='700' y='782' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⁁ ]]></text>
+    <text x='700' y='796' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[𐊠]]></text>
+    <text x='700' y='810' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ˇ ]]></text>
+    <text x='701' y='460' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[♋ ]]></text>
+    <text x='700' y='2742' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[℄ ]]></text>
+    <text x='700' y='2756' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[˘ ]]></text>
+    <text x='700' y='2770' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⁐ ]]></text>
+    <text x='700' y='2784' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ʚ ]]></text>
+    <text x='700' y='2798' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ɷ ]]></text>
+    <text x='700' y='2812' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ʚ ]]></text>
+    <text x='700' y='2826' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ɞ ]]></text>
+    <text x='700' y='2840' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ɞ ]]></text>
+    <text x='700' y='2854' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[} ]]></text>
+    <text x='700' y='2868' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[} ]]></text>
+    <text x='700' y='2882' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[〆 ]]></text>
+    <text x='700' y='2896' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[) ]]></text>
+    <text x='700' y='2910' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[] ]]></text>
+    <text x='700' y='2924' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[☁ ]]></text>
+    <text x='700' y='2938' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[☁ ]]></text>
+    <text x='700' y='2952' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[☕ ]]></text>
+    <text x='700' y='2966' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⚰ ]]></text>
+    <text x='700' y='2700' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[∲ ]]></text>
+    <text x='700' y='2714' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[∱ ]]></text>
+    <text x='700' y='2994' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[≔ ]]></text>
+    <text x='700' y='3008' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[⧴ ]]></text>
+    <text x='700' y='3022' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[₡ ]]></text>
+    <text x='700' y='3036' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[≕ ]]></text>
+    <text x='700' y='3050' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[፥ ]]></text>
+    <text x='700' y='3064' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[፦ ]]></text>
+    <text x='700' y='3078' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ˑ ]]></text>
+    <text x='700' y='3092' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ː ]]></text>
+    <text x='700' y='3106' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[᠄ ]]></text>
+    <text x='700' y='3120' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⦂ ]]></text>
+    <text x='703' y='3190' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ᄀ ]]></text>
+    <text x='700' y='2224' font-family='Courier' font-size='15' stroke='none' fill='#ffffff' ><![CDATA[〈 ]]></text>
+    <text x='700' y='2238' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[㌀ ]]></text>
+    <text x='700' y='2252' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[︰ ]]></text>
+    <text x='700' y='2266' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[豈 ]]></text>
+    <text x='700' y='2280' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[丽]]></text>
+    <text x='700' y='2294' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[「 ]]></text>
+    <text x='704' y='2196' font-family='Courier' font-size='15' stroke='none' fill='#ffffff' ><![CDATA[ˆ ]]></text>
+    <text x='700' y='2322' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⿰ ]]></text>
+    <text x='700' y='2336' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[㐀 ]]></text>
+    <text x='700' y='2350' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[𠀀]]></text>
+    <text x='700' y='2364' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[㈠ ]]></text>
+    <text x='700' y='2378' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⼀ ]]></text>
+    <text x='700' y='2392' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[㈀ ]]></text>
+    <text x='700' y='2406' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⺀ ]]></text>
+    <text x='700' y='2420' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[｡ ]]></text>
+    <text x='700' y='2434' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[「 ]]></text>
+    <text x='700' y='2448' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⺀ ]]></text>
+    <text x='700' y='2462' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[㇀ ]]></text>
+    <text x='700' y='2476' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[　 ]]></text>
+    <text x='700' y='2490' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[一 ]]></text>
+    <text x='700' y='2504' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[㐀 ]]></text>
+    <text x='700' y='2518' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[𠀀]]></text>
+    <text x='700' y='2532' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Ↄ ]]></text>
+    <text x='700' y='2546' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Ⅎ ]]></text>
+    <text x='700' y='2560' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[⌧ ]]></text>
+    <text x='700' y='2574' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[⎚ ]]></text>
+    <text x='700' y='2588' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[☀ ]]></text>
+    <text x='700' y='2602' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ǂ ]]></text>
+    <text x='700' y='2616' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ʘ ]]></text>
+    <text x='700' y='2630' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ǀ ]]></text>
+    <text x='700' y='2644' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ǁ ]]></text>
+    <text x='700' y='2658' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ǃ ]]></text>
+    <text x='700' y='2672' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ǀ ]]></text>
+    <text x='700' y='5178' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[comet]]></text>
+    <text x='700' y='5192' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[, ]]></text>
+    <text x='700' y='5276' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[” ]]></text>
+    <text x='700' y='5290' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[‟ ]]></text>
+    <text x='700' y='5304' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[“ ]]></text>
+    <text x='700' y='5318' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[„ ]]></text>
+    <text x='700' y='5332' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[‚ ]]></text>
+    <text x='700' y='5346' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[’ ]]></text>
+    <text x='700' y='5360' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[‛ ]]></text>
+    <text x='700' y='5374' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[‘ ]]></text>
+    <text x='700' y='5388' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[، ]]></text>
+    <text x='700' y='5402' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[՝ ]]></text>
+    <text x='700' y='5416' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[፣ ]]></text>
+    <text x='700' y='5430' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[· ]]></text>
+    <text x='700' y='5444' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[、 ]]></text>
+    <text x='700' y='5458' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⁣ ]]></text>
+    <text x='700' y='5472' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ʽ ]]></text>
+    <text x='700' y='5486' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ʻ ]]></text>
+    <text x='700' y='5500' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[᠂ ]]></text>
+    <text x='700' y='5514' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[᠈ ]]></text>
+    <text x='700' y='5528' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⌘ ]]></text>
+    <text x='700' y='5542' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[� ]]></text>
+    <text x='700' y='5556' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[� ]]></text>
+    <text x='700' y='5570' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[@ ]]></text>
+    <text x='700' y='5584' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⁒ ]]></text>
+    <text x='700' y='5598' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[☼ ]]></text>
+    <text x='700' y='5612' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[豈 ]]></text>
+    <text x='700' y='5626' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[︰ ]]></text>
+    <text x='700' y='5640' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[丽]]></text>
+    <text x='700' y='5654' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[豈 ]]></text>
+    <text x='700' y='5668' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[並 ]]></text>
+    <text x='700' y='5682' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[侮 ]]></text>
+    <text x='700' y='5696' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[㄰ ]]></text>
+    <text x='700' y='5710' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[㌀ ]]></text>
+    <text x='700' y='5724' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[∁ ]]></text>
+    <text x='700' y='5738' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ℂ ]]></text>
+    <text x='700' y='5752' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⟟ ]]></text>
+    <text x='700' y='5766' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[─ ]]></text>
+    <text x='700' y='5780' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[∘ ]]></text>
+    <text x='700' y='6312' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Ⲳ ]]></text>
+    <text x='700' y='6326' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[© ]]></text>
+    <text x='700' y='6340' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[℗ ]]></text>
+    <text x='700' y='6354' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⌈ ]]></text>
+    <text x='700' y='6368' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[「 ]]></text>
+    <text x='700' y='6382' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[꜀ ]]></text>
+    <text x='700' y='6396' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⌜ ]]></text>
+    <text x='700' y='6410' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[≘ ]]></text>
+    <text x='700' y='6424' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[≙ ]]></text>
+    <text x='700' y='6438' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[₡ ]]></text>
+    <text x='700' y='6452' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ℵ ]]></text>
+    <text x='700' y='6466' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⌴ ]]></text>
+    <text x='700' y='6242' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[∐ ]]></text>
+    <text x='700' y='6256' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[∐ ]]></text>
+    <text x='700' y='6270' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[Ϣ ]]></text>
+    <text x='700' y='6284' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Ⲁ ]]></text>
+    <text x='700' y='6494' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[∳ ]]></text>
+    <text x='700' y='6508' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⨑ ]]></text>
+    <text x='700' y='6536' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⌵ ]]></text>
+    <text x='700' y='6550' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[௷ ]]></text>
+    <text x='700' y='6564' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⚱ ]]></text>
+    <text x='700' y='6578' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[☪ ]]></text>
+    <text x='700' y='6591' font-family='Courier' font-size='10' stroke='none' fill='#000000' ><![CDATA[Ǆ ]]></text>
+    <text x='700' y='6606' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⌌ ]]></text>
+    <text x='700' y='6620' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[˟ ]]></text>
+    <text x='700' y='6634' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[✙ ]]></text>
+    <text x='700' y='6648' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[☩ ]]></text>
+    <text x='700' y='6662' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[☨ ]]></text>
+    <text x='700' y='6676' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[℞ ]]></text>
+    <text x='700' y='6690' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[☧ ]]></text>
+    <text x='700' y='6704' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⁜ ]]></text>
+    <text x='700' y='6718' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[♱ ]]></text>
+    <text x='700' y='6732' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[✝ ]]></text>
+    <text x='700' y='6746' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[† ]]></text>
+    <text x='700' y='6760' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[✠ ]]></text>
+    <text x='700' y='6774' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[☦ ]]></text>
+    <text x='700' y='6788' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[☓ ]]></text>
+    <text x='700' y='6802' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[♰ ]]></text>
+    <text x='700' y='6816' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⚔ ]]></text>
+    <text x='700' y='6830' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[✙ ]]></text>
+    <text x='700' y='6844' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[# ]]></text>
+    <text x='700' y='6858' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[₢ ]]></text>
+    <text x='700' y='6872' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[∛ ]]></text>
+    <text x='700' y='6886' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[³ ]]></text>
+    <text x='700' y='6900' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[𒀀]]></text>
+    <text x='700' y='6914' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[𒐀]]></text>
+    <text x='700' y='6928' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[∪ ]]></text>
+    <text x='700' y='6942' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[☕ ]]></text>
+    <text x='700' y='6956' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[☕ ]]></text>
+    <text x='700' y='6970' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⊔ ]]></text>
+    <text x='700' y='6984' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ϐ ]]></text>
+    <text x='700' y='6998' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[} ]]></text>
+    <text x='700' y='7012' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[{ ]]></text>
+    <text x='700' y='7026' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⦃ ]]></text>
+    <text x='700' y='7040' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[{ ]]></text>
+    <text x='700' y='7054' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[} ]]></text>
+    <text x='700' y='7068' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⦄ ]]></text>
+    <text x='700' y='7082' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⋏ ]]></text>
+    <text x='700' y='7096' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⋎ ]]></text>
+    <text x='700' y='7110' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[¤ ]]></text>
+    <text x='700' y='7124' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[৲ ]]></text>
+    <text x='700' y='7138' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[฿ ]]></text>
+    <text x='700' y='7152' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[៛ ]]></text>
+    <text x='700' y='7166' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ƒ ]]></text>
+    <text x='700' y='7180' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[₠ ]]></text>
+    <text x='700' y='7194' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[₳ ]]></text>
+    <text x='700' y='7208' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[₢ ]]></text>
+    <text x='700' y='7222' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[₡ ]]></text>
+    <text x='700' y='7236' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[₡ ]]></text>
+    <text x='700' y='7250' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[€ ]]></text>
+    <text x='700' y='7264' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[₣ ]]></text>
+    <text x='700' y='7278' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[₵ ]]></text>
+    <text x='700' y='7291' font-family='Courier' font-size='11' stroke='none' fill='#000000' ><![CDATA[₯ ]]></text>
+    <text x='700' y='7305' font-family='Courier' font-size='12' stroke='none' fill='#000000' ><![CDATA[₨ ]]></text>
+    <text x='700' y='7320' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[﷼ ]]></text>
+    <text x='700' y='7334' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[₪ ]]></text>
+    <text x='700' y='7348' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[₤ ]]></text>
+    <text x='700' y='7362' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[₩ ]]></text>
+    <text x='700' y='7376' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[₭ ]]></text>
+    <text x='700' y='7390' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[₮ ]]></text>
+    <text x='700' y='7404' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[₦ ]]></text>
+    <text x='700' y='7418' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[₲ ]]></text>
+    <text x='700' y='7432' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[₱ ]]></text>
+    <text x='700' y='7445' font-family='Courier' font-size='10' stroke='none' fill='#000000' ><![CDATA[₧ ]]></text>
+    <text x='700' y='7460' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[₤ ]]></text>
+    <text x='700' y='7474' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[₴ ]]></text>
+    <text x='700' y='7488' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[₫ ]]></text>
+    <text x='700' y='7502' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⎓ ]]></text>
+    <text x='700' y='7516' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[⏦ ]]></text>
+    <text x='700' y='7530' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[∿ ]]></text>
+    <text x='700' y='7544' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⎓ ]]></text>
+    <text x='700' y='7558' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[↡ ]]></text>
+    <text x='700' y='7572' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[↞ ]]></text>
+    <text x='700' y='7586' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[↠ ]]></text>
+    <text x='700' y='7600' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[↟ ]]></text>
+    <text x='700' y='7614' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[∼ ]]></text>
+    <text x='700' y='7628' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⌭ ]]></text>
+    <text x='700' y='7642' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[𐠀]]></text>
+    <text x='700' y='7656' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Ѐ ]]></text>
+    <text x='700' y='7670' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Ѐ ]]></text>
+    <text x='700' y='5808' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⎄ ]]></text>
+    <text x='700' y='5822' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⁀ ]]></text>
+    <text x='700' y='5836' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⌲ ]]></text>
+    <text x='700' y='5864' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⊹ ]]></text>
+    <text x='700' y='5878' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[∧ ]]></text>
+    <text x='700' y='5892' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[☌ ]]></text>
+    <text x='700' y='5906' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[π ]]></text>
+    <text x='700' y='5920' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ℇ ]]></text>
+    <text x='700' y='5934' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ℎ ]]></text>
+    <text x='700' y='5948' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[☧ ]]></text>
+    <text x='700' y='5962' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[∋ ]]></text>
+    <text x='700' y='5976' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[∍ ]]></text>
+    <text x='700' y='5990' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⊳ ]]></text>
+    <text x='700' y='6004' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ﭐ ]]></text>
+    <text x='700' y='6018' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ﺀ ]]></text>
+    <text x='700' y='6032' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⪡ ]]></text>
+    <text x='700' y='6046' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⎁ ]]></text>
+    <text x='700' y='6060' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ℶ ]]></text>
+    <text x='700' y='6074' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[∮ ]]></text>
+    <text x='700' y='6088' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[∳ ]]></text>
+    <text x='700' y='6102' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[∲ ]]></text>
+    <text x='700' y='6116' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[∳ ]]></text>
+    <text x='700' y='6144' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⎈ ]]></text>
+    <text x='700' y='6158' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[◰ ]]></text>
+    <text x='700' y='6172' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[␀ ]]></text>
+    <text x='700' y='6186' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[⍽ ]]></text>
+    <text x='700' y='6200' font-family='Courier' font-size='13' stroke='none' fill='#000000' ><![CDATA[� ]]></text>
+    <text x='700' y='6214' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[‪ ]]></text>
+    <text x='700' y='7712' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Ꙁ ]]></text>
+    <text x='700' y='7726' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[ѐ ]]></text>
+    <text x='700' y='7740' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Ҋ ]]></text>
+    <text x='700' y='7754' font-family='Courier' font-size='14' stroke='none' fill='#000000' ><![CDATA[Ѡ ]]></text>
+    <text x='700' y='7768' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[а ]]></text>
+    <text x='700' y='7782' font-family='Courier' font-size='15' stroke='none' fill='#000000' ><![CDATA[Ԁ ]]></text>
+  </g>
+</svg>

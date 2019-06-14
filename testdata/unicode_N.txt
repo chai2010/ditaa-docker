@@ -1,0 +1,147 @@
+N
+Description                                            Entity       Preview
+N With Acute, Latin Small Letter                       &#x0144;     ń
+N With Caron, Latin Small Letter                       &#x0148;     ň
+N With Cedilla, Latin Small Letter                     &#x0146;     ņ
+N With Circumflex Below, Latin Small Letter            &#x1E4B;     ṋ
+N With Curl, Latin Small Letter                        &#x0235;     ȵ
+N With Dot Above, Latin Small Letter                   &#x1E45;     ṅ
+N With Dot Below, Latin Small Letter                   &#x1E47;     ṇ
+N With Grave, Latin Small Letter                       &#x01F9;     ǹ
+N With Left Hook, Latin Capital Letter                 &#x019D;     Ɲ
+N With Left Hook, Latin Small Letter                   &#x0272;     ɲ
+N With Line Below, Latin Small Letter                  &#x1E49;     ṉ
+N With Long Right Leg, Latin Capital Letter            &#x0220;     Ƞ
+N With Long Right Leg, Latin Small Letter              &#x019E;     ƞ
+N With Retroflex Hook, Latin Small Letter              &#x0273;     ɳ
+N With Tilde, Latin Capital Letter                     &#x00D1;     Ñ
+N With Tilde, Latin Small Letter                       &#x00F1;     ñ
+N, Double-Struck Capital                               &#x2115;     ℕ
+N, Latin Letter Small Capital                          &#x0274;     ɴ
+N, Latin Letter Small Capital Reversed                 &#x1D0E;     ᴎ
+N-Ary Coproduct                                        &#x2210;     ∐
+N-Ary Dijkstra Choice                                  &#x2AFF;     ⫿
+N-Ary Intersection                                     &#x22C2;     ⋂
+N-Ary Logical And                                      &#x22C0;     ⋀
+N-Ary Logical Or                                       &#x22C1;     ⋁
+N-Ary Operators                                        &#x22C0;     ⋀
+N-Ary Operators                                        &#x2A00;     ⨀
+N-Ary Product                                          &#x220F;     ∏
+N-Ary Summation                                        &#x2211;     ∑
+N-Ary Summation, Double-Struck                         &#x2140;     ⅀
+N-Ary Times Operator                                   &#x2A09;     ⨉
+N-Ary Union                                            &#x22C3;     ⋃
+N-Ary White Vertical Bar                               &#x2AFF;     ⫿
+Naal, Tamil                                            &#x0BF3;     ௳
+Nabla                                                  &#x2207;     ∇
+Naira Sign                                             &#x20A6;     ₦
+Nand                                                   &#x22BC;     ⊼
+Narrow No-Break Space                                  &#x202F;      
+Nasal Hook                                             &#x0328;
+Natural Exponent                                       &#x212F;     ℯ
+Natural Number                                         &#x2115;     ℕ
+Natural Sign, Music                                    &#x266E;     ♮
+Nbsp                                                   &#x00A0;    
+Nearly Equals                                          &#x2252;     ≒
+Necessarily Satisfies                                  &#x2AF1;     ⫱
+Negative Acknowledge                                   &#x0015;     �
+Negative Acknowledge, Symbol For                       &#x2415;     ␕
+Nel                                                    &#x0085;     �
+Neptune                                                &#x2646;     ♆
+Neuter                                                 &#x26B2;     ⚲
+Neutral Quotation Mark                                 &#x0022;     "
+Neutral Single Quotation Mark                          &#x0027;     '
+Neutral Tone, Mandarin Chinese Fifth Or                &#x02D9;     ˙
+New Line                                               &#x000A;    
+New Sheqel Sign                                        &#x20AA;     ₪
+New Tai Lue                                            &#x1980;     ᦀ
+New Tai Lue Digits                                     &#x19D0;     ᧐
+New Testament Editorial Symbols                        &#x2E00;     ⸀
+New Testament Majority Text                            &#x1D510;    𝔐
+Newline, Symbol For                                    &#x2424;     ␤
+Next Line                                              &#x0085;     �
+Next Page                                              &#x2398;     ⎘
+Nib, Black                                             &#x2712;     ✒
+Nib, White                                             &#x2711;     ✑
+Nigerian Currency                                      &#x20A6;     ₦
+Niggahita, Lao                                         &#x0ECD;
+Nikahit, Khmer Sign                                    &#x17C6;
+Nikhahit, Thai Character                               &#x0E4D;
+Nim-Addition                                           &#x2A27;     ⨧
+Nirugu, Mongolian                                      &#x180A;     ᠊
+Nko                                                    &#x07C0;     ߀
+Nl                                                     &#x000A;    
+No                                                     &#x20E0;
+No Break Here                                          &#x0083;     �
+No Break Space, Keyboard Symbol For                    &#x237D;     ⍽
+No-Break Space                                         &#x00A0;    
+No-Break Space, Narrow                                 &#x202F;      
+No-Break Space, Zero Width                             &#xFEFF;     ﻿
+Node, Ascending                                        &#x260A;     ☊
+Node, Descending                                       &#x260B;     ☋
+Non-Breaking Hyphen                                    &#x2011;     ‑
+Non-Breaking Space                                     &#x00A0;    
+Non-Joiner, Zero Width                                 &#x200C;     ‌
+Non-Spacing Iota Below, Greek                          &#x0345;
+Non-Theorem                                            &#x22A3;     ⊣
+Nor                                                    &#x22BD;     ⊽
+Normal Factor Semidirect Product, Left                 &#x22C9;     ⋉
+Normal Factor Semidirect Product, Right                &#x22CA;     ⋊
+Normal Subgroup Of                                     &#x22B2;     ⊲
+Normal Subgroup Signs                                  &#x22EA;     ⋪
+Normal Subgroup, Contains As                           &#x22B3;     ⊳
+Not                                                    &#x223C;     ∼
+Not A Subset Of                                        &#x2284;     ⊄
+Not A Superset Of                                      &#x2285;     ⊅
+Not Almost Equal To                                    &#x2249;     ≉
+Not An Element Of                                      &#x2209;     ∉
+Not Asymptotically Equal To                            &#x2244;     ≄
+Not Check Mark                                         &#x237B;     ⍻
+Not Equal To                                           &#x2260;     ≠
+Not Identical To                                       &#x2262;     ≢
+Not Independent                                        &#x2ADC;     ⫝̸
+Not Parallel To                                        &#x2226;     ∦
+Not Sign                                               &#x00AC;     ¬
+Not Sign, Reversed                                     &#x2310;     ⌐
+Not Sign, Turned                                       &#x2319;     ⌙
+Not Tilde                                              &#x2241;     ≁
+Not Tilde Above, Combining                             &#x034A;
+Not Yield, Does                                        &#x22A3;     ⊣
+Note, Eighth                                           &#x266A;     ♪
+Note, Quarter                                          &#x2669;     ♩
+Notes, Beamed Eighth                                   &#x266B;     ♫
+Notes, Beamed Sixteenth                                &#x266C;     ♬
+Nukta, Devanagari Sign                                 &#x093C;
+Null                                                   &#x0000;     �
+Null Set                                               &#x2205;     ∅
+Null, Symbol For                                       &#x2400;     ␀
+Number Forms                                           &#x2150;     ⅐
+Number Sign                                            &#x0023;     #
+Number Sign, Tamil                                     &#x0BFA;     ௺
+Number Symbol, Real                                    &#x210A;     ℊ
+Number Zero, Ideographic                               &#x3007;     〇
+Number, Natural                                        &#x2115;     ℕ
+Numbers And Punctuation, Cuneiform                     &#x12400;    𒐀
+Numbers Followed By Period                             &#x2488;     ⒈
+Numbers, Ancient Greek                                 &#x10140;    𐅀
+Numbers, Circled                                       &#x2460;     ①
+Numbers, Circled                                       &#x3251;     ㉑
+Numbers, Circled                                       &#x32B1;     ㊱
+Numbers, Circled Inverse                               &#x2776;     ❶
+Numbers, Complex                                       &#x2102;     ℂ
+Numbers, Double Circled                                &#x24F5;     ⓵
+Numbers, Ethiopic                                      &#x1369;     ፩
+Numbers, Parenthesized                                 &#x2474;     ⑴
+Numbers, Rational                                      &#x211A;     ℚ
+Numbers, Real                                          &#x211D;     ℝ
+Numbers, Runic Golden                                  &#x16EE;     ᛮ
+Numbers, Tamil                                         &#x0BE7;     ௧
+Numbers, White On Black Circled                        &#x24EB;     ⓫
+Numerals, Hangzhou                                     &#x3021;     〡
+Numerals, Old Italic                                   &#x10320;    𐌠
+Numerals, Roman                                        &#x2160;     Ⅰ
+Numerals, Suzhou                                       &#x3021;     〡
+Numerator One, Fraction                                &#x215F;     ⅟
+Numeric Symbols For Divination, Khmer                  &#x17F0;     ៰
+Numerics Lock                                          &#x21ED;     ⇭
+Numero Sign                                            &#x2116;     №

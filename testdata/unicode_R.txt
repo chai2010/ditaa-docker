@@ -1,0 +1,251 @@
+R
+Description                                            Entity       Preview
+R With Acute, Latin Small Letter                       &#x0155;     ŕ
+R With Caron, Latin Small Letter                       &#x0159;     ř
+R With Cedilla, Latin Small Letter                     &#x0157;     ŗ
+R With Dot Above, Latin Small Letter                   &#x1E59;     ṙ
+R With Dot Below, Latin Small Letter                   &#x1E5B;     ṛ
+R With Double Grave, Latin Small Letter                &#x0211;     ȑ
+R With Fishhook, Latin Small Letter                    &#x027E;     ɾ
+R With Fishhook, Latin Small Letter Reversed           &#x027F;     ɿ
+R With Hook, Latin Small Letter Turned                 &#x027B;     ɻ
+R With Inverted Breve, Latin Small Letter              &#x0213;     ȓ
+R With Line Below, Latin Small Letter                  &#x1E5F;     ṟ
+R With Long Leg, Latin Small Letter                    &#x027C;     ɼ
+R With Long Leg, Latin Small Letter Turned             &#x027A;     ɺ
+R With Stroke, Latin Capital Letter                    &#x024C;     Ɍ
+R With Stroke, Latin Small Letter                      &#x024D;     ɍ
+R With Tail, Latin Small Letter                        &#x027D;     ɽ
+R, Black-Letter Capital                                &#x211C;     ℜ
+R, Combining Latin Small Letter                        &#x036C;
+R, Double-Struck Capital                               &#x211D;     ℝ
+R, Latin Letter Small Capital                          &#x0280;     ʀ
+R, Latin Letter Small Capital Inverted                 &#x0281;     ʁ
+R, Latin Letter Small Capital Reversed                 &#x1D19;     ᴙ
+R, Latin Letter Small Capital Turned                   &#x1D1A;     ᴚ
+R, Latin Small Letter Turned                           &#x0279;     ɹ
+R, Latin Subscript Small Letter                        &#x1D63;     ᵣ
+R, Modifier Letter Small                               &#x02B3;     ʳ
+R, Modifier Letter Small Capital Inverted              &#x02B6;     ʶ
+R, Modifier Letter Small Turned                        &#x02B4;     ʴ
+R, Script Capital                                      &#x211B;     ℛ
+Radial Component                                       &#x27DF;     ⟟
+Radical Sign                                           &#x221A;     √
+Radicals Supplement, Cjk                               &#x2E80;     ⺀
+Radicals, Cjk Kangxi                                   &#x2F00;     ⼀
+Radicals, Yi                                           &#xA490;     ꒐
+Radioactive Sign                                       &#x2622;     ☢
+Rain Drops, Umbrella With                              &#x2614;     ☔
+Rainy Weather                                          &#x2602;     ☂
+Rams Horn, Latin Small Letter                          &#x0264;     ɤ
+Range Restriction                                      &#x25B7;     ▷
+Ratio                                                  &#x2236;     ∶
+Ratio, Cross                                           &#x211E;     ℞
+Rational Numbers                                       &#x211A;     ℚ
+Reahmuk, Khmer Sign                                    &#x17C7;
+Real Number Symbol                                     &#x210A;     ℊ
+Real Numbers                                           &#x211D;     ℝ
+Real Part                                              &#x211C;     ℜ
+Recipe                                                 &#x211E;     ℞
+Record Separator                                       &#x001E;     �
+Record Separator, Symbol For                           &#x241E;     ␞
+Recorder, Telephone                                    &#x2315;     ⌕
+Recording Copyright, Sound                             &#x2117;     ℗
+Rectangle Box, X In A                                  &#x2327;     ⌧
+Rectangles                                             &#x25AC;     ▬
+Recycled Paper Symbol                                  &#x267C;     ♼
+Recycled Paper Symbol, Partially-                      &#x267D;     ♽
+Recycling Symbol, Universal                            &#x2672;     ♲
+Recycling Symbols                                      &#x2672;     ♲
+Recycling Symbols, Plastics                            &#x2673;     ♳
+Reduces To                                             &#x22A6;     ⊦
+Reducible                                              &#x22A2;     ⊢
+Reference Mark                                         &#x203B;     ※
+Registered Sign                                        &#x00AE;     ®
+Registered Trade Mark Sign                             &#x00AE;     ®
+Rejang                                                 &#xA930;     ꤰ
+Relation                                               &#x2194;     ↔
+Relation, Finite                                       &#x21FC;     ⇼
+Relation, Partial                                      &#x21F9;     ⇹
+Relational Operators                                   &#x29E3;     ⧣
+Relations, Subset And Superset                         &#x2ABD;     ⪽
+Religious And Political Symbols                        &#x2626;     ☦
+Repeat Marks, Kana                                     &#x3031;     〱
+Replacement Character                                  &#xFFFD;     �
+Replacement Character, Object                          &#xFFFC;     ￼
+Response                                               &#x211F;     ℟
+Restriction, Domain                                    &#x25C1;     ◁
+Restriction, Range                                     &#x25B7;     ▷
+Results In                                             &#x22A8;     ⊨
+Retroflex Click, Latin Letter                          &#x01C3;     ǃ
+Retroflex Hook Below, Combining                        &#x0322;
+Retroflex Hook, Latin Capital Letter T With            &#x01AE;     Ʈ
+Retroflex Hook, Latin Small Letter D                   &#x0256;     ɖ
+Retroflex Hook, Latin Small Letter L With              &#x026D;     ɭ
+Retroflex Hook, Latin Small Letter N With              &#x0273;     ɳ
+Retroflex Hook, Latin Small Letter T With              &#x0288;     ʈ
+Retroflex Hook, Latin Small Letter Z With              &#x0290;     ʐ
+Return Symbol                                          &#x23CE;     ⏎
+Return, Carriage                                       &#x000D;    
+Return, Symbol For Carriage                            &#x240D;     ␍
+Reverse Line Feed                                      &#x008D;     �
+Reverse Solidus                                        &#x005C;     \
+Reverse Solidus Operator                               &#x29F5;     ⧵
+Reverse Solidus Overlay, Combining                     &#x20E5;
+Reverse Solidus, Big                                   &#x29F9;     ⧹
+Reverse Turnstile                                      &#x22A3;     ⊣
+Reversed C, Latin Small Letter                         &#x2184;     ↄ
+Reversed Comma Above, Combining                        &#x0314;
+Reversed Comma Quotation Mark, Double                  &#x201F;     ‟
+Reversed Comma Quotation Mark, Single                  &#x201B;     ‛
+Reversed Comma, Modifier Letter                        &#x02BD;     ʽ
+Reversed Double Prime                                  &#x2036;     ‶
+Reversed Double Prime Quotation Mark                   &#x301D;     〝
+Reversed E, Latin Capital Letter                       &#x018E;     Ǝ
+Reversed E, Latin Small Letter                         &#x0258;     ɘ
+Reversed Epsilon, Latin Small Letter Closed            &#x025E;     ɞ
+Reversed Esh Loop, Latin Letter                        &#x01AA;     ƪ
+Reversed Esh, Latin Small Letter Squat                 &#x0285;     ʅ
+Reversed Glottal Stop, Latin Letter                    &#x0295;     ʕ
+Reversed Glottal Stop, Modifier Letter                 &#x02C1;     ˁ
+Reversed Glottal Stop, Modifier Letter Small           &#x02E4;     ˤ
+Reversed Lunate Epsilon Symbol, Greek                  &#x03F6;     ϶
+Reversed N, Latin Letter Small Capital                 &#x1D0E;     ᴎ
+Reversed Not Sign                                      &#x2310;     ⌐
+Reversed Open E With Hook, Latin Small Letter          &#x025D;     ɝ
+Reversed Open E, Latin Small Letter                    &#x025C;     ɜ
+Reversed Open E, Latin Small Letter Closed             &#x025E;     ɞ
+Reversed Pilcrow Sign                                  &#x204B;     ⁋
+Reversed Prime                                         &#x2035;     ‵
+Reversed R With Fishhook, Latin Small Letter           &#x027F;     ɿ
+Reversed R, Latin Letter Small Capital                 &#x1D19;     ᴙ
+Reversed Rotated Floral Heart Bullet                   &#x2619;     ☙
+Reversed Sans-Serif Capital L                          &#x2143;     ⅃
+Reversed Semicolon                                     &#x204F;     ⁏
+Reversed Straight Epsilon                              &#x03F6;     ϶
+Reversed Tilde                                         &#x223D;     ∽
+Reversed Tilde Equals                                  &#x22CD;     ⋍
+Reversed Triple Prime                                  &#x2037;     ‷
+Reversed, Latin Small Letter Ezh                       &#x01B9;     ƹ
+Rgroup                                                 &#x27EF;     ⟯
+Rhotic Hook, Modifier Letter                           &#x02DE;     ˞
+Rial Sign                                              &#xFDFC;     ﷼
+Riel, Khmer Currency Symbol                            &#x17DB;     ៛
+Riemann Integral                                       &#x211B;     ℛ
+Right Abstract Syntax Bracket                          &#x301B;     〛
+Right Angle                                            &#x221F;     ∟
+Right Angle Bracket                                    &#x3009;     〉
+Right Angle Bracket, Mathematical                      &#x27E9;     ⟩
+Right Angle With Arc                                   &#x22BE;     ⊾
+Right Arrow Above, Combining                           &#x20D7;
+Right Arrow Above, Combining Left                      &#x20E1;
+Right Arrow Below, Combining                           &#x20EF;
+Right Arrow Below, Combining Left                      &#x034D;
+Right Arrow, Colon                                     &#x29F4;     ⧴
+Right Arrowhead Above, Combining                       &#x0350;
+Right Arrowhead Below, Combining                       &#x0355;
+Right Bag Bracket                                      &#x27E7;     ⟧
+Right Black Lenticular Bracket                         &#x3011;     】
+Right Ceiling                                          &#x2309;     ⌉
+Right Chevron Bracket                                  &#x27EB;     ⟫
+Right Corner Bracket                                   &#x300D;     」
+Right Curly Bracket                                    &#x007D;     }
+Right Diagonal Ellipsis, Down                          &#x22F1;     ⋱
+Right Diagonal Ellipsis, Up                            &#x22F0;     ⋰
+Right Double Angle Bracket                             &#x300B;     》
+Right Double Angle Bracket, Mathematical               &#x27EB;     ⟫
+Right Double Quotation Mark                            &#x201D;     ”
+Right Floor                                            &#x230B;     ⌋
+Right Half Ring Above, Combining                       &#x0357;
+Right Half Ring Below, Combining                       &#x0339;
+Right Half Ring, Armenian Modifier Letter              &#x055A;     ՚
+Right Harpoon Above, Combining                         &#x20D1;
+Right Key, Delete To The                               &#x2326;     ⌦
+Right Moustache                                        &#x23B1;     ⎱
+Right Normal Factor Semidirect Product                 &#x22CA;     ⋊
+Right Parenthesis                                      &#x0029;     )
+Right Parenthesis, Ornate                              &#xFD3F;     ﴿
+Right Pencil, Lower                                    &#x270E;     ✎
+Right Pencil, Upper                                    &#x2710;     ✐
+Right Pointing Guillemet                               &#x00BB;     »
+Right Pointing Index, Black                            &#x261B;     ☛
+Right Pointing Index, White                            &#x261E;     ☞
+Right Pointing Single Guillemet                        &#x203A;     ›
+Right Semidirect Product                               &#x22CC;     ⋌
+Right Sequence Bracket                                 &#x27E9;     ⟩
+Right Single Quotation Mark                            &#x2019;     ’
+Right Square Bracket                                   &#x005D;     ]
+Right Square Bracket With Quill                        &#x2046;     ⁆
+Right Tack                                             &#x22A2;     ⊢
+Right Tack Below, Combining                            &#x0319;
+Right Tortoise Shell Bracket                           &#x3015;     〕
+Right Triangle                                         &#x22BF;     ⊿
+Right White Corner Bracket                             &#x300F;     』
+Right White Curly Bracket                              &#x2984;     ⦄
+Right White Lenticular Bracket                         &#x3017;     〗
+Right White Parenthesis                                &#x2986;     ⦆
+Right White Square Bracket                             &#x301B;     〛
+Right White Tortoise Shell Bracket                     &#x3019;     〙
+Right, Combining Comma Above                           &#x0315;
+Right, Combining Dot Above                             &#x0358;
+Right, Erase To The                                    &#x2326;     ⌦
+Right, Fast Cursor                                     &#x21A0;     ↠
+Right-Pointing Angle Bracket                           &#x232A;     〉
+Right-Pointing Angle Quotation Mark, Single            &#x203A;     ›
+Right-Pointing Double Angle Quotation Mark             &#x00BB;     »
+Right-To-Left Embedding                                &#x202B;     ‫
+Right-To-Left Mark                                     &#x200F;     ‏
+Right-To-Left Override                                 &#x202E;     ‮
+Righthand Interior Product                             &#x2A3D;     ⨽
+Rightward Tab                                          &#x21E5;     ⇥
+Rightwards Arrow                                       &#x2192;     →
+Rightwards Arrow Below, Combining Double               &#x0362;
+Rightwards Bullet, Black                               &#x204D;     ⁍
+Rightwards Harpoon With Barb Downwards, Combining      &#x20EC;
+Ring Above                                             &#x02DA;     ˚
+Ring Above, Combining                                  &#x030A;
+Ring Above, Combining Left Half                        &#x0351;
+Ring Above, Combining Right Half                       &#x0357;
+Ring Above, Latin Capital Letter A With                &#x00C5;     Å
+Ring Above, Latin Small Letter A With                  &#x00E5;     å
+Ring Below, Combining                                  &#x0325;
+Ring Below, Combining Double                           &#x035A;
+Ring Below, Combining Left Half                        &#x031C;
+Ring Below, Combining Right Half                       &#x0339;
+Ring Below, Latin Small Letter A With                  &#x1E01;     ḁ
+Ring Equal To                                          &#x2257;     ≗
+Ring In Equal To                                       &#x2256;     ≖
+Ring Operator                                          &#x2218;     ∘
+Ring Operator, Circled                                 &#x229A;     ⊚
+Ring Overlay, Combining                                &#x20D8;
+Ring Overlay, Combining Anticlockwise                  &#x20DA;
+Ring Overlay, Combining Clockwise                      &#x20D9;
+Ring Overlay, Combining Counterclockwise               &#x20DA;
+Ring, Armenian Modifier Letter Left Half               &#x0559;     ՙ
+Ring, Armenian Modifier Letter Right Half              &#x055A;     ՚
+Ring, Benzene                                          &#x232C;     ⌬
+Ring, Modifier Letter Centred Left Half                &#x02D3;     ˓
+Ring, Modifier Letter Left Half                        &#x02BF;     ʿ
+Rjes Su Nga Ro, Tibetan Sign                           &#x0F7E;
+Rnam Bcad, Tibetan Sign                                &#x0F7F;
+Roman Numerals                                         &#x2160;     Ⅰ
+Roman Numerals, Archaic                                &#x2185;     ↅ
+Roman Symbols                                          &#x10190;    𐆐
+Root, Cube                                             &#x221B;     ∛
+Root, Fourth                                           &#x221C;     ∜
+Root, Square                                           &#x221A;     √
+Rotated Capital Q                                      &#x213A;     ℺
+Rough Breathing Mark, Greek                            &#x0314;
+Rule, Parted                                           &#x00A6;     ¦
+Rule-Delayed                                           &#x29F4;     ⧴
+Runic                                                  &#x16A0;     ᚠ
+Runic Golden Numbers                                   &#x16EE;     ᛮ
+Runic Punctuation                                      &#x16EB;     ᛫
+Runout, Total                                          &#x2330;     ⌰
+Rupai, Tamil                                           &#x0BF9;     ௹
+Rupee Mark, Bengali                                    &#x09F2;     ৲
+Rupee Sign                                             &#x20A8;     ₨
+Rupee Sign, Bengali                                    &#x09F3;     ৳
+Rupee Sign, Gujarati                                   &#x0AF1;     ૱
+Rupee Sign, Tamil                                      &#x0BF9;     ௹
+Russian Alphabet                                       &#x0410;     А

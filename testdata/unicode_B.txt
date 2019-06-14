@@ -1,0 +1,286 @@
+B
+Description                                            Entity       Preview
+B With Dot Above, Latin Small Letter                   &#x1E03;     ḃ
+B With Dot Below, Latin Small Letter                   &#x1E05;     ḅ
+B With Hook, Latin Capital Letter                      &#x0181;     Ɓ
+B With Hook, Latin Small Letter                        &#x0253;     ɓ
+B With Line Below, Latin Small Letter                  &#x1E07;     ḇ
+B With Stroke, Latin Capital Letter                    &#x0243;     Ƀ
+B With Stroke, Latin Small Letter                      &#x0180;     ƀ
+B With Topbar, Latin Small Letter                      &#x0183;     ƃ
+B, Latin Letter Small Capital                          &#x0299;     ʙ
+B, Latin Letter Small Capital Barred                   &#x1D03;     ᴃ
+B, Script Capital                                      &#x212C;     ℬ
+Baby Gamma, Latin Small Letter                         &#x0264;     ɤ
+Backslash                                              &#x005C;     \
+Backslash, Combining Enclosing Circle                  &#x20E0;
+Backspace                                              &#x0008;     �
+Backspace, Symbol For                                  &#x2408;     ␈
+Backward Arrow Indicator                               &#x25C5;     ◅
+Backward Difference                                    &#x2207;     ∇
+Backward, Partial Line                                 &#x008C;     �
+Bag Addition                                           &#x228E;     ⊎
+Bag Bracket, Left                                      &#x27E6;     ⟦
+Bag Bracket, Right                                     &#x27E7;     ⟧
+Bag Count, Infix                                       &#x266F;     ♯
+Bag Membership, Z Notation                             &#x22FF;     ⋿
+Bag Subtraction                                        &#x2A41;     ⩁
+Baht, Thai Currency Symbol                             &#x0E3F;     ฿
+Balinese                                               &#x1B00;
+Balinese Digits                                        &#x1B50;     ᭐
+Balinese Musical Symbols                               &#x1B61;     ᭡
+Ballot Box                                             &#x2610;     ☐
+Ballot Box With Check                                  &#x2611;     ☑
+Ballot Box With X                                      &#x2612;     ☒
+Ballot X                                               &#x2717;     ✗
+Ballot X, Heavy                                        &#x2718;     ✘
+Bang                                                   &#x0021;     !
+Bar Dingbats, Vertical                                 &#x2758;     ❘
+Bar Symbols, Error                                     &#x29EE;     ⧮
+Bar, Broken                                            &#x00A6;     ¦
+Bar, Horizontal                                        &#x2015;     ―
+Bar, Vertical                                          &#x007C;                      
+Bar, White Vertical                                    &#x2AFE;     ⫾
+Barred B, Latin Letter Small Capital                   &#x1D03;     ᴃ
+Barred O, Latin Capital Letter                         &#x019F;     Ɵ
+Barred O, Latin Small Letter                           &#x0275;     ɵ
+Base                                                   &#x22A5;     ⊥
+Batsaganchakan Nshan, Armenian                         &#x055C;     ՜
+Battleground Symbol                                    &#x2694;     ⚔
+Beamed Eighth Notes                                    &#x266B;     ♫
+Beamed Sixteenth Notes                                 &#x266C;     ♬
+Because                                                &#x2235;     ∵
+Bell                                                   &#x0007;     �
+Bell Symbol                                            &#x237E;     ⍾
+Bell, Symbol For                                       &#x2407;     ␇
+Below, Combining Acute Accent                          &#x0317;
+Below, Combining Asterisk                              &#x0359;
+Below, Combining Breve                                 &#x032E;
+Below, Combining Bridge                                &#x032A;
+Below, Combining Caron                                 &#x032C;
+Below, Combining Circumflex Accent                     &#x032D;
+Below, Combining Comma                                 &#x0326;
+Below, Combining Diaeresis                             &#x0324;
+Below, Combining Dot                                   &#x0323;
+Below, Combining Double Breve                          &#x035C;
+Below, Combining Double Macron                         &#x035F;
+Below, Combining Double Rightwards Arrow               &#x0362;
+Below, Combining Double Ring                           &#x035A;
+Below, Combining Double Vertical Line                  &#x0348;
+Below, Combining Down Tack                             &#x031E;
+Below, Combining Equals Sign                           &#x0347;
+Below, Combining Grave Accent                          &#x0316;
+Below, Combining Inverted Breve                        &#x032F;
+Below, Combining Inverted Bridge                       &#x033A;
+Below, Combining Inverted Double Arch                  &#x032B;
+Below, Combining Left Angle                            &#x0349;
+Below, Combining Left Arrow                            &#x20EE;
+Below, Combining Left Arrowhead                        &#x0354;
+Below, Combining Left Half Ring                        &#x031C;
+Below, Combining Left Right Arrow                      &#x034D;
+Below, Combining Left Tack                             &#x0318;
+Below, Combining Macron                                &#x0331;
+Below, Combining Minus Sign                            &#x0320;
+Below, Combining Palatalized Hook                      &#x0321;
+Below, Combining Plus Sign                             &#x031F;
+Below, Combining Retroflex Hook                        &#x0322;
+Below, Combining Right Arrow                           &#x20EF;
+Below, Combining Right Arrowhead                       &#x0355;
+Below, Combining Right Half Ring                       &#x0339;
+Below, Combining Right Tack                            &#x0319;
+Below, Combining Ring                                  &#x0325;
+Below, Combining Seagull                               &#x033C;
+Below, Combining Square                                &#x033B;
+Below, Combining Tilde                                 &#x0330;
+Below, Combining Up Tack                               &#x031D;
+Below, Combining Upwards Arrow                         &#x034E;
+Below, Combining Vertical Line                         &#x0329;
+Below, Combining X                                     &#x0353;
+Belt, Latin Small Letter L With                        &#x026C;     ɬ
+Bend, Actuarial                                        &#x20E7;
+Bengali                                                &#x0980;     ঀ
+Bengali Consonants                                     &#x0995;     ক
+Bengali Currency Signs                                 &#x09F2;     ৲
+Bengali Dependent Vowel Signs                          &#x09BE;
+Bengali Digits                                         &#x09E6;     ০
+Bengali Hasant                                         &#x09CD;
+Bengali Independent Vowels                             &#x0985;     অ
+Bengali Isshar                                         &#x09FA;     ৺
+Bengali Rupee Mark                                     &#x09F2;     ৲
+Bengali Rupee Sign                                     &#x09F3;     ৳
+Benzene Ring                                           &#x232C;     ⌬
+Bernoulli Function                                     &#x212C;     ℬ
+Bet Symbol                                             &#x2136;     ℶ
+Beta Symbol, Greek                                     &#x03D0;     ϐ
+Beta, Curled                                           &#x03D0;     ϐ
+Between                                                &#x226C;     ≬
+Beverage, Hot                                          &#x2615;     ☕
+Bidirectional Format Characters                        &#x202A;     ‪
+Big 5, Duplicate Characters From                       &#xFA0C;     兀
+Big Reverse Solidus                                    &#x29F9;     ⧹
+Big Solidus                                            &#x29F8;     ⧸
+Bijection                                              &#x2916;     ⤖
+Bilabial Click, Latin Letter                           &#x0298;     ʘ
+Bilabial Percussive, Latin Letter                      &#x02AC;     ʬ
+Bindu, Devanagari                                      &#x0902;
+Biohazard Sign                                         &#x2623;     ☣
+Birga, Mongolian                                       &#x1800;     ᠀
+Bismillah Ar-Rahman Ar-Raheem, Arabic Ligature         &#xFDFD;     ﷽
+Black Circle                                           &#x25CF;     ●
+Black Circle, Medium                                   &#x26AB;     ⚫
+Black Flag                                             &#x2691;     ⚑
+Black Hourglass                                        &#x29D7;     ⧗
+Black Left Pointing Index                              &#x261A;     ☚
+Black Leftwards Bullet                                 &#x204C;     ⁌
+Black Lenticular Bracket, Left                         &#x3010;     【
+Black Lenticular Bracket, Right                        &#x3011;     】
+Black Lozenge                                          &#x29EB;     ⧫
+Black Medium Small Square                              &#x25FE;     ◾
+Black Medium Square                                    &#x25FC;     ◼
+Black Nib                                              &#x2712;     ✒
+Black Parallelogram                                    &#x25B0;     ▰
+Black Right Pointing Index                             &#x261B;     ☛
+Black Rightwards Bullet                                &#x204D;     ⁍
+Black Scissors                                         &#x2702;     ✂
+Black Shogi Piece                                      &#x2617;     ☗
+Black Small Circle                                     &#x2022;     •
+Black Smiling Face                                     &#x263B;     ☻
+Black Star                                             &#x2605;     ★
+Black Sun With Rays                                    &#x2600;     ☀
+Black Telephone                                        &#x260E;     ☎
+Black-Letter Capital C                                 &#x212D;     ℭ
+Black-Letter Capital H                                 &#x210C;     ℌ
+Black-Letter Capital I                                 &#x2111;     ℑ
+Black-Letter Capital R                                 &#x211C;     ℜ
+Black-Letter Capital Z                                 &#x2128;     ℨ
+Black-Letter Mathematical Symbols                      &#x1D504;    𝔄
+Blank Symbol                                           &#x2422;     ␢
+Block Elements                                         &#x2580;     ▀
+Block, End Of Transmission                             &#x0017;     �
+Block, Full                                            &#x2588;     █
+Block, Symbol For End Of Transmission                  &#x2417;     ␗
+Bohairic Coptic                                        &#x2C80;     Ⲁ
+Bold Digits                                            &#x1D7CE;    𝟎
+Bold Digits, Sans-Serif                                &#x1D7EC;    𝟬
+Bold Fraktur Mathematical Symbols                      &#x1D56C;    𝕬
+Bold Greek Mathematical Symbols                        &#x1D6A8;    𝚨
+Bold Greek Mathematical Symbols, Sans-Serif            &#x1D756;    𝝖
+Bold Italic Greek Mathematical Symbols                 &#x1D71C;    𝜜
+Bold Italic Greek Mathematical Symbols, Sans-Serif     &#x1D790;    𝞐
+Bold Italic Mathematical Symbols                       &#x1D468;    𝑨
+Bold Italic Mathematical Symbols, Sans-Serif           &#x1D63C;    𝘼
+Bold Mathematical Symbols                              &#x1D400;    𝐀
+Bold Mathematical Symbols, Sans-Serif                  &#x1D5D4;    𝗔
+Bold Script Mathematical Symbols                       &#x1D4D0;    𝓐
+Bom                                                    &#xFEFF;     ﻿
+Bopomofo Extensions, Chinese                           &#x31A0;     ㆠ
+Bopomofo, Chinese                                      &#x3100;     ㄀
+Bottom                                                 &#x22A5;     ⊥
+Bowt, Armenian                                         &#x055D;     ՝
+Bowtie                                                 &#x22C8;     ⋈
+Bowtie Symbols                                         &#x29D1;     ⧑
+Bowtie, Large                                          &#x2A1D;     ⨝
+Bowtie, Vertical                                       &#x29D6;     ⧖
+Box Drawing                                            &#x2500;     ─
+Box With Check, Ballot                                 &#x2611;     ☑
+Box With X, Ballot                                     &#x2612;     ☒
+Box, Ballot                                            &#x2610;     ☐
+Box, Open                                              &#x2423;     ␣
+Box, Shouldered Open                                   &#x237D;     ⍽
+Box, X In A Rectangle                                  &#x2327;     ⌧
+Brace, Closing                                         &#x007D;     }
+Brace, Opening                                         &#x007B;     {
+Bracket Pieces                                         &#x239B;     ⎛
+Bracket Pieces                                         &#x23B0;     ⎰
+Bracket Variants For Vertical Text                     &#x23DC;     ⏜
+Bracket With Quill, Left Square                        &#x2045;     ⁅
+Bracket With Quill, Right Square                       &#x2046;     ⁆
+Bracket, Closing Curly                                 &#x007D;     }
+Bracket, Closing Square                                &#x005D;     ]
+Bracket, Left Abstract Syntax                          &#x301A;     〚
+Bracket, Left Angle                                    &#x3008;     〈
+Bracket, Left Bag                                      &#x27E6;     ⟦
+Bracket, Left Black Lenticular                         &#x3010;     【
+Bracket, Left Chevron                                  &#x27EA;     ⟪
+Bracket, Left Corner                                   &#x300C;     「
+Bracket, Left Curly                                    &#x007B;     {
+Bracket, Left Double Angle                             &#x300A;     《
+Bracket, Left Sequence                                 &#x27E8;     ⟨
+Bracket, Left Square                                   &#x005B;     [
+Bracket, Left Tortoise Shell                           &#x3014;     〔
+Bracket, Left White Corner                             &#x300E;     『
+Bracket, Left White Curly                              &#x2983;     ⦃
+Bracket, Left White Lenticular                         &#x3016;     〖
+Bracket, Left White Square                             &#x301A;     〚
+Bracket, Left White Tortoise Shell                     &#x3018;     〘
+Bracket, Left-Pointing Angle                           &#x2329;     〈
+Bracket, Mathematical Left Angle                       &#x27E8;     ⟨
+Bracket, Mathematical Left Double Angle                &#x27EA;     ⟪
+Bracket, Mathematical Right Angle                      &#x27E9;     ⟩
+Bracket, Mathematical Right Double Angle               &#x27EB;     ⟫
+Bracket, Opening Curly                                 &#x007B;     {
+Bracket, Opening Square                                &#x005B;     [
+Bracket, Right Abstract Syntax                         &#x301B;     〛
+Bracket, Right Angle                                   &#x3009;     〉
+Bracket, Right Bag                                     &#x27E7;     ⟧
+Bracket, Right Black Lenticular                        &#x3011;     】
+Bracket, Right Chevron                                 &#x27EB;     ⟫
+Bracket, Right Corner                                  &#x300D;     」
+Bracket, Right Curly                                   &#x007D;     }
+Bracket, Right Double Angle                            &#x300B;     》
+Bracket, Right Sequence                                &#x27E9;     ⟩
+Bracket, Right Square                                  &#x005D;     ]
+Bracket, Right Tortoise Shell                          &#x3015;     〕
+Bracket, Right White Corner                            &#x300F;     』
+Bracket, Right White Curly                             &#x2984;     ⦄
+Bracket, Right White Lenticular                        &#x3017;     〗
+Bracket, Right White Square                            &#x301B;     〛
+Bracket, Right White Tortoise Shell                    &#x3019;     〙
+Bracket, Right-Pointing Angle                          &#x232A;     〉
+Brackets                                               &#x2983;     ⦃
+Brackets, Cjk Angle                                    &#x3008;     〈
+Brackets, Cjk Corner                                   &#x300C;     「
+Brackets, Corner                                       &#x2308;     ⌈
+Brackets, Mathematical                                 &#x27E6;     ⟦
+Brackets, Ornamental                                   &#x2768;     ❨
+Brackets, Vertical                                     &#x23B4;     ⎴
+Braille Patterns                                       &#x2800;     ⠀
+Brazilian Currency                                     &#x20A2;     ₢
+Break Here, No                                         &#x0083;     �
+Break Permitted Here                                   &#x0082;     �
+Breathing Mark, Greek Rough                            &#x0314;
+Breathing Mark, Greek Smooth                           &#x0313;
+Breve                                                  &#x02D8;     ˘
+Breve Below, Combining                                 &#x032E;
+Breve Below, Combining Double                          &#x035C;
+Breve Below, Combining Inverted                        &#x032F;
+Breve, Combining                                       &#x0306;
+Breve, Combining Double                                &#x035D;
+Breve, Combining Double Inverted                       &#x0361;
+Breve, Combining Inverted                              &#x0311;
+Bridge Above, Combining                                &#x0346;
+Bridge Above, Combining Wide                           &#x20E9;
+Bridge Below, Combining                                &#x032A;
+Bridge Below, Combining Inverted                       &#x033A;
+Broken Bar                                             &#x00A6;     ¦
+Broken Vertical Bar                                    &#x00A6;     ¦
+Buginese                                               &#x1A00;     ᨀ
+Buhid                                                  &#x1740;     ᝀ
+Bullet                                                 &#x2022;     •
+Bullet Operator                                        &#x2219;     ∙
+Bullet, Black Leftwards                                &#x204C;     ⁌
+Bullet, Black Rightwards                               &#x204D;     ⁍
+Bullet, Hyphen                                         &#x2043;     ⁃
+Bullet, Reversed Rotated Floral Heart                  &#x2619;     ☙
+Bullet, Tainome Japanese                               &#x25C9;     ◉
+Bullet, Triangular                                     &#x2023;     ‣
+Bullet, White                                          &#x25E6;     ◦
+Bullseye                                               &#x25CE;     ◎
+Bullseye, Latin Letter                                 &#x0298;     ʘ
+Buried Symbol                                          &#x26B0;     ⚰
+Burmese                                                &#x1000;     က
+By Definition, Equal To                                &#x225C;     ≜
+By Definition, Equal To                                &#x225D;     ≝
+By, Measured                                           &#x225E;     ≞
+Byte Order Mark                                        &#xFEFF;     ﻿
+Byzantine Musical Symbols                              &#x1D000;    𝀀

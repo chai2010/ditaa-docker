@@ -1,0 +1,554 @@
+C
+Description                                            Entity       Preview
+C With Acute, Latin Small Letter                       &#x0107;     ć
+C With Caron, Latin Small Letter                       &#x010D;     č
+C With Cedilla, Latin Capital Letter                   &#x00C7;     Ç
+C With Cedilla, Latin Small Letter                     &#x00E7;     ç
+C With Circumflex, Latin Small Letter                  &#x0109;     ĉ
+C With Curl, Latin Small Letter                        &#x0255;     ɕ
+C With Dot Above, Latin Small Letter                   &#x010B;     ċ
+C With Hook, Latin Small Letter                        &#x0188;     ƈ
+C With Stroke, Latin Capital Letter                    &#x023B;     Ȼ
+C With Stroke, Latin Small Letter                      &#x023C;     ȼ
+C, Apostrophic                                         &#x2183;     Ↄ
+C, Black-Letter Capital                                &#x212D;     ℭ
+C, Combining Latin Small Letter                        &#x0368;
+C, Double-Struck Capital                               &#x2102;     ℂ
+C, Latin Letter Small Capital                          &#x1D04;     ᴄ
+C, Latin Letter Stretched                              &#x0297;     ʗ
+C, Latin Small Letter Reversed                         &#x2184;     ↄ
+Cada Una                                               &#x2106;     ℆
+Caduceus                                               &#x2624;     ☤
+Cambodian                                              &#x1780;     ក
+Canadian Aboriginal Syllabics, Unified                 &#x1400;     ᐀
+Canadian Syllabics Full Stop                           &#x166E;     ᙮
+Canadian Syllabics Punctuation                         &#x166D;     ᙭
+Cancel                                                 &#x0018;     �
+Cancel Character                                       &#x0094;     �
+Cancel Tag                                             &#xE007F;    󠁿
+Cancel, Symbol For                                     &#x2418;     ␘
+Cancellation Mark, Lao                                 &#x0ECC;
+Cancer                                                 &#x264B;     ♋
+Candrabindu, Combining                                 &#x0310;
+Candrabindu, Devanagari Sign                           &#x0901;
+Cantillation Marks, Hebrew                             &#x0591;
+Cantillation Signs, Tibetan                            &#x0FC0;     ࿀
+Cap                                                    &#x2229;     ∩
+Cap, Square                                            &#x2293;     ⊓
+Capital Letters, Armenian                              &#x0531;     Ա
+Capital Letters, Cyrillic                              &#x0400;     Ѐ
+Capital Letters, Georgian                              &#x10A0;     Ⴀ
+Capital Letters, Greek                                 &#x0391;     Α
+Capital Letters, Latin                                 &#x0041;     A
+Capricorn                                              &#x2651;     ♑
+Caps Lock                                              &#x21EA;     ⇪
+Caps Lock                                              &#x21EC;     ⇬
+Card Suits, Playing                                    &#x2660;     ♠
+Cardinal, First Transfinite                            &#x2135;     ℵ
+Cardinal, Fourth Transfinite                           &#x2138;     ℸ
+Cardinal, Second Transfinite                           &#x2136;     ℶ
+Cardinal, Third Transfinite                            &#x2137;     ℷ
+Care Of                                                &#x2105;     ℅
+Caret                                                  &#x028C;     ʌ
+Caret                                                  &#x2038;     ‸
+Caret Insertion Point                                  &#x2041;     ⁁
+Carian                                                 &#x102A0;    𐊠
+Caron                                                  &#x02C7;     ˇ
+Caron Below, Combining                                 &#x032C;
+Caron, Combining                                       &#x030C;
+Carriage Return                                        &#x000D;    
+Carriage Return, Symbol For                            &#x240D;     ␍
+Cartesian Product                                      &#x00D7;     ×
+Caution Sign                                           &#x2621;     ☡
+Cedi Sign                                              &#x20B5;     ₵
+Cedilla                                                &#x00B8;     ¸
+Cedilla Above                                          &#x0312;
+Cedilla, Combining                                     &#x0327;
+Cedilla, Latin Capital Letter C With                   &#x00C7;     Ç
+Cedilla, Latin Small Letter C With                     &#x00E7;     ç
+Cedilla, Spacing                                       &#x00B8;     ¸
+Ceiling, Left                                          &#x2308;     ⌈
+Ceiling, Right                                         &#x2309;     ⌉
+Celsius, Degree                                        &#x2103;     ℃
+Cent Sign                                              &#x00A2;     ¢
+Center                                                 &#x2385;     ⎅
+Centigrade, Degrees                                    &#x2103;     ℃
+Centre Line Symbol                                     &#x2104;     ℄
+Centreline Low Line                                    &#xFE4E;     ﹎
+Centreline Overline                                    &#xFE4A;     ﹊
+Cham                                                   &#xAA00;     ꨀ
+Chandrakkala, Malayalam                                &#x0D4D;
+Character Introducer, Single                           &#x009A;     �
+Character Tabulation                                   &#x0009;    
+Character Tabulation Set                               &#x0088;     �
+Character Tabulation With Justification                &#x0089;     �
+Character Tie                                          &#x2040;     ⁀
+Chart Components, Form And                             &#x2500;     ─
+Check Mark                                             &#x2713;     ✓
+Check Mark, Heavy                                      &#x2714;     ✔
+Check Mark, Not                                        &#x237B;     ⍻
+Check, Ballot Box With                                 &#x2611;     ☑
+Checkers, Symbols For Draughts And                     &#x26C0;     ⛀
+Cherokee                                               &#x13A0;     Ꭰ
+Chess Symbols                                          &#x2654;     ♔
+Chess Symbols, Japanese                                &#x2616;     ☖
+Chevron Bracket, Left                                  &#x27EA;     ⟪
+Chevron Bracket, Right                                 &#x27EB;     ⟫
+Chevrons                                               &#x00AB;     «
+Chi Rho                                                &#x2627;     ☧
+Chillu Letters, Malayalam                              &#x0D7A;     ൺ
+Chinese Bopomofo                                       &#x3100;     ㄀
+Chinese Bopomofo Extensions                            &#x31A0;     ㆠ
+Chinese Fifth Or Neutral Tone, Mandarin                &#x02D9;     ˙
+Chinese First Tone, Mandarin                           &#x02C9;     ˉ
+Chinese Fourth Tone, Mandarin                          &#x02CB;     ˋ
+Chinese Second Tone, Mandarin                          &#x02CA;     ˊ
+Chinese Third Tone, Mandarin                           &#x02C7;     ˇ
+Chinese, Corner Tone Marks For                         &#xA700;     ꜀
+Choice, Dijkstra                                       &#x2AFE;     ⫾
+Choice, N-Ary Dijkstra                                 &#x2AFF;     ⫿
+Christogram                                            &#x2627;     ☧
+Circle Backslash, Combining Enclosing                  &#x20E0;
+Circle Symbols                                         &#x29B5;     ⦵
+Circle, Black                                          &#x25CF;     ●
+Circle, Black Small                                    &#x2022;     •
+Circle, Combining Enclosing                            &#x20DD;
+Circle, Dotted                                         &#x25CC;     ◌
+Circle, Jis Composition                                &#x20DD;
+Circle, Large                                          &#x25EF;     ◯
+Circle, Medium Black                                   &#x26AB;     ⚫
+Circle, Medium Small White                             &#x26AC;     ⚬
+Circle, Medium White                                   &#x26AA;     ⚪
+Circle, Shadowed White                                 &#x274D;     ❍
+Circle, White                                          &#x25CB;     ○
+Circled Asterisk Operator                              &#x229B;     ⊛
+Circled Dash                                           &#x229D;     ⊝
+Circled Digit Zero                                     &#x24EA;     ⓪
+Circled Digits, Dingbat                                &#x2776;     ❶
+Circled Division Sign                                  &#x2A38;     ⨸
+Circled Division Slash                                 &#x2298;     ⊘
+Circled Dot Operator                                   &#x2299;     ⊙
+Circled Dot Operator, N-Ary                            &#x2A00;     ⨀
+Circled Equals                                         &#x229C;     ⊜
+Circled Ideographs                                     &#x3280;     ㊀
+Circled Inverse Numbers                                &#x2776;     ❶
+Circled Katakana                                       &#x32D0;     ㋐
+Circled Korean Hangul Elements                         &#x3260;     ㉠
+Circled Korean Hangul Syllables                        &#x326E;     ㉮
+Circled Latin Letters                                  &#x24B6;     Ⓐ
+Circled Minus                                          &#x2296;     ⊖
+Circled Numbers                                        &#x2460;     ①
+Circled Numbers                                        &#x3251;     ㉑
+Circled Numbers                                        &#x32B1;     ㊱
+Circled Numbers, Double                                &#x24F5;     ⓵
+Circled Numbers, White On Black                        &#x24EB;     ⓫
+Circled Plus                                           &#x2295;     ⊕
+Circled Plus Operator, N-Ary                           &#x2A01;     ⨁
+Circled Postal Mark                                    &#x3036;     〶
+Circled Ring Operator                                  &#x229A;     ⊚
+Circled Times                                          &#x2297;     ⊗
+Circled Times Operator, N-Ary                          &#x2A02;     ⨂
+Circles                                                &#x25CB;     ○
+Circumflex Accent                                      &#x005E;     ^
+Circumflex Accent Below, Combining                     &#x032D;
+Circumflex Accent, Combining                           &#x0302;
+Circumflex Accent, Modifier Letter                     &#x02C6;     ˆ
+Circumflex Accent, Spacing                             &#x005E;     ^
+Cjk Angle Brackets                                     &#x3008;     〈
+Cjk Compatibility                                      &#x3300;     ㌀
+Cjk Compatibility Forms                                &#xFE30;     ︰
+Cjk Compatibility Ideographs                           &#xF900;     豈
+Cjk Compatibility Ideographs Supplement                &#x2F800;    丽
+Cjk Corner Brackets                                    &#x300C;     「
+Cjk Diacritics                                         &#x302A;
+Cjk Ideographic Description Characters                 &#x2FF0;     ⿰
+Cjk Ideographs Area                                    &#x3400;     㐀
+Cjk Ideographs Area, Supplementary                     &#x20000;    𠀀
+Cjk Ideographs, Parenthesized                          &#x3220;     ㈠
+Cjk Kangxi Radicals                                    &#x2F00;     ⼀
+Cjk Letters And Months, Enclosed                       &#x3200;     ㈀
+Cjk Phonetics And Symbols Area                         &#x2E80;     ⺀
+Cjk Punctuation, Halfwidth                             &#xFF61;     ｡
+Cjk Quotation Marks                                    &#x300C;     「
+Cjk Radicals Supplement                                &#x2E80;     ⺀
+Cjk Strokes                                            &#x31C0;     ㇀
+Cjk Symbols And Punctuation                            &#x3000;     　
+Cjk Unified Ideographs                                 &#x4E00;     一
+Cjk Unified Ideographs Extension A                     &#x3400;     㐀
+Cjk Unified Ideographs Extension B                     &#x20000;    𠀀
+Claudian Antisigma                                     &#x2183;     Ↄ
+Claudian Digamma Inversum                              &#x2132;     Ⅎ
+Clear Key                                              &#x2327;     ⌧
+Clear Screen Symbol                                    &#x239A;     ⎚
+Clear Weather                                          &#x2600;     ☀
+Click, Latin Letter Alveolar                           &#x01C2;     ǂ
+Click, Latin Letter Bilabial                           &#x0298;     ʘ
+Click, Latin Letter Dental                             &#x01C0;     ǀ
+Click, Latin Letter Lateral                            &#x01C1;     ǁ
+Click, Latin Letter Retroflex                          &#x01C3;     ǃ
+Clicks, African Letters For                            &#x01C0;     ǀ
+Clockwise Arrow Above, Combining                       &#x20D5;
+Clockwise Contour Integral                             &#x2232;     ∲
+Clockwise Integral                                     &#x2231;     ∱
+Clockwise Ring Overlay, Combining                      &#x20D9;
+Clone                                                  &#x2104;     ℄
+Clones Of Diacritics, Spacing                          &#x02D8;     ˘
+Close Up                                               &#x2050;     ⁐
+Closed Epsilon, Latin Small Letter                     &#x029A;     ʚ
+Closed Omega, Latin Small Letter                       &#x0277;     ɷ
+Closed Open E, Latin Small Letter                      &#x029A;     ʚ
+Closed Reversed Epsilon, Latin Small Letter            &#x025E;     ɞ
+Closed Reversed Open E, Latin Small Letter             &#x025E;     ɞ
+Closing Brace                                          &#x007D;     }
+Closing Curly Bracket                                  &#x007D;     }
+Closing Mark, Ideographic                              &#x3006;     〆
+Closing Parenthesis                                    &#x0029;     )
+Closing Square Bracket                                 &#x005D;     ]
+Cloud                                                  &#x2601;     ☁
+Cloudy Weather                                         &#x2601;     ☁
+Coffee, Cup Of                                         &#x2615;     ☕
+Coffin                                                 &#x26B0;     ⚰
+Colon                                                  &#x003A;     :
+Colon Equals                                           &#x2254;     ≔
+Colon Right Arrow                                      &#x29F4;     ⧴
+Colon Sign                                             &#x20A1;     ₡
+Colon, Equals                                          &#x2255;     ≕
+Colon, Ethiopic                                        &#x1365;     ፥
+Colon, Ethiopic Preface                                &#x1366;     ፦
+Colon, Modifier Letter Half Triangular                 &#x02D1;     ˑ
+Colon, Modifier Letter Triangular                      &#x02D0;     ː
+Colon, Mongolian                                       &#x1804;     ᠄
+Colon, Z Notation Type                                 &#x2982;     ⦂
+Combining Acute Accent                                 &#x0301;
+Combining Acute Accent Below                           &#x0317;
+Combining Acute Tone Mark                              &#x0341;
+Combining Almost Equal To Above                        &#x034C;
+Combining Alphabet, Korean Hangul Jamo                 &#x1100;     ᄀ
+Combining Annuity Symbol                               &#x20E7;
+Combining Anticlockwise Arrow Above                    &#x20D4;
+Combining Anticlockwise Ring Overlay                   &#x20DA;
+Combining Asterisk Above                               &#x20F0;
+Combining Asterisk Below                               &#x0359;
+Combining Breve                                        &#x0306;
+Combining Breve Below                                  &#x032E;
+Combining Bridge Above                                 &#x0346;
+Combining Bridge Below                                 &#x032A;
+Combining Candrabindu                                  &#x0310;
+Combining Caron                                        &#x030C;
+Combining Caron Below                                  &#x032C;
+Combining Cedilla                                      &#x0327;
+Combining Characters, Cyrillic                         &#x0483;
+Combining Circumflex Accent                            &#x0302;
+Combining Circumflex Accent Below                      &#x032D;
+Combining Clockwise Arrow Above                        &#x20D5;
+Combining Clockwise Ring Overlay                       &#x20D9;
+Combining Comma Above                                  &#x0313;
+Combining Comma Above Right                            &#x0315;
+Combining Comma Below                                  &#x0326;
+Combining Conjoining Macron                            &#xFE26;
+Combining Counterclockwise Arrow Above                 &#x20D4;
+Combining Counterclockwise Ring Overlay                &#x20DA;
+Combining Diacritical Marks                            &#x0300;
+Combining Diacritical Marks For Symbols                &#x20D0;
+Combining Diaeresis                                    &#x0308;
+Combining Diaeresis Below                              &#x0324;
+Combining Dot Above                                    &#x0307;
+Combining Dot Above Right                              &#x0358;
+Combining Dot Below                                    &#x0323;
+Combining Double Acute Accent                          &#x030B;
+Combining Double Breve                                 &#x035D;
+Combining Double Breve Below                           &#x035C;
+Combining Double Grave Accent                          &#x030F;
+Combining Double Inverted Breve                        &#x0361;
+Combining Double Low Line                              &#x0333;
+Combining Double Macron                                &#x035E;
+Combining Double Macron Below                          &#x035F;
+Combining Double Overline                              &#x033F;
+Combining Double Rightwards Arrow Below                &#x0362;
+Combining Double Ring Below                            &#x035A;
+Combining Double Tilde                                 &#x0360;
+Combining Double Vertical Line Above                   &#x030E;
+Combining Double Vertical Line Below                   &#x0348;
+Combining Double Vertical Stroke Overlay               &#x20E6;
+Combining Down Tack Below                              &#x031E;
+Combining Enclosing Circle                             &#x20DD;
+Combining Enclosing Circle Backslash                   &#x20E0;
+Combining Enclosing Diamond                            &#x20DF;
+Combining Enclosing Keycap                             &#x20E3;
+Combining Enclosing Screen                             &#x20E2;
+Combining Enclosing Square                             &#x20DE;
+Combining Enclosing Upward Pointing Triangle           &#x20E4;
+Combining Equals Sign Below                            &#x0347;
+Combining Fermata                                      &#x0352;
+Combining Four Dots Above                              &#x20DC;
+Combining Grapheme Joiner                              &#x034F;
+Combining Grave Accent                                 &#x0300;
+Combining Grave Accent Below                           &#x0316;
+Combining Grave Tone Mark                              &#x0340;
+Combining Greek Dialytika Tonos                        &#x0344;
+Combining Greek Koronis                                &#x0343;
+Combining Greek Perispomeni                            &#x0342;
+Combining Greek Ypogegrammeni                          &#x0345;
+Combining Hacek                                        &#x030C;
+Combining Half Marks                                   &#xFE20;
+Combining Homothetic Above                             &#x034B;
+Combining Hook Above                                   &#x0309;
+Combining Horn                                         &#x031B;
+Combining Inverted Breve                               &#x0311;
+Combining Inverted Breve Below                         &#x032F;
+Combining Inverted Bridge Below                        &#x033A;
+Combining Inverted Double Arch Below                   &#x032B;
+Combining Japanese Daku-On                             &#x3099;
+Combining Japanese Han-Daku-On                         &#x309A;
+Combining Latin Small Letters                          &#x0363;
+Combining Left Angle Above                             &#x031A;
+Combining Left Angle Below                             &#x0349;
+Combining Left Arrow Above                             &#x20D6;
+Combining Left Arrow Below                             &#x20EE;
+Combining Left Arrowhead Below                         &#x0354;
+Combining Left Half Ring Above                         &#x0351;
+Combining Left Half Ring Below                         &#x031C;
+Combining Left Harpoon Above                           &#x20D0;
+Combining Left Right Arrow Above                       &#x20E1;
+Combining Left Right Arrow Below                       &#x034D;
+Combining Left Tack Below                              &#x0318;
+Combining Leftwards Arrow Overlay                      &#x20EA;
+Combining Leftwards Harpoon With Barb Downwards        &#x20ED;
+Combining Long Double Solidus Overlay                  &#x20EB;
+Combining Long Solidus Overlay                         &#x0338;
+Combining Long Stroke Overlay                          &#x0336;
+Combining Long Vertical Line Overlay                   &#x20D2;
+Combining Low Line                                     &#x0332;
+Combining Macron                                       &#x0304;
+Combining Macron Below                                 &#x0331;
+Combining Macron Left Half                             &#xFE24;
+Combining Macron Right Half                            &#xFE25;
+Combining Marks, Arabic                                &#x0653;
+Combining Minus Sign Below                             &#x0320;
+Combining Not Tilde Above                              &#x034A;
+Combining Ogonek                                       &#x0328;
+Combining Overline                                     &#x0305;
+Combining Palatalized Hook Below                       &#x0321;
+Combining Plus Sign Below                              &#x031F;
+Combining Retroflex Hook Below                         &#x0322;
+Combining Reverse Solidus Overlay                      &#x20E5;
+Combining Reversed Comma Above                         &#x0314;
+Combining Right Arrow Above                            &#x20D7;
+Combining Right Arrow Below                            &#x20EF;
+Combining Right Arrowhead Above                        &#x0350;
+Combining Right Arrowhead Below                        &#x0355;
+Combining Right Half Ring Above                        &#x0357;
+Combining Right Half Ring Below                        &#x0339;
+Combining Right Harpoon Above                          &#x20D1;
+Combining Right Tack Below                             &#x0319;
+Combining Rightwards Harpoon With Barb Downwards       &#x20EC;
+Combining Ring Above                                   &#x030A;
+Combining Ring Below                                   &#x0325;
+Combining Ring Overlay                                 &#x20D8;
+Combining Seagull Below                                &#x033C;
+Combining Short Solidus Overlay                        &#x0337;
+Combining Short Stroke Overlay                         &#x0335;
+Combining Short Vertical Line Overlay                  &#x20D3;
+Combining Square Below                                 &#x033B;
+Combining Three Dots Above                             &#x20DB;
+Combining Tilde                                        &#x0303;
+Combining Tilde Below                                  &#x0330;
+Combining Tilde Overlay                                &#x0334;
+Combining Triple Underdot                              &#x20E8;
+Combining Turned Comma Above                           &#x0312;
+Combining Up Tack Below                                &#x031D;
+Combining Upwards Arrow Below                          &#x034E;
+Combining Vertical Line Above                          &#x030D;
+Combining Vertical Line Below                          &#x0329;
+Combining Vertical Tilde                               &#x033E;
+Combining Wide Bridge Above                            &#x20E9;
+Combining X Above                                      &#x033D;
+Combining X Below                                      &#x0353;
+Combining Zigzag Above                                 &#x035B;
+Comet                                                  &#x2604;     comet
+Comma                                                  &#x002C;     ,
+Comma Above Right, Combining                           &#x0315;
+Comma Above, Combining                                 &#x0313;
+Comma Above, Combining Reversed                        &#x0314;
+Comma Above, Combining Turned                          &#x0312;
+Comma Below, Combining                                 &#x0326;
+Comma Quotation Mark, Double                           &#x201D;     ”
+Comma Quotation Mark, Double Reversed                  &#x201F;     ‟
+Comma Quotation Mark, Double Turned                    &#x201C;     “
+Comma Quotation Mark, Low Double                       &#x201E;     „
+Comma Quotation Mark, Low Single                       &#x201A;     ‚
+Comma Quotation Mark, Single                           &#x2019;     ’
+Comma Quotation Mark, Single Reversed                  &#x201B;     ‛
+Comma Quotation Mark, Single Turned                    &#x2018;     ‘
+Comma, Arabic                                          &#x060C;     ،
+Comma, Armenian                                        &#x055D;     ՝
+Comma, Ethiopic                                        &#x1363;     ፣
+Comma, Georgian                                        &#x00B7;     ·
+Comma, Ideographic                                     &#x3001;     、
+Comma, Invisible                                       &#x2063;     ⁣
+Comma, Modifier Letter Reversed                        &#x02BD;     ʽ
+Comma, Modifier Letter Turned                          &#x02BB;     ʻ
+Comma, Mongolian                                       &#x1802;     ᠂
+Comma, Mongolian Manchu                                &#x1808;     ᠈
+Command Key                                            &#x2318;     ⌘
+Command, Application Program                           &#x009F;     �
+Command, Operating System                              &#x009D;     �
+Commercial At                                          &#x0040;     @
+Commercial Minus Sign                                  &#x2052;     ⁒
+Compass                                                &#x263C;     ☼
+Compatibility And Specials Area                        &#xF900;     豈
+Compatibility Forms, Cjk                               &#xFE30;     ︰
+Compatibility Ideographs Supplement, Cjk               &#x2F800;    丽
+Compatibility Ideographs, Cjk                          &#xF900;     豈
+Compatibility Ideographs, Dprk                         &#xFA70;     並
+Compatibility Ideographs, Jis X 0213                   &#xFA30;     侮
+Compatibility Jamo, Korean Hangul                      &#x3130;     ㄰
+Compatibility, Cjk                                     &#x3300;     ㌀
+Complement                                             &#x2201;     ∁
+Complex Numbers                                        &#x2102;     ℂ
+Component, Radial                                      &#x27DF;     ⟟
+Components, Form And Chart                             &#x2500;     ─
+Composite Function                                     &#x2218;     ∘
+Composition Circle, Jis                                &#x20DD;
+Composition Symbol                                     &#x2384;     ⎄
+Concatenation, Sequence                                &#x2040;     ⁀
+Conical Taper                                          &#x2332;     ⌲
+Conjoining Macron, Combining                           &#xFE26;
+Conjugate Matrix, Hermitian                            &#x22B9;     ⊹
+Conjunction                                            &#x2227;     ∧
+Conjunction                                            &#x260C;     ☌
+Constant Pi, Mathematical                              &#x03C0;     π
+Constant, Euler                                        &#x2107;     ℇ
+Constant, Planck                                       &#x210E;     ℎ
+Constantine's Cross                                    &#x2627;     ☧
+Contains As Member                                     &#x220B;     ∋
+Contains As Member, Small                              &#x220D;     ∍
+Contains As Normal Subgroup                            &#x22B3;     ⊳
+Contextual Form Glyphs, Arabic                         &#xFB50;     ﭐ
+Contextual Form Glyphs, Arabic                         &#xFE80;     ﺀ
+Continuity, Absolute                                   &#x2AA1;     ⪡
+Continuous Underline Symbol                            &#x2381;     ⎁
+Continuum, Second Transfinite Cardinal                 &#x2136;     ℶ
+Contour Integral                                       &#x222E;     ∮
+Contour Integral, Anticlockwise                        &#x2233;     ∳
+Contour Integral, Clockwise                            &#x2232;     ∲
+Contour Integral, Counterclockwise                     &#x2233;     ∳
+Contraction Operator                                   &#x20E9;
+Control                                                &#x2388;     ⎈
+Control Code Graphics, Quadrant                        &#x25F0;     ◰
+Control Codes, Graphic Pictures For                    &#x2400;     ␀
+Control Codes, Graphics For                            &#x237D;     ⍽
+Control Sequence Introducer                            &#x009B;     �
+Controls, Bidirectional Format                         &#x202A;     ‪
+Controls, Mongolian Format                             &#x180B;
+Coproduct Sign                                         &#x2210;     ∐
+Coproduct, N-Ary                                       &#x2210;     ∐
+Coptic Letters Derived From Demotic                    &#x03E2;     Ϣ
+Coptic, Bohairic                                       &#x2C80;     Ⲁ
+Coptic, Continuous Macrons For                         &#xFE24;
+Coptic, Extended                                       &#x2CB2;     Ⲳ
+Copyright Sign                                         &#x00A9;     ©
+Copyright, Sound Recording                             &#x2117;     ℗
+Corner Brackets                                        &#x2308;     ⌈
+Corner Brackets, Cjk                                   &#x300C;     「
+Corner Tone Marks For Chinese                          &#xA700;     ꜀
+Corners, Quine                                         &#x231C;     ⌜
+Corresponds To                                         &#x2258;     ≘
+Corresponds To                                         &#x2259;     ≙
+Costa Rican Currency                                   &#x20A1;     ₡
+Countable, First Transfinite Cardinal                  &#x2135;     ℵ
+Counterbore                                            &#x2334;     ⌴
+Counterclockwise Arrow Above, Combining                &#x20D4;
+Counterclockwise Contour Integral                      &#x2233;     ∳
+Counterclockwise Integration                           &#x2A11;     ⨑
+Counterclockwise Ring Overlay, Combining               &#x20DA;
+Countersink                                            &#x2335;     ⌵
+Credit Sign, Tamil                                     &#x0BF7;     ௷
+Cremated Symbol                                        &#x26B1;     ⚱
+Crescent, Star And                                     &#x262A;     ☪
+Croatian Digraphs Matching Serbian Cyrillic Letters    &#x01C4;     Ǆ
+Crops                                                  &#x230C;     ⌌
+Cross Accent, Modifier Letter                          &#x02DF;     ˟
+Cross Dingbats                                         &#x2719;     ✙
+Cross Of Jerusalem                                     &#x2629;     ☩
+Cross Of Lorraine                                      &#x2628;     ☨
+Cross Ratio                                            &#x211E;     ℞
+Cross, Constantine's                                   &#x2627;     ☧
+Cross, Dotted                                          &#x205C;     ⁜
+Cross, East Syriac                                     &#x2671;     ♱
+Cross, Latin                                           &#x271D;     ✝
+Cross, Long                                            &#x2020;     †
+Cross, Maltese                                         &#x2720;     ✠
+Cross, Orthodox                                        &#x2626;     ☦
+Cross, St. Andrew's                                    &#x2613;     ☓
+Cross, West Syriac                                     &#x2670;     ♰
+Crossed Swords                                         &#x2694;     ⚔
+Crosses                                                &#x2719;     ✙
+Crosshatch                                             &#x0023;     #
+Cruzeiro Sign                                          &#x20A2;     ₢
+Cube Root                                              &#x221B;     ∛
+Cubed                                                  &#x00B3;     ³
+Cuneiform                                              &#x12000;    𒀀
+Cuneiform Numbers And Punctuation                      &#x12400;    𒐀
+Cup                                                    &#x222A;     ∪
+Cup Of Coffee                                          &#x2615;     ☕
+Cup Of Tea                                             &#x2615;     ☕
+Cup, Square                                            &#x2294;     ⊔
+Curled Beta                                            &#x03D0;     ϐ
+Curly Bracket, Closing                                 &#x007D;     }
+Curly Bracket, Left                                    &#x007B;     {
+Curly Bracket, Left White                              &#x2983;     ⦃
+Curly Bracket, Opening                                 &#x007B;     {
+Curly Bracket, Right                                   &#x007D;     }
+Curly Bracket, Right White                             &#x2984;     ⦄
+Curly Logical And                                      &#x22CF;     ⋏
+Curly Logical Or                                       &#x22CE;     ⋎
+Currency Sign                                          &#x00A4;     ¤
+Currency Signs, Bengali                                &#x09F2;     ৲
+Currency Symbol Baht, Thai                             &#x0E3F;     ฿
+Currency Symbol Riel, Khmer                            &#x17DB;     ៛
+Currency Symbol, Florin                                &#x0192;     ƒ
+Currency Symbols                                       &#x20A0;     ₠
+Currency, Argentinian Former                           &#x20B3;     ₳
+Currency, Brazilian                                    &#x20A2;     ₢
+Currency, Costa Rican                                  &#x20A1;     ₡
+Currency, El Salvadorian                               &#x20A1;     ₡
+Currency, Euro European                                &#x20AC;     €
+Currency, French                                       &#x20A3;     ₣
+Currency, Ghana                                        &#x20B5;     ₵
+Currency, Greek                                        &#x20AF;     ₯
+Currency, Indian                                       &#x20A8;     ₨
+Currency, Iranian                                      &#xFDFC;     ﷼
+Currency, Israeli                                      &#x20AA;     ₪
+Currency, Italian                                      &#x20A4;     ₤
+Currency, Korean                                       &#x20A9;     ₩
+Currency, Laotian                                      &#x20AD;     ₭
+Currency, Mongolian                                    &#x20AE;     ₮
+Currency, Nigerian                                     &#x20A6;     ₦
+Currency, Paraguayan                                   &#x20B2;     ₲
+Currency, Phillipine                                   &#x20B1;     ₱
+Currency, Spanish                                      &#x20A7;     ₧
+Currency, Turkish                                      &#x20A4;     ₤
+Currency, Ukrainian                                    &#x20B4;     ₴
+Currency, Vietnamese                                   &#x20AB;     ₫
+Current Symbol Form Two, Direct                        &#x2393;     ⎓
+Current, AC                                            &#x23E6;     ⏦
+Current, Alternating                                   &#x223F;     ∿
+Current, Direct, Symbol Form Two                       &#x2393;     ⎓
+Cursor Down, Fast                                      &#x21A1;     ↡
+Cursor Left, Fast                                      &#x219E;     ↞
+Cursor Right, Fast                                     &#x21A0;     ↠
+Cursor Up, Fast                                        &#x219F;     ↟
+Cycle                                                  &#x223C;     ∼
+Cylindricity                                           &#x232D;     ⌭
+Cypriot Syllabary                                      &#x10800;    𐠀
+Cyrillic                                               &#x0400;     Ѐ
+Cyrillic Capital Letters                               &#x0400;     Ѐ
+Cyrillic Combining Characters                          &#x0483;
+Cyrillic Extended-A                                    &#x2DE0;
+Cyrillic Extended-B                                    &#xA640;     Ꙁ
+Cyrillic Extensions                                    &#x0450;     ѐ
+Cyrillic Extensions                                    &#x048A;     Ҋ
+Cyrillic Historic Letters                              &#x0460;     Ѡ
+Cyrillic Small Letters                                 &#x0430;     а
+Cyrillic Supplement                                    &#x0500;     Ԁ

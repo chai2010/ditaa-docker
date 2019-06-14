@@ -1,0 +1,84 @@
+W
+Description                                            Entity       Preview
+W With Acute, Latin Small Letter                       &#x1E83;     ẃ
+W With Circumflex, Latin Small Letter                  &#x0175;     ŵ
+W With Diaeresis, Latin Small Letter                   &#x1E85;     ẅ
+W With Dot Above, Latin Small Letter                   &#x1E87;     ẇ
+W With Dot Below, Latin Small Letter                   &#x1E89;     ẉ
+W With Grave, Latin Small Letter                       &#x1E81;     ẁ
+W With Ring Above, Latin Small Letter                  &#x1E98;     ẘ
+W, Latin Letter Small Capital                          &#x1D21;     ᴡ
+W, Latin Small Letter Turned                           &#x028D;     ʍ
+W, Modifier Letter Small                               &#x02B7;     ʷ
+Waiting, Message                                       &#x0095;     �
+Warning Sign                                           &#x26A0;     ⚠
+Warning Signs                                          &#x2620;     ☠
+Watch                                                  &#x231A;     ⌚
+Wave Dash                                              &#x301C;     〜
+Wave, Sine                                             &#x223F;     ∿
+Wavy Dash                                              &#x3030;     〰
+Wavy Line                                              &#x2307;     ⌇
+Wavy Low Line                                          &#xFE4F;     ﹏
+Wavy Overline                                          &#xFE4B;     ﹋
+Wavy Overline, Double                                  &#xFE4C;     ﹌
+Weather And Astrological Symbols                       &#x2600;     ☀
+Weather, Clear                                         &#x2600;     ☀
+Weather, Cloudy                                        &#x2601;     ☁
+Weather, Rainy                                         &#x2602;     ☂
+Weather, Showery                                       &#x2614;     ☔
+Weather, Snowy                                         &#x2603;     ☃
+Wedge                                                  &#x028C;     ʌ
+Wedge                                                  &#x2227;     ∧
+Weierstrass Elliptic Function                          &#x2118;     ℘
+West Syriac Cross                                      &#x2670;     ♰
+Wheel Of Dharma                                        &#x2638;     ☸
+Wheelchair Symbol                                      &#x267F;     ♿
+White Bullet                                           &#x25E6;     ◦
+White Circle                                           &#x25CB;     ○
+White Circle, Medium                                   &#x26AA;     ⚪
+White Circle, Medium Small                             &#x26AC;     ⚬
+White Circle, Shadowed                                 &#x274D;     ❍
+White Corner Bracket, Left                             &#x300E;     『
+White Corner Bracket, Right                            &#x300F;     』
+White Curly Bracket, Left                              &#x2983;     ⦃
+White Curly Bracket, Right                             &#x2984;     ⦄
+White Down Pointing Index                              &#x261F;     ☟
+White Flag                                             &#x2690;     ⚐
+White Framus                                           &#x29D6;     ⧖
+White Frowning Face                                    &#x2639;     ☹
+White Left Pointing Index                              &#x261C;     ☜
+White Lenticular Bracket, Left                         &#x3016;     〖
+White Lenticular Bracket, Right                        &#x3017;     〗
+White Nib                                              &#x2711;     ✑
+White On Black Circled Numbers                         &#x24EB;     ⓫
+White Parenthesis, Left                                &#x2985;     ⦅
+White Parenthesis, Right                               &#x2986;     ⦆
+White Right Pointing Index                             &#x261E;     ☞
+White Scissors                                         &#x2704;     ✄
+White Sesame Dot                                       &#xFE46;     ﹆
+White Shogi Piece                                      &#x2616;     ☖
+White Smiling Face                                     &#x263A;     ☺
+White Square Bracket, Left                             &#x301A;     〚
+White Square Bracket, Right                            &#x301B;     〛
+White Star                                             &#x2606;     ☆
+White Sun With Rays                                    &#x263C;     ☼
+White Telephone                                        &#x260F;     ☏
+White Tortoise Shell Bracket, Left                     &#x3018;     〘
+White Tortoise Shell Bracket, Right                    &#x3019;     〙
+White Trapezium                                        &#x23E2;     ⏢
+White Up Pointing Index                                &#x261D;     ☝
+White Vertical Bar                                     &#x2AFE;     ⫾
+White Vertical Bar, N-Ary                              &#x2AFF;     ⫿
+Wide Bridge Above, Combining                           &#x20E9;
+Wiggly Fences                                          &#x29D8;     ⧘
+Wj                                                     &#x2060;     ⁠
+Won Sign                                               &#x20A9;     ₩
+Word Joiner                                            &#x2060;     ⁠
+Word Separators, Aegean                                &#x10100;    𐄀
+Words, Squared Katakana                                &#x3300;     ㌀
+Wordspace, Ethiopic                                    &#x1361;     ፡
+Working Day Symbol                                     &#x2692;     hammer_and_pick
+Wreath Product                                         &#x2240;     ≀
+Writing Hand                                           &#x270D;     ✍
+Wynn, Latin Capital Letter                             &#x01F7;     Ƿ
+Wynn, Latin Letter                                     &#x01BF;     ƿ

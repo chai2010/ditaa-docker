@@ -1,0 +1,180 @@
+O
+Description                                            Entity       Preview
+O Bar, Latin Capital Letter                            &#x019F;     Ɵ
+O Bar, Latin Small Letter                              &#x0275;     ɵ
+O E, Latin Small Letter                                &#x0153;     œ
+O Slash, Latin Capital Letter                          &#x00D8;     Ø
+O Slash, Latin Small Letter                            &#x00F8;     ø
+O With Acute, Latin Capital Letter                     &#x00D3;     Ó
+O With Acute, Latin Small Letter                       &#x00F3;     ó
+O With Breve, Latin Small Letter                       &#x014F;     ŏ
+O With Caron, Latin Small Letter                       &#x01D2;     ǒ
+O With Circumflex, Latin Capital Letter                &#x00D4;     Ô
+O With Circumflex, Latin Small Letter                  &#x00F4;     ô
+O With Diaeresis, Latin Capital Letter                 &#x00D6;     Ö
+O With Diaeresis, Latin Small Letter                   &#x00F6;     ö
+O With Dot Above, Latin Small Letter                   &#x022F;     ȯ
+O With Dot Below, Latin Small Letter                   &#x1ECD;     ọ
+O With Double Acute, Latin Small Letter                &#x0151;     ő
+O With Double Grave, Latin Small Letter                &#x020D;     ȍ
+O With Grave, Latin Capital Letter                     &#x00D2;     Ò
+O With Grave, Latin Small Letter                       &#x00F2;     ò
+O With Hook Above, Latin Small Letter                  &#x1ECF;     ỏ
+O With Horn, Latin Small Letter                        &#x01A1;     ơ
+O With Inverted Breve, Latin Small Letter              &#x020F;     ȏ
+O With Macron, Latin Small Letter                      &#x014D;     ō
+O With Middle Tilde, Latin Capital Letter              &#x019F;     Ɵ
+O With Ogonek, Latin Small Letter                      &#x01EB;     ǫ
+O With Stroke, Latin Capital Letter                    &#x00D8;     Ø
+O With Stroke, Latin Small Letter                      &#x00F8;     ø
+O With Stroke, Latin Small Letter Sideways             &#x1D13;     ᴓ
+O With Tilde, Latin Capital Letter                     &#x00D5;     Õ
+O With Tilde, Latin Small Letter                       &#x00F5;     õ
+O, Combining Latin Small Letter                        &#x0366;
+O, Latin Capital Letter Barred                         &#x019F;     Ɵ
+O, Latin Capital Letter Open                           &#x0186;     Ɔ
+O, Latin Letter Small Capital                          &#x1D0F;     ᴏ
+O, Latin Letter Small Capital Open                     &#x1D10;     ᴐ
+O, Latin Small Letter Barred                           &#x0275;     ɵ
+O, Latin Small Letter Bottom Half                      &#x1D17;     ᴗ
+O, Latin Small Letter Open                             &#x0254;     ɔ
+O, Latin Small Letter Sideways                         &#x1D11;     ᴑ
+O, Latin Small Letter Sideways Open                    &#x1D12;     ᴒ
+O, Latin Small Letter Top Half                         &#x1D16;     ᴖ
+O, Script Small                                        &#x2134;     ℴ
+Object Replacement Character                           &#xFFFC;     ￼
+Octothorpe                                             &#x0023;     #
+Oe, Latin Letter Small Capital                         &#x0276;     ɶ
+Oe, Latin Small Letter Turned                          &#x1D14;     ᴔ
+Oe, Latin Small Ligature                               &#x0153;     œ
+Ogham                                                  &#x1680;      
+Ogham Forfeda Supplement                               &#x1695;     ᚕ
+Ogham Punctuation                                      &#x169B;     ᚛
+Ogham Space Mark                                       &#x1680;      
+Ogham Traditional Letters                              &#x1681;     ᚁ
+Ogonek                                                 &#x02DB;     ˛
+Ogonek, Combining                                      &#x0328;
+Ohm Sign                                               &#x2126;     Ω
+Ohm Sign, Inverted                                     &#x2127;     ℧
+Oi, Latin Small Letter                                 &#x01A3;     ƣ
+Ol Chiki                                               &#x1C50;     ᱐
+Old Italic                                             &#x10300;    𐌀
+Old Persian                                            &#x103A0;    𐎠
+Old Testament, Greek                                   &#x1D516;    𝔖
+Om, Devanagari                                         &#x0950;     ॐ
+Om, Tibetan Syllable                                   &#x0F00;     ༀ
+Omega Pi                                               &#x03D6;     ϖ
+Omega, Latin Small Letter Closed                       &#x0277;     ɷ
+One Dot Leader                                         &#x2024;     ․
+One Half, Vulgar Fraction                              &#x00BD;     ½
+One Quarter, Vulgar Fraction                           &#x00BC;     ¼
+One, Fraction Numerator                                &#x215F;     ⅟
+One, Superscript                                       &#x00B9;     ¹
+Open Box                                               &#x2423;     ␣
+Open Box, Shouldered                                   &#x237D;     ⍽
+Open E With Hook, Latin Small Letter Reversed          &#x025D;     ɝ
+Open E, Latin Capital Letter                           &#x0190;     Ɛ
+Open E, Latin Small Letter                             &#x025B;     ɛ
+Open E, Latin Small Letter Closed                      &#x029A;     ʚ
+Open E, Latin Small Letter Closed Reversed             &#x025E;     ɞ
+Open E, Latin Small Letter Reversed                    &#x025C;     ɜ
+Open E, Latin Small Letter Turned                      &#x1D08;     ᴈ
+Open O, Latin Capital Letter                           &#x0186;     Ɔ
+Open O, Latin Letter Small Capital                     &#x1D10;     ᴐ
+Open O, Latin Small Letter                             &#x0254;     ɔ
+Open O, Latin Small Letter Sideways                    &#x1D12;     ᴒ
+Opening Brace                                          &#x007B;     {
+Opening Curly Bracket                                  &#x007B;     {
+Opening Parenthesis                                    &#x0028;     (
+Opening Square Bracket                                 &#x005B;     [
+Operating System Command                               &#x009D;     �
+Operators Supplement, Mathematical                     &#x2A00;     ⨀
+Operators, Database Theory                             &#x27D5;     ⟕
+Operators, Dotted Mathematical                         &#x2234;     ∴
+Operators, Double                                      &#x22D0;     ⋐
+Operators, Enclosed Mathematical                       &#x2295;     ⊕
+Operators, Invisible                                   &#x2061;     ⁡
+Operators, Large                                       &#x29F8;     ⧸
+Operators, Mathematical                                &#x2200;     ∀
+Operators, Modal Logic                                 &#x27E0;     ⟠
+Operators, Multiplication And Division Sign            &#x2A2F;     ⨯
+Operators, N-Ary                                       &#x22C0;     ⋀
+Operators, N-Ary                                       &#x2A00;     ⨀
+Operators, Plus And Minus Sign                         &#x2A22;     ⨢
+Operators, Relational                                  &#x29E3;     ⧣
+Operators, Specialized Plus Sign                       &#x29FA;     ⧺
+Operators, Supplemental Mathematical                   &#x2A00;     ⨀
+Operators, Tilde Mathematical                          &#x223B;     ∻
+Operators, Vertical Line                               &#x2AEE;     ⫮
+Opposition                                             &#x260D;     ☍
+Optical Character Recognition, Ocr                     &#x2440;     ⑀
+Option Key                                             &#x2325;     ⌥
+Or, Curly Logical                                      &#x22CE;     ⋎
+Or, Double Logical                                     &#x2A54;     ⩔
+Or, Logical                                            &#x2228;     ∨
+Or, N-Ary Logical                                      &#x22C1;     ⋁
+Order                                                  &#x2134;     ℴ
+Order Relation Precedence Signs                        &#x227A;     ≺
+Order Relation Precedence Signs                        &#x22DE;     ⋞
+Ordinal Indicator, Feminine                            &#x00AA;     ª
+Ordinal Indicator, Masculine                           &#x00BA;     º
+Ordinarily Satisfies                                   &#x2AE2;     ⫢
+Ordinary Diacritics                                    &#x0300;
+Origin, Dimension                                      &#x2331;     ⌱
+Original Of                                            &#x22B6;     ⊶
+Original Of, Square                                    &#x2290;     ⊐
+Oriya                                                  &#x0B00;     ଀
+Oriya Consonants                                       &#x0B15;     କ
+Oriya Dependent Vowel Signs                            &#x0B3E;
+Oriya Digits                                           &#x0B66;     ୦
+Oriya Independent Vowels                               &#x0B05;     ଅ
+Oriya Isshar                                           &#x0B70;     ୰
+Ornamental Angle Quotation Marks                       &#x276E;     ❮
+Ornamental Brackets                                    &#x2768;     ❨
+Ornaments, Heart                                       &#x2763;     ❣
+Ornaments, Punctuation                                 &#x275B;     ❛
+Ornaments, Quotation Mark                              &#x275B;     ❛
+Ornate Left Parenthesis                                &#xFD3E;     ﴾
+Ornate Right Parenthesis                               &#xFD3F;     ﴿
+Ors, Logical Ands And                                  &#x2A51;     ⩑
+Orthodox Cross                                         &#x2626;     ☦
+Orthogonal To                                          &#x22A5;     ⊥
+Osmanya                                                &#x10480;    𐒀
+Osmanya Digits                                         &#x104A0;    𐒠
+Ou, Latin Letter Small Capital                         &#x1D15;     ᴕ
+Ou, Latin Small Letter                                 &#x0223;     ȣ
+Ounce Sign                                             &#x2125;     ℥
+Overbar, Apl                                           &#x00AF;     ¯
+Overlay, Combining Anticlockwise Ring                  &#x20DA;
+Overlay, Combining Clockwise Ring                      &#x20D9;
+Overlay, Combining Counterclockwise Ring               &#x20DA;
+Overlay, Combining Double Vertical Stroke              &#x20E6;
+Overlay, Combining Leftwards Arrow                     &#x20EA;
+Overlay, Combining Long Double Solidus                 &#x20EB;
+Overlay, Combining Long Solidus                        &#x0338;
+Overlay, Combining Long Stroke                         &#x0336;
+Overlay, Combining Long Vertical Line                  &#x20D2;
+Overlay, Combining Reverse Solidus                     &#x20E5;
+Overlay, Combining Ring                                &#x20D8;
+Overlay, Combining Short Solidus                       &#x0337;
+Overlay, Combining Short Stroke                        &#x0335;
+Overlay, Combining Short Vertical Line                 &#x20D3;
+Overlay, Combining Tilde                               &#x0334;
+Overlay, Long Double Slash                             &#x20EB;
+Overlay, Long Slash                                    &#x0338;
+Overlay, Short Slash                                   &#x0337;
+Overline                                               &#x00AF;     ¯
+Overline                                               &#x203E;     ‾
+Overline, Centreline                                   &#xFE4A;     ﹊
+Overline, Combining                                    &#x0305;
+Overline, Combining Double                             &#x033F;
+Overline, Dashed                                       &#xFE49;     ﹉
+Overline, Double Wavy                                  &#xFE4C;     ﹌
+Overline, Wavy                                         &#xFE4B;     ﹋
+Override, Left-To-Right                                &#x202D;     ‭
+Override, Right-To-Left                                &#x202E;     ‮
+Overscore                                              &#x0305;
+Overscore, Spacing                                     &#x203E;     ‾
+Overscores And Underscores                             &#xFE49;     ﹉
+Overstruck Diacritics                                  &#x0334;
+Oxia, Greek                                            &#x0301;

@@ -1,0 +1,125 @@
+F
+Description                                            Entity       Preview
+F With Dot Above, Latin Small Letter                   &#x1E1F;     ḟ
+F With Hook, Latin Small Letter                        &#x0192;     ƒ
+F, Latin Small Letter Script                           &#x0192;     ƒ
+F, Script Capital                                      &#x2131;     ℱ
+F, Turned Capital                                      &#x2132;     Ⅎ
+F, Turned Small                                        &#x214E;     ⅎ
+Face, Black Smiling                                    &#x263B;     ☻
+Face, Postal Mark                                      &#x3020;     〠
+Face, White Frowning                                   &#x2639;     ☹
+Face, White Smiling                                    &#x263A;     ☺
+Facsimile Sign                                         &#x213B;     ℻
+Factorial                                              &#x0021;     !
+Fahrenheit, Degree                                     &#x2109;     ℉
+Fast Cursor Down                                       &#x21A1;     ↡
+Fast Cursor Left                                       &#x219E;     ↞
+Fast Cursor Right                                      &#x21A0;     ↠
+Fast Cursor Up                                         &#x219F;     ↟
+Feet                                                   &#x2032;     ′
+Female Sign                                            &#x2640;     ♀
+Feminine Ordinal Indicator                             &#x00AA;     ª
+Fence, Dotted                                          &#x2999;     ⦙
+Fences                                                 &#x2999;     ⦙
+Fences, Wiggly                                         &#x29D8;     ⧘
+Fermata, Combining                                     &#x0352;
+Fifths, Fractions                                      &#x2155;     ⅕
+Figure Dash                                            &#x2012;     ‒
+Figure Space                                           &#x2007;      
+File Separator                                         &#x001C;     �
+File Separator, Symbol For                             &#x241C;     ␜
+Fill Space, Ideographic Half                           &#x303F;     〿
+Filler, Hangul                                         &#x3164;     ㅤ
+Finger Dingbats, Pointing Index                        &#x261A;     ☚
+Finite Function                                        &#x21FB;     ⇻
+Finite Function Diacritic                              &#x20E6;
+Finite Injection                                       &#x2915;     ⤕
+Finite Relation                                        &#x21FC;     ⇼
+Finite Surjection                                      &#x2901;     ⤁
+Finite Surjective Injection                            &#x2918;     ⤘
+First Quarter Moon                                     &#x263D;     ☽
+Fish Tails                                             &#x297C;     ⥼
+Fisheye                                                &#x25C9;     ◉
+Fist                                                   &#x261E;     ☞
+Five Dot Punctuation                                   &#x2059;     ⁙
+Flag, Black                                            &#x2691;     ⚑
+Flag, White                                            &#x2690;     ⚐
+Flat Sign, Music                                       &#x266D;     ♭
+Flatness                                               &#x23E5;     ⏥
+Fleur-De-Lis                                           &#x269C;     ⚜
+Floor, Left                                            &#x230A;     ⌊
+Floor, Right                                           &#x230B;     ⌋
+Floral Heart Bullet, Reversed Rotated                  &#x2619;     ☙
+Florin Currency Symbol                                 &#x0192;     ƒ
+Folder                                                 &#x0192;     ƒ
+Fongman, Thai Character                                &#x0E4F;     ๏
+For All                                                &#x2200;     ∀
+Forces                                                 &#x22A9;     ⊩
+Forfeda Supplement, Ogham                              &#x1695;     ᚕ
+Forks                                                  &#x2AD9;     ⫙
+Form And Chart Components                              &#x2500;     ─
+Form Feed                                              &#x000C;     
+Form Feed                                              &#x21A1;     ↡
+Form Feed, Symbol For                                  &#x240C;     ␌
+Format Characters                                      &#x200C;     ‌
+Format Characters, Directional                         &#x202A;     ‪
+Format Controls, Mongolian                             &#x180B;
+Formatting, Pop Directional                            &#x202C;     ‬
+Forward Arrow Indicator                                &#x25BB;     ▻
+Forward Difference                                     &#x2206;     ∆
+Four Dot Mark                                          &#x205B;     ⁛
+Four Dot Punctuation                                   &#x2058;     ⁘
+Four Dots Above, Combining                             &#x20DC;
+Four Dots, Mongolian                                   &#x1805;     ᠅
+Four Dots, Vertical                                    &#x205E;     ⁞
+Four-Per-Em Space                                      &#x2005;      
+Fourier Transform                                      &#x2131;     ℱ
+Fourth Derivative                                      &#x20DC;
+Fourth Root                                            &#x221C;     ∜
+Fourth Tone, Mandarin Chinese                          &#x02CB;     ˋ
+Fourths, Fractions                                     &#x00BC;     ¼
+Fraction Numerator One                                 &#x215F;     ⅟
+Fraction One Half, Vulgar                              &#x00BD;     ½
+Fraction One Quarter, Vulgar                           &#x00BC;     ¼
+Fraction Slash                                         &#x2044;     ⁄
+Fraction Three Quarters, Vulgar                        &#x00BE;     ¾
+Fractions Eighths                                      &#x215B;     ⅛
+Fractions Fifths                                       &#x2155;     ⅕
+Fractions Fourths                                      &#x00BC;     ¼
+Fractions Quarters                                     &#x00BC;     ¼
+Fractions Sixths                                       &#x2159;     ⅙
+Fractions Thirds                                       &#x2153;     ⅓
+Fractions, Vulgar                                      &#x2153;     ⅓
+Fraktur Mathematical Symbols                           &#x1D504;    𝔄
+Fraktur Mathematical Symbols, Bold                     &#x1D56C;    𝕬
+Framus, White                                          &#x29D6;     ⧖
+Franc Sign, French                                     &#x20A3;     ₣
+Fricative, Latin Letter Pharyngeal Voiced              &#x0295;     ʕ
+Frown                                                  &#x2322;     ⌢
+Frowning Face, White                                   &#x2639;     ☹
+Full Block                                             &#x2588;     █
+Full Stop                                              &#x002E;     .
+Full Stop, Arabic                                      &#x06D4;     ۔
+Full Stop, Armenian                                    &#x0589;     ։
+Full Stop, Canadian Syllabics                          &#x166E;     ᙮
+Full Stop, Ethiopic                                    &#x1362;     ።
+Full Stop, Georgian                                    &#x0589;     ։
+Full Stop, Ideographic                                 &#x3002;     。
+Full Stop, Mongolian                                   &#x1803;     ᠃
+Full Stop, Mongolian Manchu                            &#x1809;     ᠉
+Fullwidth Ascii Variants                               &#xFF01;     ！
+Fullwidth Forms, Halfwidth And                         &#xFF00;     ＀
+Fullwidth Symbol Variants                              &#xFFE0;     ￠
+Function Application                                   &#x2061;     ⁡
+Function Symbol                                        &#x0192;     ƒ
+Function, Bernoulli                                    &#x212C;     ℬ
+Function, Composite                                    &#x2218;     ∘
+Function, Finite                                       &#x21FB;     ⇻
+Function, Gamma                                        &#x0393;     Γ
+Function, Partial                                      &#x21F8;     ⇸
+Function, Total                                        &#x2192;     →
+Function, Weierstrass Elliptic                         &#x2118;     ℘
+Functional Symbols, Apl                                &#x2336;     ⌶
+Funeral Urn                                            &#x26B1;     ⚱
+Fuse                                                   &#x23DB;     ⏛

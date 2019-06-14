@@ -1,0 +1,366 @@
+A
+Description                                            Entity       Preview
+A With Acute, Latin Capital Letter                     &#x00C1;     Á
+A With Acute, Latin Small Letter                       &#x00E1;     á
+A With Breve, Latin Small Letter                       &#x0103;     ă
+A With Caron, Latin Small Letter                       &#x01CE;     ǎ
+A With Circumflex, Latin Capital Letter                &#x00C2;     Â
+A With Circumflex, Latin Small Letter                  &#x00E2;     â
+A With Diaeresis, Latin Capital Letter                 &#x00C4;     Ä
+A With Diaeresis, Latin Small Letter                   &#x00E4;     ä
+A With Dot Above, Latin Small Letter                   &#x0227;     ȧ
+A With Dot Below, Latin Small Letter                   &#x1EA1;     ạ
+A With Double Grave, Latin Small Letter                &#x0201;     ȁ
+A With Grave, Latin Capital Letter                     &#x00C0;     À
+A With Grave, Latin Small Letter                       &#x00E0;     à
+A With Hook Above, Latin Small Letter                  &#x1EA3;     ả
+A With Inverted Breve, Latin Small Letter              &#x0203;     ȃ
+A With Macron, Latin Small Letter                      &#x0101;     ā
+A With Ogonek, Latin Small Letter                      &#x0105;     ą
+A With Right Half Ring, Latin Small Letter             &#x1E9A;     ẚ
+A With Ring Above, Latin Capital Letter                &#x00C5;     Å
+A With Ring Above, Latin Small Letter                  &#x00E5;     å
+A With Ring Below, Latin Small Letter                  &#x1E01;     ḁ
+A With Stroke, Latin Capital Letter                    &#x023A;     Ⱥ
+A With Tilde, Latin Capital Letter                     &#x00C3;     Ã
+A With Tilde, Latin Small Letter                       &#x00E3;     ã
+A, Combining Latin Small Letter                        &#x0363;
+A, Latin Letter Small Capital                          &#x1D00;     ᴀ
+A, Latin Small Letter Script                           &#x0251;     ɑ
+A, Latin Small Letter Turned                           &#x0250;     ɐ
+Abbreviation Mark, Armenian                            &#x055F;     ՟
+Abbreviation Mark, Syriac                              &#x070F;     ܏
+Abbreviation Sign, Devanagari                          &#x0970;     ॰
+Abbreviations, Squared Latin                           &#x3371;     ㍱
+Aboriginal Syllabics, Unified Canadian                 &#x1400;     ᐀
+Above Right, Combining Comma                           &#x0315;
+Above Right, Combining Dot                             &#x0358;
+Above, Cedilla                                         &#x0312;
+Above, Combining Almost Equal To                       &#x034C;
+Above, Combining Anticlockwise Arrow                   &#x20D4;
+Above, Combining Asterisk                              &#x20F0;
+Above, Combining Bridge                                &#x0346;
+Above, Combining Clockwise Arrow                       &#x20D5;
+Above, Combining Comma                                 &#x0313;
+Above, Combining Counterclockwise Arrow                &#x20D4;
+Above, Combining Dot                                   &#x0307;
+Above, Combining Double Vertical Line                  &#x030E;
+Above, Combining Four Dots                             &#x20DC;
+Above, Combining Homothetic                            &#x034B;
+Above, Combining Hook                                  &#x0309;
+Above, Combining Left Angle                            &#x031A;
+Above, Combining Left Arrow                            &#x20D6;
+Above, Combining Left Half Ring                        &#x0351;
+Above, Combining Left Harpoon                          &#x20D0;
+Above, Combining Left Right Arrow                      &#x20E1;
+Above, Combining Not Tilde                             &#x034A;
+Above, Combining Reversed Comma                        &#x0314;
+Above, Combining Right Arrow                           &#x20D7;
+Above, Combining Right Arrowhead                       &#x0350;
+Above, Combining Right Half Ring                       &#x0357;
+Above, Combining Right Harpoon                         &#x20D1;
+Above, Combining Ring                                  &#x030A;
+Above, Combining Three Dots                            &#x20DB;
+Above, Combining Turned Comma                          &#x0312;
+Above, Combining Vertical Line                         &#x030D;
+Above, Combining Wide Bridge                           &#x20E9;
+Above, Combining X                                     &#x033D;
+Above, Combining Zigzag                                &#x035B;
+Above, Dot                                             &#x02D9;     ˙
+Above, Double Dot                                      &#x0308;
+Above, Ring                                            &#x02DA;     ˚
+Above, V                                               &#x030C;
+Absolute Continuity                                    &#x2AA1;     ⪡
+Absolute Value                                         &#x007C;      
+Abstract Syntax Bracket, Left                          &#x301A;     〚
+Abstract Syntax Bracket, Right                         &#x301B;     〛
+AC Current                                             &#x23E6;     ⏦
+Accent Below, Combining Acute                          &#x0317;
+Accent Below, Combining Circumflex                     &#x032D;
+Accent Below, Combining Grave                          &#x0316;
+Accent, Acute                                          &#x00B4;     ´
+Accent, Circumflex                                     &#x005E;     ^
+Accent, Combining Acute                                &#x0301;
+Accent, Combining Circumflex                           &#x0302;
+Accent, Combining Double Acute                         &#x030B;
+Accent, Combining Double Grave                         &#x030F;
+Accent, Combining Grave                                &#x0300;
+Accent, Double Acute                                   &#x02DD;     ˝
+Accent, Grave                                          &#x0060;     `
+Accent, Modifier Letter Acute                          &#x02CA;     ˊ
+Accent, Modifier Letter Circumflex                     &#x02C6;     ˆ
+Accent, Modifier Letter Cross                          &#x02DF;     ˟
+Accent, Modifier Letter Grave                          &#x02CB;     ˋ
+Accent, Modifier Letter Low Acute                      &#x02CF;     ˏ
+Accent, Modifier Letter Low Grave                      &#x02CE;     ˎ
+Accent, Spacing Acute                                  &#x00B4;     ´
+Accent, Spacing Circumflex                             &#x005E;     ^
+Accent, Spacing Grave                                  &#x0060;     `
+Accent, Swedish Grave                                  &#x02DF;     ˟
+Account Of                                             &#x2100;     ℀
+Acknowledge                                            &#x0006;     �
+Acknowledge, Negative                                  &#x0015;     �
+Acknowledge, Symbol For                                &#x2406;     ␆
+Acknowledge, Symbol For Negative                       &#x2415;     ␕
+Acrophonic Symbol Three, Epidaurean                    &#x205D;     ⁝
+Actuarial Bend                                         &#x20E7;
+Acute Accent                                           &#x00B4;     ´
+Acute Accent Below, Combining                          &#x0317;
+Acute Accent, Combining                                &#x0301;
+Acute Accent, Combining Double                         &#x030B;
+Acute Accent, Double                                   &#x02DD;     ˝
+Acute Accent, Modifier Letter                          &#x02CA;     ˊ
+Acute Accent, Modifier Letter Low                      &#x02CF;     ˏ
+Acute Accent, Spacing                                  &#x00B4;     ´
+Acute Tone Mark, Combining                             &#x0341;
+Addak, Gurmukhi                                        &#x0A71;
+Addressed To The Subject                               &#x2101;     ℁
+Adi Shakti                                             &#x262C;     ☬
+Ae, Latin Capital Letter                               &#x00C6;     Æ
+Ae, Latin Capital Ligature                             &#x00C6;     Æ
+Ae, Latin Letter Small Capital                         &#x1D01;     ᴁ
+Ae, Latin Small Letter                                 &#x00E6;     æ
+Ae, Latin Small Letter Turned                          &#x1D02;     ᴂ
+Ae, Latin Small Ligature                               &#x00E6;     æ
+Aegean Word Separator Dot                              &#x10101;    𐄁
+Aegean Word Separator Line                             &#x10100;    𐄀
+Aesculapius, Staff Of                                  &#x2695;     ⚕
+Afghani Sign                                           &#x060B;     ؋
+African Letters For Clicks                             &#x01C0;     ǀ
+Ain, Latin Letter                                      &#x1D25;     ᴥ
+Ainu, Katakana Extensions For                          &#x31F0;     ㇰ
+Airplane                                               &#x2708;     ✈
+Aktieselskab                                           &#x214D;     ⅍
+Al-Lakuna, Sinhala Sign                                &#x0DCA;
+Aldus Leaf                                             &#x2766;     ❦
+Alef Symbol                                            &#x2135;     ℵ
+Alembic                                                &#x2697;     ⚗
+All Around-Profile                                     &#x232E;     ⌮
+All Equal To                                           &#x224C;     ≌
+All, For                                               &#x2200;     ∀
+Almost Equal To                                        &#x2248;     ≈
+Almost Equal To Above, Combining                       &#x034C;
+Almost Equal To, Not                                   &#x2249;     ≉
+Alpha, Latin Small Letter                              &#x0251;     ɑ
+Alpha, Latin Small Letter Turned                       &#x0252;     ɒ
+Alphabetic Presentation Forms                          &#xFB00;     ﬀ
+Alphanumeric Symbols, Mathematical                     &#x1D400;    𝐀
+Alphanumerics, Enclosed                                &#x2460;     ①
+Alternating Current                                    &#x223F;     ∿
+Alternative Key Symbol                                 &#x2387;     ⎇
+Alveolar Click, Latin Letter                           &#x01C2;     ǂ
+Always                                                 &#x25FB;     ◻
+Ampersand                                              &#x0026;     &
+Ampersand, Turned                                      &#x214B;     ⅋
+Anchor                                                 &#x2693;     ⚓
+Anchor, Interlinear Annotation                         &#xFFF9;     ￹
+And, Curly Logical                                     &#x22CF;     ⋏
+And, Logical                                           &#x2227;     ∧
+And, N-Ary Logical                                     &#x22C0;     ⋀
+Ands And Ors, Logical                                  &#x2A51;     ⩑
+Angkhankhu, Thai Character                             &#x0E5A;     ๚
+Angle                                                  &#x2220;     ∠
+Angle Above, Combining Left                            &#x031A;
+Angle Arc                                              &#x2222;     ∢
+Angle Below, Combining Left                            &#x0349;
+Angle Bracket, Left                                    &#x3008;     〈
+Angle Bracket, Left Double                             &#x300A;     《
+Angle Bracket, Left-Pointing                           &#x2329;     〈
+Angle Bracket, Mathematical Left                       &#x27E8;     ⟨
+Angle Bracket, Mathematical Left Double                &#x27EA;     ⟪
+Angle Bracket, Mathematical Right                      &#x27E9;     ⟩
+Angle Bracket, Mathematical Right Double               &#x27EB;     ⟫
+Angle Bracket, Right                                   &#x3009;     〉
+Angle Bracket, Right Double                            &#x300B;     》
+Angle Bracket, Right-Pointing                          &#x232A;     〉
+Angle Brackets, Cjk                                    &#x3008;     〈
+Angle Quotation Mark, Left-Pointing Double             &#x00AB;     «
+Angle Quotation Mark, Right-Pointing Double            &#x00BB;     »
+Angle Quotation Mark, Single Left-Pointing             &#x2039;     ‹
+Angle Quotation Mark, Single Right-Pointing            &#x203A;     ›
+Angle Quotation Marks, Ornamental                      &#x276E;     ❮
+Angle With Arc, Right                                  &#x22BE;     ⊾
+Angle, Measured                                        &#x2221;     ∡
+Angle, Right                                           &#x221F;     ∟
+Angle, Spherical                                       &#x2222;     ∢
+Angled Dash                                            &#x00AC;     ¬
+Angles                                                 &#x221F;     ∟
+Angles And Measured Angles                             &#x299B;     ⦛
+Angstrom Sign                                          &#x212B;     Å
+Ankh                                                   &#x2625;     ☥
+Annotation Anchor, Interlinear                         &#xFFF9;     ￹
+Annotation Separator, Interlinear                      &#xFFFA;     ￺
+Annotation Signs, Arabic Koranic                       &#x06D6;
+Annotation Signs, Arabic Qur'anic                      &#x06D6;
+Annotation Terminator, Interlinear                     &#xFFFB;     ￻
+Annotation, Interlinear                                &#xFFF9;     ￹
+Annotation, Japanese Kanbun Ideographic                &#x3190;     ㆐
+Annuity Symbol, Combining                              &#x20E7;
+Ano Teleia, Greek                                      &#x00B7;     ·
+Anticlockwise Arrow Above, Combining                   &#x20D4;
+Anticlockwise Contour Integral                         &#x2233;     ∳
+Anticlockwise Integration                              &#x2A11;     ⨑
+Anticlockwise Ring Overlay, Combining                  &#x20DA;
+Antisigma, Claudian                                    &#x2183;     Ↄ
+Anunasika, Devanagari                                  &#x0901;
+Anusvara, Devanagari Sign                              &#x0902;
+Anusvara, Khmer                                        &#x17C6;
+Anusvara, Tibetan                                      &#x0F7E;
+Apl Downstile                                          &#x230A;     ⌊
+Apl Functional Symbols                                 &#x2336;     ⌶
+Apl Jot                                                &#x2218;     ∘
+Apl Overbar                                            &#x00AF;     ¯
+Apl Quote                                              &#x0027;     '
+Apl Stile                                              &#x2223;     ∣
+Apl Tilde                                              &#x223C;     ∼
+Apl Upstile                                            &#x2308;     ⌈
+Apostrophe                                             &#x0027;     '
+Apostrophe                                             &#x2019;     ’
+Apostrophe, Armenian                                   &#x055A;     ՚
+Apostrophe, Modifier Letter                            &#x02BC;     ʼ
+Apostrophe, Modifier Letter Double                     &#x02EE;     ˮ
+Apostrophe, Neutral                                    &#x02BC;     ʼ
+Apostrophe-Quote                                       &#x0027;     '
+Apostrophic C                                          &#x2183;     Ↄ
+Application Program Command                            &#x009F;     �
+Application, Function                                  &#x2061;     ⁡
+Approaches The Limit                                   &#x2250;     ≐
+Approximately Equal To                                 &#x2245;     ≅
+Approximately Equal To                                 &#x2257;     ≗
+Aquarius                                               &#x2652;     ♒
+Arabic                                                 &#x0600;     ؀
+Arabic Alphabet                                        &#x0621;     ء
+Arabic Combining Marks                                 &#x0653;
+Arabic Comma                                           &#x060C;     ،
+Arabic Contextual Form Glyphs                          &#xFB50;     ﭐ
+Arabic Contextual Form Glyphs                          &#xFE80;     ﺀ
+Arabic Date Separator                                  &#x060D;     ؍
+Arabic Decimal Separator                               &#x066B;     ٫
+Arabic Extensions                                      &#x0671;     ٱ
+Arabic Full Stop                                       &#x06D4;     ۔
+Arabic Harakat                                         &#x064B;
+Arabic Honorifics                                      &#x0610;
+Arabic Kashida                                         &#x0640;     ـ
+Arabic Koranic Annotation Signs                        &#x06D6;
+Arabic Letter Hamzah On Ha                             &#x06C0;     ۀ
+Arabic Letter Heh With Yeh Above                       &#x06C0;     ۀ
+Arabic Letters, Extended                               &#x0671;     ٱ
+Arabic Letters, Extended                               &#x0750;     ݐ
+Arabic Ligature Bismillah Ar-Rahman Ar-Raheem          &#xFDFD;     ﷽
+Arabic Ligatures                                       &#xFBEA;     ﯪ
+Arabic Phrase Separator                                &#x066C;     ٬
+Arabic Points, Glyphs For Spacing Forms Of             &#xFE70;     ﹰ
+Arabic Presentation Forms-A                            &#xFB50;     ﭐ
+Arabic Presentation Forms-B                            &#xFE70;     ﹰ
+Arabic Punctuation                                     &#x060C;     ،
+Arabic Question Mark                                   &#x061F;     ؟
+Arabic Qur'anic Annotation Signs                       &#x06D6;
+Arabic Semicolon                                       &#x061B;     ؛
+Arabic Subtending Marks                                &#x0600;     ؀
+Arabic Supplement                                      &#x0750;     ݐ
+Arabic Tatweel                                         &#x0640;     ـ
+Arabic Thousands Separator                             &#x066C;     ٬
+Arabic-Indic Digits                                    &#x0660;     ٠
+Arabic-Indic Digits, Eastern                           &#x06F0;     ۰
+Arc                                                    &#x2312;     ⌒
+Arc, Angle                                             &#x2222;     ∢
+Arc, Right Angle With                                  &#x22BE;     ⊾
+Arch Below, Combining Inverted Double                  &#x032B;
+Arcs                                                   &#x25DC;     ◜
+Area, Asian Scripts                                    &#xAC00;     가
+Area, Cjk Ideographs                                   &#x3400;     㐀
+Area, Cjk Phonetics And Symbols                        &#x2E80;     ⺀
+Area, Compatibility And Specials                       &#xF900;     豈
+Area, General Scripts                                  &#x0000;     �
+Area, Korean Hangul Syllables                          &#xAC00;     가
+Area, Private Use                                      &#xE000;     
+Area, Supplementary Cjk Ideographs                     &#x20000;    𠀀
+Area, Supplementary General Scripts                    &#x10000;    𐀀
+Area, Surrogates                                       &#xD800;     �
+Area, Symbols                                          &#x2000;      
+Argentinian Former Currency                            &#x20B3;     ₳
+Aries                                                  &#x2648;     ♈
+Armenian Abbreviation Mark                             &#x055F;     ՟
+Armenian Alphabet                                      &#x0530;     ԰
+Armenian Apostrophe                                    &#x055A;     ՚
+Armenian Batsaganchakan Nshan                          &#x055C;     ՜
+Armenian Bowt                                          &#x055D;     ՝
+Armenian Capital Letters                               &#x0531;     Ա
+Armenian Comma                                         &#x055D;     ՝
+Armenian Emphasis Mark                                 &#x055B;     ՛
+Armenian Exclamation Mark                              &#x055C;     ՜
+Armenian Full Stop                                     &#x0589;     ։
+Armenian Hartsakan Nshan                               &#x055E;     ՞
+Armenian Hyphen                                        &#x058A;     ֊
+Armenian Ligatures                                     &#xFB13;     ﬓ
+Armenian Patiw                                         &#x055F;     ՟
+Armenian Question Mark                                 &#x055E;     ՞
+Armenian Shesht                                        &#x055B;     ՛
+Armenian Small Letters                                 &#x0561;     ա
+Armenian Vertsaket                                     &#x0589;     ։
+Armenian Yentamna                                      &#x058A;     ֊
+Arrow Above, Combining Anticlockwise                   &#x20D4;
+Arrow Above, Combining Clockwise                       &#x20D5;
+Arrow Above, Combining Counterclockwise                &#x20D4;
+Arrow Above, Combining Left                            &#x20D6;
+Arrow Above, Combining Left Right                      &#x20E1;
+Arrow Above, Combining Right                           &#x20D7;
+Arrow Below, Combining Double Rightwards               &#x0362;
+Arrow Below, Combining Left                            &#x20EE;
+Arrow Below, Combining Left Right                      &#x034D;
+Arrow Below, Combining Right                           &#x20EF;
+Arrow Below, Combining Upwards                         &#x034E;
+Arrow Dingbats                                         &#x2794;     ➔
+Arrow Indicator, Backward                              &#x25C5;     ◅
+Arrow Indicator, Forward                               &#x25BB;     ▻
+Arrow Overlay, Combining Leftwards                     &#x20EA;
+Arrow, Downwards                                       &#x2193;     ↓
+Arrow, Electric                                        &#x2301;     ⌁
+Arrow, Leftwards                                       &#x2190;     ←
+Arrow, Rightwards                                      &#x2192;     →
+Arrow, Upwards                                         &#x2191;     ↑
+Arrowhead Above, Combining Right                       &#x0350;
+Arrowhead Below, Combining Left                        &#x0354;
+Arrowhead Below, Combining Right                       &#x0355;
+Arrowhead, Down                                        &#x2304;     ⌄
+Arrowhead, Up                                          &#x2303;     ⌃
+Arrowheads, Modifier Letter                            &#x02C2;     ˂
+Arrows                                                 &#x2190;     ←
+Arrows, Dingbat                                        &#x2794;     ➔
+Arrows, Double                                         &#x21CD;     ⇍
+Arrows, Long                                           &#x27F5;     ⟵
+Arrows, Mathematical                                   &#x2B30;     ⬰
+Arrows, Miscellaneous                                  &#x2B00;     ⬀
+Arrows-A Supplement                                    &#x27F0;     ⟰
+Arrows-B, Supplemental                                 &#x2900;     ⤀
+Ascending Node                                         &#x260A;     ☊
+Ascii C0 Control Codes                                 &#x0000;     �
+Ascii Digits                                           &#x0030;     0
+Ascii Punctuation And Symbols                          &#x0020;    
+Ascii Variants, Fullwidth                              &#xFF01;     ！
+Ash                                                    &#x00E6;     æ
+Asian Scripts Area                                     &#xAC00;     가
+Assertion                                              &#x22A6;     ⊦
+Asterisk                                               &#x002A;     *
+Asterisk Above, Combining                              &#x20F0;
+Asterisk Below, Combining                              &#x0359;
+Asterisk Dingbats                                      &#x2722;     ✢
+Asterisk Operator                                      &#x2217;     ∗
+Asterisk Operator, Circled                             &#x229B;     ⊛
+Asterisk, Low                                          &#x204E;     ⁎
+Asterisks                                              &#x2722;     ✢
+Asterisks Aligned Vertically, Two                      &#x2051;     ⁑
+Asterism                                               &#x2042;     ⁂
+Astrological Signs                                     &#x26B3;     ⚳
+Astrological Signs, Tibetan                            &#x0F15;     ༕
+Astrological Symbols                                   &#x263D;     ☽
+Astrological Symbols, Weather And                      &#x2600;     ☀
+Asymptotic To                                          &#x2248;     ≈
+Asymptotically Equal To                                &#x2243;     ≃
+Asymptotically Equal To, Not                           &#x2244;     ≄
+At Sign                                                &#x0040;     @
+At, Commercial                                         &#x0040;     @
+Atom Symbol                                            &#x269B;     ⚛
+Austral Sign                                           &#x20B3;     ₳
+Avagraha, Devanagari Sign                              &#x093D;     ऽ
+Aytham, Tamil                                          &#x0B83;     ஃ

@@ -6,6 +6,11 @@ FROM openjdk:11-jdk-stretch
 
 LABEL MAINTAINER="chaishushan@gmail.com"
 
+RUN apt-get update \
+  && apt-get install --yes --no-install-recommends \
+    xfonts-efont-unicode \
+  && apt-get clean
+
 WORKDIR /root
 COPY ./ditaa0_11 /ditaa0_11
 

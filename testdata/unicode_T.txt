@@ -1,0 +1,317 @@
+T
+Description                                            Entity       Preview
+T With Caron, Latin Small Letter                       &#x0165;     ť
+T With Cedilla, Latin Small Letter                     &#x0163;     ţ
+T With Circumflex Below, Latin Small Letter            &#x1E71;     ṱ
+T With Comma Below, Latin Small Letter                 &#x021B;     ț
+T With Curl, Latin Small Letter                        &#x0236;     ȶ
+T With Diaeresis, Latin Small Letter                   &#x1E97;     ẗ
+T With Diagonal Stroke, Latin Capital Letter           &#x023E;     Ⱦ
+T With Dot Above, Latin Small Letter                   &#x1E6B;     ṫ
+T With Dot Below, Latin Small Letter                   &#x1E6D;     ṭ
+T With Hook, Latin Small Letter                        &#x01AD;     ƭ
+T With Line Below, Latin Small Letter                  &#x1E6F;     ṯ
+T With Palatal Hook, Latin Small Letter                &#x01AB;     ƫ
+T With Retroflex Hook, Latin Capital Letter            &#x01AE;     Ʈ
+T With Retroflex Hook, Latin Small Letter              &#x0288;     ʈ
+T With Stroke, Latin Small Letter                      &#x0167;     ŧ
+T, Combining Latin Small Letter                        &#x036D;
+T, Latin Letter Small Capital                          &#x1D1B;     ᴛ
+T, Latin Small Letter Turned                           &#x0287;     ʇ
+Tab                                                    &#x0009;    
+Tab With Shift Tab                                     &#x21B9;     ↹
+Tab, Leftward                                          &#x21E4;     ⇤
+Tab, Rightward                                         &#x21E5;     ⇥
+Tabulation Set, Character                              &#x0088;     �
+Tabulation Set, Line                                   &#x008A;     �
+Tabulation With Justification, Character               &#x0089;     �
+Tabulation, Character                                  &#x0009;    
+Tabulation, Horizontal                                 &#x0009;    
+Tabulation, Line                                       &#x000B;     �
+Tabulation, Symbol For Horizontal                      &#x2409;     ␉
+Tabulation, Symbol For Vertical                        &#x240B;     ␋
+Tabulation, Vertical                                   &#x000B;     �
+Tack Below, Combining Down                             &#x031E;
+Tack Below, Combining Left                             &#x0318;
+Tack Below, Combining Right                            &#x0319;
+Tack Below, Combining Up                               &#x031D;
+Tack, Down                                             &#x22A4;     ⊤
+Tack, Left                                             &#x22A3;     ⊣
+Tack, Modifier Letter Up                               &#x02D4;     ˔
+Tack, Right                                            &#x22A2;     ⊢
+Tack, Up                                               &#x22A5;     ⊥
+Tacks And Turnstiles                                   &#x22A2;     ⊢
+Tacks And Turnstiles                                   &#x27D8;     ⟘
+Tacks And Turnstiles                                   &#x2ADE;     ⫞
+Tagalog                                                &#x1700;     ᜀ
+Tagalog Sign Virama                                    &#x1714;
+Tagbanwa                                               &#x1760;     ᝠ
+Tags                                                   &#xE0000;    󠀀
+Tai Le                                                 &#x1950;     ᥐ
+Tai Lue Digits, New                                    &#x19D0;     ᧐
+Tai Lue, New                                           &#x1980;     ᦀ
+Tai Xuan Jing Symbols                                  &#x1D300;    𝌀
+Tails, Fish                                            &#x297C;     ⥼
+Tainome Japanese Bullet                                &#x25C9;     ◉
+Take, Prescription                                     &#x211E;     ℞
+Tamil                                                  &#x0B80;     ஀
+Tamil As Above Sign                                    &#x0BF8;     ௸
+Tamil Aytham                                           &#x0B83;     ஃ
+Tamil Consonants                                       &#x0B95;     க
+Tamil Credit Sign                                      &#x0BF7;     ௷
+Tamil Day Sign                                         &#x0BF3;     ௳
+Tamil Debit Sign                                       &#x0BF6;     ௶
+Tamil Dependent Vowel Signs                            &#x0BBE;
+Tamil Digits                                           &#x0BE7;     ௧
+Tamil Enn                                              &#x0BFA;     ௺
+Tamil Independent Vowels                               &#x0B85;     அ
+Tamil Maatham                                          &#x0BF4;     ௴
+Tamil Merpadi                                          &#x0BF8;     ௸
+Tamil Month Sign                                       &#x0BF4;     ௴
+Tamil Naal                                             &#x0BF3;     ௳
+Tamil Number Sign                                      &#x0BFA;     ௺
+Tamil Numbers                                          &#x0BE7;     ௧
+Tamil Patru                                            &#x0BF6;     ௶
+Tamil Rupai                                            &#x0BF9;     ௹
+Tamil Rupee Sign                                       &#x0BF9;     ௹
+Tamil Sign Visarga                                     &#x0B83;     ஃ
+Tamil Symbols                                          &#x0BF3;     ௳
+Tamil Varavu                                           &#x0BF7;     ௷
+Tamil Varudam                                          &#x0BF5;     ௵
+Tamil Year Sign                                        &#x0BF5;     ௵
+Tape Drive                                             &#x2707;     ✇
+Taper, Conical                                         &#x2332;     ⌲
+Tatweel, Arabic                                        &#x0640;     ـ
+Taurus                                                 &#x2649;     ♉
+Tautological Equivalent                                &#x29E6;     ⧦
+Tautology                                              &#x22A8;     ⊨
+Tea, Cup Of                                            &#x2615;     ☕
+Technical, Miscellaneous                               &#x2300;     ⌀
+Telegraph Symbols For Days, Ideographic                &#x33E0;     ㏠
+Telegraph Symbols For Hours, Ideographic               &#x3358;     ㍘
+Telegraph Symbols For Months, Ideographic              &#x32C0;     ㋀
+Telephone Location Sign                                &#x2706;     ✆
+Telephone Recorder                                     &#x2315;     ⌕
+Telephone Sign                                         &#x2121;     ℡
+Telephone, Black                                       &#x260E;     ☎
+Telephone, White                                       &#x260F;     ☏
+Telugu                                                 &#x0C00;
+Telugu Consonants                                      &#x0C15;     క
+Telugu Dependent Vowel Signs                           &#x0C3E;
+Telugu Digits                                          &#x0C66;     ౦
+Telugu Independent Vowels                              &#x0C05;     అ
+Telugu Sign Anusvara                                   &#x0C02;
+Telugu Sunna                                           &#x0C02;
+Ten Thousand Sign, Per                                 &#x2031;     ‱
+Tensor Product                                         &#x2297;     ⊗
+Terminal Graphic Characters                            &#x23B7;     ⎷
+Terminal Graphic Characters                            &#x2596;     ▖
+Terminator, Interlinear Annotation                     &#xFFFB;     ￻
+Terminator, String                                     &#x009C;     �
+Text, End Of                                           &#x0003;     �
+Text, Start Of                                         &#x0002;     �
+Text, Symbol For End Of                                &#x2403;     ␃
+Text, Symbol For Start Of                              &#x2402;     ␂
+Thaana                                                 &#x0780;     ހ
+Thai                                                   &#x0E00;     ฀
+Thai Character Angkhankhu                              &#x0E5A;     ๚
+Thai Character Fongman                                 &#x0E4F;     ๏
+Thai Character Khomut                                  &#x0E5B;     ๛
+Thai Character Nikhahit                                &#x0E4D;
+Thai Character Thanthakhat                             &#x0E4C;
+Thai Character Yamakkan                                &#x0E4E;
+Thai Consonants                                        &#x0E01;     ก
+Thai Currency Symbol Baht                              &#x0E3F;     ฿
+Thai Digits                                            &#x0E50;     ๐
+Thai Marks And Signs                                   &#x0E48;
+Thai Vowels                                            &#x0E30;     ะ
+Thanthakhat, Thai Character                            &#x0E4C;
+There Does Not Exist                                   &#x2204;     ∄
+There Exists                                           &#x2203;     ∃
+Therefore                                              &#x2234;     ∴
+Thermodynamic                                          &#x29E7;     ⧧
+Theta Symbol, Greek                                    &#x03D1;     ϑ
+Theta, Script                                          &#x03D1;     ϑ
+Thick Space                                            &#x2004;      
+Thin Space                                             &#x2009;      
+Third Derivative                                       &#x20DB;
+Third Tone, Mandarin Chinese                           &#x02C7;     ˇ
+Thirds, Fractions                                      &#x2153;     ⅓
+Thorn, Latin Capital Letter                            &#x00DE;     Þ
+Thorn, Latin Small Letter                              &#x00FE;     þ
+Thousands Separator, Arabic                            &#x066C;     ٬
+Three Dot Leader                                       &#x2026;     …
+Three Dot Punctuation                                  &#x2056;     ⁖
+Three Dots Above, Combining                            &#x20DB;
+Three Quarters, Vulgar Fraction                        &#x00BE;     ¾
+Three, Superscript                                     &#x00B3;     ³
+Three-Per-Em Space                                     &#x2004;      
+Thunderstorm                                           &#x2608;     ☈
+Tibetan                                                &#x0F00;     ༀ
+Tibetan Anusvara                                       &#x0F7E;
+Tibetan Astrological Signs                             &#x0F15;     ༕
+Tibetan Cantillation Signs                             &#x0FC0;     ࿀
+Tibetan Consonants                                     &#x0F40;     ཀ
+Tibetan Dependent Vowel Signs                          &#x0F71;
+Tibetan Digits                                         &#x0F20;     ༠
+Tibetan Digits Minus Half                              &#x0F2A;     ༪
+Tibetan Head Marks                                     &#x0F01;     ༁
+Tibetan Ku Ru Kha                                      &#x0FBE;     ྾
+Tibetan Ku Ru Kha Bzhi Mig Can                         &#x0FBF;     ྿
+Tibetan Mark Delimiter Tsheg Bstar                     &#x0F0C;     ༌
+Tibetan Mark Halanta                                   &#x0F84;
+Tibetan Mark Intersyllabic Tsheg                       &#x0F0B;     ་
+Tibetan Mark Paluta                                    &#x0F85;     ྅
+Tibetan Marks And Signs                                &#x0F08;     ༈
+Tibetan Marks And Signs                                &#x0F34;     ༴
+Tibetan Marks And Signs                                &#x0F82;
+Tibetan Marks And Signs                                &#x0FBE;     ྾
+Tibetan Sign Rjes Su Nga Ro                            &#x0F7E;
+Tibetan Sign Rnam Bcad                                 &#x0F7F;
+Tibetan Srog Med                                       &#x0F84;
+Tibetan Subjoined Consonants                           &#x0F90;
+Tibetan Syllable Om                                    &#x0F00;     ༀ
+Tibetan Symbols                                        &#x0FC4;     ࿄
+Tibetan Visarga                                        &#x0F7F;
+Tibetan Vocalic Modification                           &#x0F7E;
+Tie Below, Ligature                                    &#x035C;
+Tie, Character                                         &#x2040;     ⁀
+Tie, Ligature                                          &#x0361;
+Tifinagh                                               &#x2D30;     ⴰ
+Tilde                                                  &#x007E;     ~
+Tilde Above, Combining Not                             &#x034A;
+Tilde Below, Combining                                 &#x0330;
+Tilde Equals, Reversed                                 &#x22CD;     ⋍
+Tilde Mathematical Operators                           &#x223B;     ∻
+Tilde Operator                                         &#x223C;     ∼
+Tilde Overlay, Combining                               &#x0334;
+Tilde, Apl                                             &#x223C;     ∼
+Tilde, Combining                                       &#x0303;
+Tilde, Combining Double                                &#x0360;
+Tilde, Combining Vertical                              &#x033E;
+Tilde, Minus                                           &#x2242;     ≂
+Tilde, Not                                             &#x2241;     ≁
+Tilde, Reversed                                        &#x223D;     ∽
+Tilde, Small                                           &#x02DC;     ˜
+Tilde, Spacing                                         &#x007E;     ~
+Tilde, Triple                                          &#x224B;     ≋
+Tiles, Domino                                          &#x1F030;    🀰
+Tiles, Mahjong                                         &#x1F000;    🀀
+Times Operator, N-Ary                                  &#x2A09;     ⨉
+Times, Circled                                         &#x2297;     ⊗
+Times, Division                                        &#x22C7;     ⋇
+Times, Invisible                                       &#x2062;     ⁢
+Times, Squared                                         &#x22A0;     ⊠
+Tiny                                                   &#x29FE;     ⧾
+Tippi, Gurmukhi                                        &#x0A70;
+Tironian Sign Et                                       &#x204A;     ⁊
+Todo Soft Hyphen, Mongolian                            &#x1806;     ᠆
+Tone Letters                                           &#x02E5;     ˥
+Tone Letters, Modifier                                 &#xA700;     ꜀
+Tone Mark, Combining Acute                             &#x0341;
+Tone Mark, Combining Grave                             &#x0340;
+Tone Marks For Chinese, Corner                         &#xA700;     ꜀
+Tone Marks, Contour                                    &#x1DCB;
+Tone Marks, Ideographic                                &#x302A;
+Tone, Mandarin Chinese Fifth Or Neutral                &#x02D9;     ˙
+Tone, Mandarin Chinese First                           &#x02C9;     ˉ
+Tone, Mandarin Chinese Fourth                          &#x02CB;     ˋ
+Tone, Mandarin Chinese Second                          &#x02CA;     ˊ
+Tone, Mandarin Chinese Third                           &#x02C7;     ˇ
+Tonos, Combining Greek Dialytika                       &#x0344;
+Tonos, Greek                                           &#x0301;
+Top                                                    &#x22A4;     ⊤
+Top Half Integral                                      &#x2320;     ⌠
+Tortoise Shell Bracket, Left                           &#x3014;     〔
+Tortoise Shell Bracket, Left White                     &#x3018;     〘
+Tortoise Shell Bracket, Right                          &#x3015;     〕
+Tortoise Shell Bracket, Right White                    &#x3019;     〙
+Total Function                                         &#x2192;     →
+Total Injection                                        &#x21A3;     ↣
+Total Runout                                           &#x2330;     ⌰
+Total Surjection                                       &#x21A0;     ↠
+Trade Mark Sign                                        &#x2122;     ™
+Trade Mark Sign, Registered                            &#x00AE;     ®
+Transfinite Cardinal, First                            &#x2135;     ℵ
+Transfinite Cardinal, Fourth                           &#x2138;     ℸ
+Transfinite Cardinal, Second                           &#x2136;     ℶ
+Transfinite Cardinal, Third                            &#x2137;     ℷ
+Transform, Fourier                                     &#x2131;     ℱ
+Transmission Block, End Of                             &#x0017;     �
+Transmission Block, Symbol For End Of                  &#x2417;     ␗
+Transmission Symbol, End Of                            &#x2301;     ⌁
+Transmission, End Of                                   &#x0004;     �
+Transmission, Symbol For End Of                        &#x2404;     ␄
+Transmit State, Set                                    &#x0093;     �
+Trapezium, White                                       &#x23E2;     ⏢
+Triangle Symbols                                       &#x29CA;     ⧊
+Triangle, Combining Enclosing Upward Pointing          &#x20E4;
+Triangle, Right                                        &#x22BF;     ⊿
+Triangles                                              &#x25B2;     ▲
+Triangular Bullet                                      &#x2023;     ‣
+Triangular Colon, Modifier Letter                      &#x02D0;     ː
+Triangular Colon, Modifier Letter Half                 &#x02D1;     ˑ
+Tricolon                                               &#x205D;     ⁝
+Trigram Symbols, Yijing / I Ching                      &#x2630;     ☰
+Trine                                                  &#x25B3;     △
+Triple Integral                                        &#x222D;     ∭
+Triple Plus                                            &#x29FB;     ⧻
+Triple Prime                                           &#x2034;     ‴
+Triple Prime, Reversed                                 &#x2037;     ‷
+Triple Tilde                                           &#x224B;     ≋
+Triple Underdot, Combining                             &#x20E8;
+True                                                   &#x22A8;     ⊨
+Tsheg Bstar, Tibetan Mark Delimiter                    &#x0F0C;     ༌
+Tsheg, Tibetan Mark Intersyllabic                      &#x0F0B;     ་
+Tugrik Sign                                            &#x20AE;     ₮
+Turbofan                                               &#x274B;     ❋
+Turkish Currency                                       &#x20A4;     ₤
+Turkish Lira                                           &#x00A3;     £
+Turned A, Latin Small Letter                           &#x0250;     ɐ
+Turned Ae, Latin Small Letter                          &#x1D02;     ᴂ
+Turned Alpha, Latin Small Letter                       &#x0252;     ɒ
+Turned Ampersand                                       &#x214B;     ⅋
+Turned Capital F                                       &#x2132;     Ⅎ
+Turned Comma Above, Combining                          &#x0312;
+Turned Comma Quotation Mark, Double                    &#x201C;     “
+Turned Comma Quotation Mark, Single                    &#x2018;     ‘
+Turned Comma, Modifier Letter                          &#x02BB;     ʻ
+Turned Delta, Latin Small Letter                       &#x018D;     ƍ
+Turned E, Latin Capital Letter                         &#x018E;     Ǝ
+Turned E, Latin Small Letter                           &#x01DD;     ǝ
+Turned Greek Small Letter Iota                         &#x2129;     ℩
+Turned H With Fishhook, Latin Small Letter             &#x02AE;     ʮ
+Turned H, Latin Small Letter                           &#x0265;     ɥ
+Turned I, Latin Small Letter                           &#x1D09;     ᴉ
+Turned K, Latin Small Letter                           &#x029E;     ʞ
+Turned M With Long Leg, Latin Small Letter             &#x0270;     ɰ
+Turned M, Latin Capital Letter                         &#x019C;     Ɯ
+Turned M, Latin Small Letter                           &#x026F;     ɯ
+Turned M, Latin Small Letter Sideways                  &#x1D1F;     ᴟ
+Turned Not Sign                                        &#x2319;     ⌙
+Turned Oe, Latin Small Letter                          &#x1D14;     ᴔ
+Turned Open E, Latin Small Letter                      &#x1D08;     ᴈ
+Turned Question Mark                                   &#x00BF;     ¿
+Turned R With Hook, Latin Small Letter                 &#x027B;     ɻ
+Turned R With Long Leg, Latin Small Letter             &#x027A;     ɺ
+Turned R, Latin Letter Small Capital                   &#x1D1A;     ᴚ
+Turned R, Latin Small Letter                           &#x0279;     ɹ
+Turned R, Modifier Letter Small                        &#x02B4;     ʴ
+Turned Sans-Serif Capital G                            &#x2141;     ⅁
+Turned Sans-Serif Capital L                            &#x2142;     ⅂
+Turned Sans-Serif Capital Y                            &#x2144;     ⅄
+Turned Small F                                         &#x214E;     ⅎ
+Turned T, Latin Small Letter                           &#x0287;     ʇ
+Turned V, Latin Capital Letter                         &#x0245;     Ʌ
+Turned V, Latin Small Letter                           &#x028C;     ʌ
+Turned W, Latin Small Letter                           &#x028D;     ʍ
+Turned Y, Latin Small Letter                           &#x028E;     ʎ
+Turnstile                                              &#x22A2;     ⊢
+Turnstile, Reverse                                     &#x22A3;     ⊣
+Turnstiles, Tacks And                                  &#x22A2;     ⊢
+Turnstiles, Tacks And                                  &#x27D8;     ⟘
+Turnstiles, Tacks And                                  &#x2ADE;     ⫞
+Two Asterisks Aligned Vertically                       &#x2051;     ⁑
+Two Dot Leader                                         &#x2025;     ‥
+Two Dot Punctuation                                    &#x205A;     ⁚
+Two, Superscript                                       &#x00B2;     ²

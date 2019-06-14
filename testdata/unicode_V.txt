@@ -1,0 +1,104 @@
+V
+Description                                            Entity       Preview
+V Above                                                &#x030C;
+V With Dot Below, Latin Small Letter                   &#x1E7F;     ṿ
+V With Hook, Latin Capital Letter                      &#x01B2;     Ʋ
+V With Hook, Latin Small Letter                        &#x028B;     ʋ
+V With Tilde, Latin Small Letter                       &#x1E7D;     ṽ
+V, Combining Latin Small Letter                        &#x036E;
+V, Latin Capital Letter Script                         &#x01B2;     Ʋ
+V, Latin Capital Letter Turned                         &#x0245;     Ʌ
+V, Latin Letter Small Capital                          &#x1D20;     ᴠ
+V, Latin Small Letter Script                           &#x028B;     ʋ
+V, Latin Small Letter Turned                           &#x028C;     ʌ
+V, Latin Subscript Small Letter                        &#x1D65;     ᵥ
+Vai                                                    &#xA500;     ꔀ
+Valentine                                              &#x2665;     ♥
+Valid                                                  &#x22A8;     ⊨
+Varavu, Tamil                                          &#x0BF7;     ௷
+Varia, Greek                                           &#x0300;
+Variation Indicator, Ideographic                       &#x303E;     〾
+Variation Selector One, Mongolian Free                 &#x180B;
+Variation Selector Three, Mongolian Free               &#x180D;
+Variation Selector Two, Mongolian Free                 &#x180C;
+Variation Selector-1                                   &#xFE00;
+Variation Selectors                                    &#xFE00;
+Variation Selectors Supplement                         &#xE0100;
+Varies With                                            &#x223C;     ∼
+Varudam, Tamil                                         &#x0BF5;     ௵
+Vector                                                 &#x20D1;
+Vector                                                 &#x20D7;
+Vector Or Cross Product                                &#x2A2F;     ⨯
+Vector Pointing Into Page                              &#x2295;     ⊕
+Vector Pointing Into Page                              &#x2297;     ⊗
+Vector Pointing Out Of Page                            &#x2299;     ⊙
+Vee                                                    &#x2228;     ∨
+Venus                                                  &#x2640;     ♀
+Versicle                                               &#x2123;     ℣
+Vertical Bar                                           &#x007C;                      
+Vertical Bar Delimiter, Triple                         &#x2980;     ⦀
+Vertical Bar Dingbats                                  &#x2758;     ❘
+Vertical Bar, Broken                                   &#x00A6;     ¦
+Vertical Bar, N-Ary White                              &#x2AFF;     ⫿
+Vertical Bar, White                                    &#x2AFE;     ⫾
+Vertical Bowtie                                        &#x29D6;     ⧖
+Vertical Brackets                                      &#x23B4;     ⎴
+Vertical Ellipsis                                      &#x22EE;     ⋮
+Vertical Form Variants                                 &#xFE30;     ︰
+Vertical Four Dots                                     &#x205E;     ⁞
+Vertical Ideographic Iteration Mark                    &#x303B;     〻
+Vertical Line                                          &#x007C;                      
+Vertical Line Above, Combining                         &#x030D;
+Vertical Line Above, Combining Double                  &#x030E;
+Vertical Line Below, Combining                         &#x0329;
+Vertical Line Below, Combining Double                  &#x0348;
+Vertical Line Operators                                &#x2AEE;     ⫮
+Vertical Line Overlay, Combining Long                  &#x20D2;
+Vertical Line Overlay, Combining Short                 &#x20D3;
+Vertical Line With Middle Dot                          &#x237F;     ⍿
+Vertical Line, Double                                  &#x2016;     ‖
+Vertical Line, Modifier Letter                         &#x02C8;     ˈ
+Vertical Line, Modifier Letter Low                     &#x02CC;     ˌ
+Vertical Lines                                         &#x2223;     ∣
+Vertical Stroke Overlay, Combining Double              &#x20E6;
+Vertical Tabulation                                    &#x000B;     �
+Vertical Tabulation, Symbol For                        &#x240B;     ␋
+Vertical Text, Bracket Variants For                    &#x23DC;     ⏜
+Vertical Text, Double Punctuation For                  &#x2047;     ⁇
+Vertical Tilde, Combining                              &#x033E;
+Vertical Variants, Glyphs For                          &#xFE10;     ︐
+Vertical Variants, Glyphs For                          &#xFE30;     ︰
+Vertsaket, Armenian                                    &#x0589;     ։
+Very Much Greater-Than                                 &#x22D9;     ⋙
+Very Much Less-Than                                    &#x22D8;     ⋘
+Victory Hand                                           &#x270C;     ✌
+Vietnamese Currency                                    &#x20AB;     ₫
+Viewdata Square                                        &#x2317;     ⌗
+Vinculum                                               &#x0305;
+Viram, Devanagari Deergh                               &#x0965;     ॥
+Viram, Devanagari Purna                                &#x0964;     ।
+Virama, Devanagari Sign                                &#x094D;
+Virama, Malayalam Sign                                 &#x0D4D;
+Virama, Myanmar Sign                                   &#x1039;
+Virama, Sinhala                                        &#x0DCA;
+Virama, Tagalog Sign                                   &#x1714;
+Virgo                                                  &#x264D;     ♍
+Virgule                                                &#x002F;     /
+Visarga, Devanagari Sign                               &#x0903;
+Visarga, Khmer                                         &#x17C7;
+Visarga, Tamil Sign                                    &#x0B83;     ஃ
+Visarga, Tibetan                                       &#x0F7F;
+Voiced Fricative, Latin Letter Pharyngeal              &#x0295;     ʕ
+Voiced Iteration Mark, Hiragana                        &#x309E;     ゞ
+Voiced Iteration Mark, Katakana                        &#x30FE;     ヾ
+Voicing, Modifier Letter                               &#x02EC;     ˬ
+Voltage Sign, High                                     &#x26A1;     ⚡
+Volume Integral                                        &#x2230;     ∰
+Vrachy, Greek                                          &#x0306;
+Vs1                                                    &#xFE00;
+Vs17                                                   &#xE0100;
+Vt                                                     &#x000B;     �
+Vulgar Fraction One Half                               &#x00BD;     ½
+Vulgar Fraction One Quarter                            &#x00BC;     ¼
+Vulgar Fraction Three Quarters                         &#x00BE;     ¾
+Vulgar Fractions                                       &#x2153;     ⅓

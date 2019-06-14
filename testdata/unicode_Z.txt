@@ -1,0 +1,30 @@
+Z
+Description                                            Entity       Preview
+Z Bar, Latin Small Letter                              &#x01B6;     ƶ
+Z Notation Bag Membership                              &#x22FF;     ⋿
+Z Notation Spot                                        &#x2981;     ⦁
+Z Notation Type Colon                                  &#x2982;     ⦂
+Z With Acute, Latin Small Letter                       &#x017A;     ź
+Z With Caron, Latin Small Letter                       &#x017E;     ž
+Z With Circumflex, Latin Small Letter                  &#x1E91;     ẑ
+Z With Curl, Latin Small Letter                        &#x0291;     ʑ
+Z With Dot Above, Latin Small Letter                   &#x017C;     ż
+Z With Dot Below, Latin Small Letter                   &#x1E93;     ẓ
+Z With Hook, Latin Small Letter                        &#x0225;     ȥ
+Z With Line Below, Latin Small Letter                  &#x1E95;     ẕ
+Z With Retroflex Hook, Latin Small Letter              &#x0290;     ʐ
+Z With Stroke, Latin Small Letter                      &#x01B6;     ƶ
+Z With Swash Tail, Latin Small Letter                  &#x0240;     ɀ
+Z, Black-Letter Capital                                &#x2128;     ℨ
+Z, Double-Struck Capital                               &#x2124;     ℤ
+Z, Latin Letter Small Capital                          &#x1D22;     ᴢ
+Zapf Dingbats Series 100, Itc                          &#x2700;     ✀
+Zero Width Joiner                                      &#x200D;     ‍
+Zero Width No-Break Space                              &#xFEFF;     ﻿
+Zero Width Non-Joiner                                  &#x200C;     ‌
+Zero Width Space                                       &#x200B;     ​
+Zero, Circled Digit                                    &#x24EA;     ⓪
+Zero, Ideographic Number                               &#x3007;     〇
+Zero, Superscript                                      &#x2070;     ⁰
+Zigzag Above, Combining                                &#x035B;
+Zodiacal Symbols                                       &#x2648;     ♈
