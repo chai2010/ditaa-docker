@@ -2,12 +2,12 @@
 # Use of this source code is governed by a Apache
 # license that can be found in the LICENSE file.
 
-FROM frolvlad/alpine-oraclejdk8
+FROM openjdk:11-jdk-stretch
 
 LABEL MAINTAINER="chaishushan@gmail.com"
 
 WORKDIR /root
-COPY ./ditaa0_9 /ditaa0_9
+COPY ./ditaa0_11 /ditaa0_11
 
-ENTRYPOINT ["java", "-jar", "/ditaa0_9/ditaa0_9.jar"]
+ENTRYPOINT ["java", "-jar", "/ditaa0_11/ditaa-0.11.0-standalone.jar"]
 CMD []

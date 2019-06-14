@@ -15,10 +15,11 @@ pull:
 
 test:
 	@for file in $(SIMPLE_FILES) ; do \
-		docker run --rm -it  -v `pwd`:/root chai2010/ditaa $$file $$file.png ; \
+		docker run --rm -it -v `pwd`:/root chai2010/ditaa $$file $$file.png ; \
+		docker run --rm -it -v `pwd`:/root chai2010/ditaa --svg $$file $$file.svg ; \
 	done
 	@echo "ok"
 
 clean:
-	-rm $(wildcard ./testdata/*.txt.png)
+	-rm $(wildcard ./testdata/*.txt.png ./testdata/*.txt.svg)
 
