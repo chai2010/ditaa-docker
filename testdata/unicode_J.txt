@@ -1,0 +1,38 @@
+J
+Description                                            Entity       Preview
+J With Caron, Latin Small Letter                       &#x01F0;     ǰ
+J With Circumflex, Latin Small Letter                  &#x0135;     ĵ
+J With Crossed-Tail, Latin Small Letter                &#x029D;     ʝ
+J With Stroke, Latin Capital Letter                    &#x0248;     Ɉ
+J With Stroke, Latin Small Letter                      &#x0249;     ɉ
+J With Stroke, Latin Small Letter Dotless              &#x025F;     ɟ
+J, Double-Struck Italic Small                          &#x2149;     ⅉ
+J, Latin Letter Small Capital                          &#x1D0A;     ᴊ
+J, Latin Small Letter Dotless                          &#x0237;     ȷ
+J, Modifier Letter Small                               &#x02B2;     ʲ
+Jack                                                   &#x2749;     ❉
+Jamo Combining Alphabet, Korean Hangul                 &#x1100;     ᄀ
+Jamo, Korean Hangul Compatibility                      &#x3130;     ㄰
+Japanese Bullet, Tainome                               &#x25C9;     ◉
+Japanese Chess Symbols                                 &#x2616;     ☖
+Japanese Era Names                                     &#x337B;     ㍻
+Japanese Hiragana                                      &#x3040;     ぀
+Japanese Incorporated                                  &#x337F;     ㍿
+Japanese Industrial Standard Symbol                    &#x3004;     〄
+Japanese Kanbun Ideographic Annotation                 &#x3190;     ㆐
+Japanese Katakana                                      &#x30A0;     ゠
+Japanese Katakana Variants, Halfwidth                  &#xFF61;     ｡
+Japanese Katakana Words, Squared                       &#x3300;     ㌀
+Japanese Katakana, Circled                             &#x32D0;     ㋐
+Japanese Kome                                          &#x203B;     ※
+Jerusalem, Cross Of                                    &#x2629;     ☩
+Jis Composition Circle                                 &#x20DD;
+Jis X 0213 Compatibility Ideographs                    &#xFA30;     侮
+Join                                                   &#x2A1D;     ⨝
+Joiner, Combining Grapheme                             &#x034F;
+Joiner, Word                                           &#x2060;     ⁠
+Joiner, Zero Width                                     &#x200D;     ‍
+Jolly Roger                                            &#x2620;     ☠
+Jot, Apl                                               &#x2218;     ∘
+Jupiter                                                &#x2643;     ♃
+Jurisprudence Symbol                                   &#x2696;     ⚖

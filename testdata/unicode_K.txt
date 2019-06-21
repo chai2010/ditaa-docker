@@ -1,0 +1,90 @@
+K
+Description                                            Entity       Preview
+K With Acute, Latin Small Letter                       &#x1E31;     ḱ
+K With Caron, Latin Small Letter                       &#x01E9;     ǩ
+K With Cedilla, Latin Small Letter                     &#x0137;     ķ
+K With Dot Below, Latin Small Letter                   &#x1E33;     ḳ
+K With Hook, Latin Small Letter                        &#x0199;     ƙ
+K With Line Below, Latin Small Letter                  &#x1E35;     ḵ
+K, Latin Letter Small Capital                          &#x1D0B;     ᴋ
+K, Latin Small Letter Turned                           &#x029E;     ʞ
+Ka, Hiragana Letter Small                              &#x3095;     ゕ
+Kabusiki-Gaisya                                        &#x337F;     ㍿
+Kana Repeat Marks                                      &#x3031;     〱
+Kanbun Ideographic Annotation, Japanese                &#x3190;     ㆐
+Kangxi Radicals, Cjk                                   &#x2F00;     ⼀
+Kannada                                                &#x0C80;     ಀ
+Kannada Consonants                                     &#x0C95;     ಕ
+Kannada Dependent Vowel Signs                          &#x0CBE;
+Kannada Digits                                         &#x0CE6;     ೦
+Kannada Independent Vowels                             &#x0C85;     ಅ
+Kashida, Arabic                                        &#x0640;     ـ
+Katakana                                               &#x30A0;     ゠
+Katakana Digraph Koto                                  &#x30FF;     ヿ
+Katakana Extensions For Ainu                           &#x31F0;     ㇰ
+Katakana Iteration Mark                                &#x30FD;     ヽ
+Katakana Middle Dot                                    &#x30FB;     ・
+Katakana Phonetic Extensions                           &#x31F0;     ㇰ
+Katakana Variants, Halfwidth Japanese                  &#xFF61;     ｡
+Katakana Voiced Iteration Mark                         &#x30FE;     ヾ
+Katakana Words, Squared                                &#x3300;     ㌀
+Katakana, Circled                                      &#x32D0;     ㋐
+Katakana-Hiragana Double Hyphen                        &#x30A0;     ゠
+Katakana-Hiragana Prolonged Sound Mark                 &#x30FC;     ー
+Kayah Li                                               &#xA900;     ꤀
+Kelvin Sign                                            &#x212A;     K
+Ket                                                    &#x27E9;     ⟩
+Key, Clear                                             &#x2327;     ⌧
+Key, Command                                           &#x2318;     ⌘
+Key, Delete To The Left                                &#x232B;     ⌫
+Key, Delete To The Right                               &#x2326;     ⌦
+Key, Enter                                             &#x2324;     ⌤
+Key, Option                                            &#x2325;     ⌥
+Keyboard                                               &#x2328;     ⌨
+Keyboard Symbol For No Break Space                     &#x237D;     ⍽
+Keyboard Symbols                                       &#x21E6;     ⇦
+Keyboard Symbols                                       &#x2324;     ⌤
+Keyboard Symbols                                       &#x2380;     ⎀
+Keyboard Symbols                                       &#x2396;     ⎖
+Keycap, Combining Enclosing                            &#x20E3;
+Khanda, Gurmukhi                                       &#x262C;     ☬
+Kharoshthi                                             &#x10A00;    𐨀
+Kharoshthi Digits                                      &#x10A40;    𐩀
+Khmer                                                  &#x1780;     ក
+Khmer Anusvara                                         &#x17C6;
+Khmer Consonants                                       &#x1780;     ក
+Khmer Currency Symbol Riel                             &#x17DB;     ៛
+Khmer Dependent Vowel Signs                            &#x17B6;
+Khmer Digits                                           &#x17E0;     ០
+Khmer Independent Vowels                               &#x17A5;     ឥ
+Khmer Numeric Symbols For Divination                   &#x17F0;     ៰
+Khmer Sign Nikahit                                     &#x17C6;
+Khmer Sign Reahmuk                                     &#x17C7;
+Khmer Signs                                            &#x17C6;
+Khmer Srak Ah                                          &#x17C7;
+Khmer Srak Am                                          &#x17C6;
+Khmer Symbols                                          &#x19E0;     ᧠
+Khmer Visarga                                          &#x17C7;
+Khomut, Thai Character                                 &#x0E5B;     ๛
+Khutsuri, Georgian                                     &#x10A0;     Ⴀ
+Killer, Myanmar                                        &#x1039;
+Kip Sign                                               &#x20AD;     ₭
+Kissen                                                 &#x2311;     ⌑
+Kome, Japanese                                         &#x203B;     ※
+Komi Letters                                           &#x0500;     Ԁ
+Koranic Annotation Signs, Arabic                       &#x06D6;
+Korean Combining Alphabet                              &#x1100;     ᄀ
+Korean Currency                                        &#x20A9;     ₩
+Korean Hangul Archaic Letters                          &#x3165;     ㅥ
+Korean Hangul Compatibility Jamo                       &#x3130;     ㄰
+Korean Hangul Elements, Circled                        &#x3260;     ㉠
+Korean Hangul Elements, Parenthesized                  &#x3200;     ㈀
+Korean Hangul Jamo Combining Alphabet                  &#x1100;     ᄀ
+Korean Hangul Syllables                                &#xAC00;     가
+Korean Hangul Syllables, Circled                       &#x326E;     ㉮
+Korean Hangul Syllables, Parenthesized                 &#x320E;     ㈎
+Korean Hangul Variants, Halfwidth                      &#xFFA0;     ﾠ
+Korean Standard Symbol                                 &#x327F;     ㉿
+Koronis, Combining Greek                               &#x0343;
+Koto, Katakana Digraph                                 &#x30FF;     ヿ
+Kra, Latin Small Letter                                &#x0138;     ĸ

@@ -1,0 +1,322 @@
+L
+Description                                            Entity       Preview
+L B Bar Symbol                                         &#x2114;     ℔
+L With Acute, Latin Small Letter                       &#x013A;     ĺ
+L With Bar, Latin Capital Letter                       &#x023D;     Ƚ
+L With Bar, Latin Small Letter                         &#x019A;     ƚ
+L With Belt, Latin Small Letter                        &#x026C;     ɬ
+L With Caron, Latin Small Letter                       &#x013E;     ľ
+L With Cedilla, Latin Small Letter                     &#x013C;     ļ
+L With Circumflex Below, Latin Small Letter            &#x1E3D;     ḽ
+L With Curl, Latin Small Letter                        &#x0234;     ȴ
+L With Dot Below, Latin Small Letter                   &#x1E37;     ḷ
+L With Line Below, Latin Small Letter                  &#x1E3B;     ḻ
+L With Middle Dot, Latin Small Letter                  &#x0140;     ŀ
+L With Middle Tilde, Latin Small Letter                &#x026B;     ɫ
+L With Retroflex Hook, Latin Small Letter              &#x026D;     ɭ
+L With Stroke, Latin Letter Small Capital              &#x1D0C;     ᴌ
+L With Stroke, Latin Small Letter                      &#x0142;     ł
+L, Latin Letter Small Capital                          &#x029F;     ʟ
+L, Modifier Letter Small                               &#x02E1;     ˡ
+L, Reversed Sans-Serif Capital                         &#x2143;     ⅃
+L, Script Capital                                      &#x2112;     ℒ
+L, Script Small                                        &#x2113;     ℓ
+L, Turned Sans-Serif Capital                           &#x2142;     ⅂
+Lambda Bar, Latin Letter                               &#x019B;     ƛ
+Language Tag                                           &#xE0001;    󠀁
+Lao                                                    &#x0E80;     ຀
+Lao Cancellation Mark                                  &#x0ECC;
+Lao Consonants                                         &#x0E81;     ກ
+Lao Digits                                             &#x0ED0;     ໐
+Lao Ellipsis                                           &#x0EAF;     ຯ
+Lao Marks And Signs                                    &#x0EC8;
+Lao Niggahita                                          &#x0ECD;
+Lao Vowels                                             &#x0EB0;     ະ
+Laotian Currency                                       &#x20AD;     ₭
+Laplace Operator                                       &#x2206;     ∆
+Laplace Transform                                      &#x2112;     ℒ
+Large Bowtie                                           &#x2A1D;     ⨝
+Large Circle                                           &#x25EF;     ◯
+Large Operators                                        &#x29F8;     ⧸
+Last Quarter Moon                                      &#x263E;     ☾
+Lateral Click, Latin Letter                            &#x01C1;     ǁ
+Latin Abbreviations, Squared                           &#x3371;     ㍱
+Latin Abbreviations, Squared                           &#x3380;     ㎀
+Latin Cross                                            &#x271D;     ✝
+Latin Extended Additional                              &#x1E00;     Ḁ
+Latin Extended-A                                       &#x0100;     Ā
+Latin Extended-B                                       &#x0180;     ƀ
+Latin Extended-C                                       &#x2C60;     Ⱡ
+Latin Extended-D                                       &#xA720;     ꜠
+Latin Extensions                                       &#x1D00;     ᴀ
+Latin Letter Ain                                       &#x1D25;     ᴥ
+Latin Letter Alveolar Click                            &#x01C2;     ǂ
+Latin Letter Bidental Percussive                       &#x02AD;     ʭ
+Latin Letter Bilabial Click                            &#x0298;     ʘ
+Latin Letter Bilabial Percussive                       &#x02AC;     ʬ
+Latin Letter Bullseye                                  &#x0298;     ʘ
+Latin Letter Dental Click                              &#x01C0;     ǀ
+Latin Letter Exclamation Mark                          &#x01C3;     ǃ
+Latin Letter Glottal Stop                              &#x0294;     ʔ
+Latin Letter Inverted Glottal Stop                     &#x0296;     ʖ
+Latin Letter Lambda Bar                                &#x019B;     ƛ
+Latin Letter Lateral Click                             &#x01C1;     ǁ
+Latin Letter Pharyngeal Voiced Fricative               &#x0295;     ʕ
+Latin Letter Retroflex Click                           &#x01C3;     ǃ
+Latin Letter Reversed Esh Loop                         &#x01AA;     ƪ
+Latin Letter Reversed Glottal Stop                     &#x0295;     ʕ
+Latin Letter Stretched C                               &#x0297;     ʗ
+Latin Letter Voiced Laryngeal Spirant                  &#x1D24;     ᴤ
+Latin Letter Wynn                                      &#x01BF;     ƿ
+Latin Letter Yr                                        &#x01A6;     Ʀ
+Latin Letters, Circled                                 &#x24B6;     Ⓐ
+Latin Letters, Parenthesized                           &#x249C;     ⒜
+Latin Letters, Phonetic Modifiers Derived From         &#x02B0;     ʰ
+Latin Ligatures                                        &#xFB00;     ﬀ
+Latin Lowercase Alphabet                               &#x0061;     a
+Latin Small Letter Ae                                  &#x00E6;     æ
+Latin Small Letter Alpha                               &#x0251;     ɑ
+Latin Small Letter Baby Gamma                          &#x0264;     ɤ
+Latin Small Letter Closed Epsilon                      &#x029A;     ʚ
+Latin Small Letter Closed Omega                        &#x0277;     ɷ
+Latin Small Letter Closed Reversed Epsilon             &#x025E;     ɞ
+Latin Small Letter Db Digraph                          &#x0238;     ȸ
+Latin Small Letter Eng                                 &#x014B;     ŋ
+Latin Small Letter Epsilon                             &#x025B;     ɛ
+Latin Small Letter Esh                                 &#x0283;     ʃ
+Latin Small Letter Eth                                 &#x00F0;     ð
+Latin Small Letter Ezh                                 &#x0292;     ʒ
+Latin Small Letter Ezh Reversed                        &#x01B9;     ƹ
+Latin Small Letter Ezh With Caron                      &#x01EF;     ǯ
+Latin Small Letter Gamma                               &#x0263;     ɣ
+Latin Small Letter Glottal Stop                        &#x0242;     ɂ
+Latin Small Letter Hv                                  &#x0195;     ƕ
+Latin Small Letter Iota                                &#x0269;     ɩ
+Latin Small Letter Kra                                 &#x0138;     ĸ
+Latin Small Letter Lezh                                &#x026E;     ɮ
+Latin Small Letter Oi                                  &#x01A3;     ƣ
+Latin Small Letter Ou                                  &#x0223;     ȣ
+Latin Small Letter Phi                                 &#x0278;     ɸ
+Latin Small Letter Qp Digraph                          &#x0239;     ȹ
+Latin Small Letter Rams Horn                           &#x0264;     ɤ
+Latin Small Letter Schwa                               &#x0259;     ə
+Latin Small Letter Squat Reversed Esh                  &#x0285;     ʅ
+Latin Small Letter Thorn                               &#x00FE;     þ
+Latin Small Letter Tone Six                            &#x0185;     ƅ
+Latin Small Letter Turned Ae                           &#x1D02;     ᴂ
+Latin Small Letter Turned Alpha                        &#x0252;     ɒ
+Latin Small Letter Turned Delta                        &#x018D;     ƍ
+Latin Small Letter Turned Oe                           &#x1D14;     ᴔ
+Latin Small Letter Upsilon                             &#x028A;     ʊ
+Latin Small Letter Yogh                                &#x021D;     ȝ
+Latin Small Letters                                    &#x0061;     a
+Latin Small Letters, Combining                         &#x0363;
+Latin Small Ligature Ae                                &#x00E6;     æ
+Latin Small Ligature Ij                                &#x0133;     ĳ
+Latin Small Ligature Oe                                &#x0153;     œ
+Latin Superscript Modifier Letters                     &#x02B0;     ʰ
+Latin Uppercase Alphabet                               &#x0041;     A
+Latin, Basic                                           &#x0000;     �
+Latin, European                                        &#x0100;     Ā
+Latin-1 Punctuation And Symbols                        &#x00A0;    
+Latin-1 Supplement                                     &#x00A0;    
+Lazy S                                                 &#x223D;     ∽
+Lazy S, Inverted                                       &#x223E;     ∾
+Leader, One Dot                                        &#x2024;     ․
+Leader, Three Dot                                      &#x2026;     …
+Leader, Two Dot                                        &#x2025;     ‥
+Leaf, Aldus                                            &#x2766;     ❦
+Leaf, Ivy                                              &#x2767;     ❧
+Left Abstract Syntax Bracket                           &#x301A;     〚
+Left Angle Above, Combining                            &#x031A;
+Left Angle Below, Combining                            &#x0349;
+Left Angle Bracket                                     &#x3008;     〈
+Left Angle Bracket, Mathematical                       &#x27E8;     ⟨
+Left Arrow Above, Combining                            &#x20D6;
+Left Arrow Below, Combining                            &#x20EE;
+Left Arrowhead Below, Combining                        &#x0354;
+Left Bag Bracket                                       &#x27E6;     ⟦
+Left Black Lenticular Bracket                          &#x3010;     【
+Left Ceiling                                           &#x2308;     ⌈
+Left Chevron Bracket                                   &#x27EA;     ⟪
+Left Corner Bracket                                    &#x300C;     「
+Left Curly Bracket                                     &#x007B;     {
+Left Double Angle Bracket                              &#x300A;     《
+Left Double Angle Bracket, Mathematical                &#x27EA;     ⟪
+Left Double Quotation Mark                             &#x201C;     “
+Left Floor                                             &#x230A;     ⌊
+Left Half Ring Above, Combining                        &#x0351;
+Left Half Ring Below, Combining                        &#x031C;
+Left Half Ring, Armenian Modifier Letter               &#x0559;     ՙ
+Left Half Ring, Modifier Letter                        &#x02BF;     ʿ
+Left Half Ring, Modifier Letter Centred                &#x02D3;     ˓
+Left Harpoon Above, Combining                          &#x20D0;
+Left Hook, Latin Capital Letter N With                 &#x019D;     Ɲ
+Left Hook, Latin Small Letter N With                   &#x0272;     ɲ
+Left Key, Delete To The                                &#x232B;     ⌫
+Left Moustache                                         &#x23B0;     ⎰
+Left Normal Factor Semidirect Product                  &#x22C9;     ⋉
+Left Parenthesis                                       &#x0028;     (
+Left Parenthesis, Ornate                               &#xFD3E;     ﴾
+Left Pointing Guillemet                                &#x00AB;     «
+Left Pointing Index, Black                             &#x261A;     ☚
+Left Pointing Index, White                             &#x261C;     ☜
+Left Pointing Single Guillemet                         &#x2039;     ‹
+Left Right Arrow Above, Combining                      &#x20E1;
+Left Right Arrow Below, Combining                      &#x034D;
+Left Semidirect Product                                &#x22CB;     ⋋
+Left Sequence Bracket                                  &#x27E8;     ⟨
+Left Single Quotation Mark                             &#x2018;     ‘
+Left Square Bracket                                    &#x005B;     [
+Left Square Bracket With Quill                         &#x2045;     ⁅
+Left Tack                                              &#x22A3;     ⊣
+Left Tack Below, Combining                             &#x0318;
+Left Tortoise Shell Bracket                            &#x3014;     〔
+Left White Corner Bracket                              &#x300E;     『
+Left White Curly Bracket                               &#x2983;     ⦃
+Left White Lenticular Bracket                          &#x3016;     〖
+Left White Parenthesis                                 &#x2985;     ⦅
+Left White Square Bracket                              &#x301A;     〚
+Left White Tortoise Shell Bracket                      &#x3018;     〘
+Left, Erase To The                                     &#x232B;     ⌫
+Left, Fast Cursor                                      &#x219E;     ↞
+Left-Pointing Angle Bracket                            &#x2329;     〈
+Left-Pointing Angle Quotation Mark, Single             &#x2039;     ‹
+Left-Pointing Double Angle Quotation Mark              &#x00AB;     «
+Left-To-Right Embedding                                &#x202A;     ‪
+Left-To-Right Mark                                     &#x200E;     ‎
+Left-To-Right Override                                 &#x202D;     ‭
+Leftward Tab                                           &#x21E4;     ⇤
+Leftwards Arrow                                        &#x2190;     ←
+Leftwards Arrow Overlay, Combining                     &#x20EA;
+Leftwards Bullet, Black                                &#x204C;     ⁌
+Leftwards Harpoon With Barb Downwards, Combining       &#x20ED;
+Lenticular Bracket, Left Black                         &#x3010;     【
+Lenticular Bracket, Left White                         &#x3016;     〖
+Lenticular Bracket, Right Black                        &#x3011;     】
+Lenticular Bracket, Right White                        &#x3017;     〗
+Leo                                                    &#x264C;     ♌
+Lepcha                                                 &#x1C00;     ᰀ
+Less-Than Or Equal To                                  &#x2264;     ≤
+Less-Than Sign                                         &#x003C;     <
+Less-Than, Much                                        &#x226A;     ≪
+Less-Than, Very Much                                   &#x22D8;     ⋘
+Letterlike Mathematical Symbols, Hebrew                &#x2135;     ℵ
+Letterlike Symbols                                     &#x2100;     ℀
+Level 2 Lock                                           &#x21EB;     ⇫
+Level 3 Lock                                           &#x21EF;     ⇯
+Level 3 Select                                         &#x21EE;     ⇮
+Lezh, Latin Small Letter                               &#x026E;     ɮ
+Lgroup                                                 &#x27EE;     ⟮
+Libra                                                  &#x264E;     ♎
+Ligature Ae, Latin Capital                             &#x00C6;     Æ
+Ligature Ae, Latin Small                               &#x00E6;     æ
+Ligature Ij, Latin Small                               &#x0133;     ĳ
+Ligature Oe, Latin Small                               &#x0153;     œ
+Ligature Tie                                           &#x0361;
+Ligature Tie Below                                     &#x035C;
+Ligatures, Arabic                                      &#xFBEA;     ﯪ
+Ligatures, Armenian                                    &#xFB13;     ﬓ
+Ligatures, Latin                                       &#xFB00;     ﬀ
+Lightning                                              &#x2607;     ☇
+Limbu                                                  &#x1900;     ᤀ
+Limbu Digits                                           &#x1946;     ᥆
+Limbu Exclamation Mark                                 &#x1944;     ᥄
+Limbu Question Mark                                    &#x1945;     ᥅
+Limbu Signs                                            &#x1939;
+Limit, Approaches The                                  &#x2250;     ≐
+Line Above, Combining Double Vertical                  &#x030E;
+Line Above, Combining Vertical                         &#x030D;
+Line Backward, Partial                                 &#x008C;     �
+Line Below, Combining Double Vertical                  &#x0348;
+Line Below, Combining Vertical                         &#x0329;
+Line Feed                                              &#x000A;    
+Line Feed                                              &#x21B4;     ↴
+Line Feed, Reverse                                     &#x008D;     �
+Line Feed, Symbol For                                  &#x240A;     ␊
+Line Forward, Partial                                  &#x008B;     �
+Line Marker                                            &#x2319;     ⌙
+Line Operators, Vertical                               &#x2AEE;     ⫮
+Line Overlay, Combining Long Vertical                  &#x20D2;
+Line Overlay, Combining Short Vertical                 &#x20D3;
+Line Separator                                         &#x2028;      
+Line Symbol, Centre                                    &#x2104;     ℄
+Line Tabulation                                        &#x000B;     �
+Line Tabulation Set                                    &#x008A;     �
+Line With Middle Dot, Vertical                         &#x237F;     ⍿
+Line, Beginning Of                                     &#x2310;     ⌐
+Line, Centreline Low                                   &#xFE4E;     ﹎
+Line, Combining Double Low                             &#x0333;
+Line, Combining Low                                    &#x0332;
+Line, Dashed Low                                       &#xFE4D;     ﹍
+Line, Double Low                                       &#x2017;     ‗
+Line, Double Vertical                                  &#x2016;     ‖
+Line, End Of                                           &#x000A;    
+Line, Low                                              &#x005F;     _
+Line, Modifier Letter Low Vertical                     &#x02CC;     ˌ
+Line, Modifier Letter Vertical                         &#x02C8;     ˈ
+Line, New                                              &#x000A;    
+Line, Next                                             &#x0085;     �
+Line, Property                                         &#x214A;     ⅊
+Line, Vertical                                         &#x007C;                      
+Line, Wavy                                             &#x2307;     ⌇
+Line, Wavy Low                                         &#xFE4F;     ﹏
+Linear B Ideograms                                     &#x10080;    𐂀
+Linear B Syllabary                                     &#x10000;    𐀀
+Lines, Horizontal Scan                                 &#x23BA;     ⎺
+Lines, Vertical                                        &#x2223;     ∣
+Lira Sign                                              &#x20A4;     ₤
+Lira, Italian                                          &#x00A3;     £
+Lira, Turkish                                          &#x00A3;     £
+Liter                                                  &#x2113;     ℓ
+Lock, Caps                                             &#x21EA;     ⇪
+Lock, Caps                                             &#x21EC;     ⇬
+Lock, Numerics                                         &#x21ED;     ⇭
+Logic Operators, Modal                                 &#x27D8;     ⟘
+Logic Operators, Modal                                 &#x27E0;     ⟠
+Logical And                                            &#x2227;     ∧
+Logical And, Curly                                     &#x22CF;     ⋏
+Logical And, N-Ary                                     &#x22C0;     ⋀
+Logical Ands And Ors                                   &#x2A51;     ⩑
+Logical Or                                             &#x2228;     ∨
+Logical Or, Curly                                      &#x22CE;     ⋎
+Logical Or, N-Ary                                      &#x22C1;     ⋁
+Long                                                   &#x0304;
+Long Arrows                                            &#x27F5;     ⟵
+Long Division                                          &#x27CC;     ⟌
+Long Double Slash Overlay                              &#x20EB;
+Long S, Latin Small Letter                             &#x017F;     ſ
+Long Slash Overlay                                     &#x0338;
+Long Solidus Overlay, Combining                        &#x0338;
+Long Stroke Overlay, Combining                         &#x0336;
+Long Vertical Line Overlay, Combining                  &#x20D2;
+Lorraine, Cross Of                                     &#x2628;     ☨
+Low Acute Accent, Modifier Letter                      &#x02CF;     ˏ
+Low Asterisk                                           &#x204E;     ⁎
+Low Double Comma Quotation Mark                        &#x201E;     „
+Low Double Prime Quotation Mark                        &#x301F;     〟
+Low Grave Accent, Modifier Letter                      &#x02CE;     ˎ
+Low Line                                               &#x005F;     _
+Low Line, Centreline                                   &#xFE4E;     ﹎
+Low Line, Combining                                    &#x0332;
+Low Line, Combining Double                             &#x0333;
+Low Line, Dashed                                       &#xFE4D;     ﹍
+Low Line, Double                                       &#x2017;     ‗
+Low Line, Wavy                                         &#xFE4F;     ﹏
+Low Macron, Modifier Letter                            &#x02CD;     ˍ
+Low Single Comma Quotation Mark                        &#x201A;     ‚
+Low Surrogates                                         &#xDC00;     �
+Low Vertical Line, Modifier Letter                     &#x02CC;     ˌ
+Low-9 Quotation Mark, Double                           &#x201E;     „
+Low-9 Quotation Mark, Single                           &#x201A;     ‚
+Lower Integral                                         &#x2A1C;     ⨜
+Lower Rank Than                                        &#x227A;     ≺
+Lowercase Alphabet, Latin                              &#x0061;     a
+Lozenge                                                &#x25CA;     ◊
+Lozenge, Black                                         &#x29EB;     ⧫
+Lozenge, Square                                        &#x2311;     ⌑
+Lunate Epsilon Symbol, Greek                           &#x03F5;     ϵ
+Lunate Epsilon Symbol, Greek Reversed                  &#x03F6;     ϶
+Lunate Sigma Symbol, Greek                             &#x03F2;     ϲ
+Lycian                                                 &#x10280;    𐊀
+Lydian                                                 &#x10920;    𐤠

@@ -1,0 +1,163 @@
+H
+Description                                            Entity       Preview
+H With Breve Below, Latin Small Letter                 &#x1E2B;     ḫ
+H With Caron, Latin Small Letter                       &#x021F;     ȟ
+H With Cedilla, Latin Small Letter                     &#x1E29;     ḩ
+H With Circumflex, Latin Small Letter                  &#x0125;     ĥ
+H With Diaeresis, Latin Small Letter                   &#x1E27;     ḧ
+H With Dot Above, Latin Small Letter                   &#x1E23;     ḣ
+H With Dot Below, Latin Small Letter                   &#x1E25;     ḥ
+H With Fishhook, Latin Small Letter Turned             &#x02AE;     ʮ
+H With Hook, Latin Small Letter                        &#x0266;     ɦ
+H With Line Below, Latin Small Letter                  &#x1E96;     ẖ
+H With Stroke, Latin Small Letter                      &#x0127;     ħ
+H, Black-Letter Capital                                &#x210C;     ℌ
+H, Combining Latin Small Letter                        &#x036A;
+H, Double-Struck Capital                               &#x210D;     ℍ
+H, Latin Letter Small Capital                          &#x029C;     ʜ
+H, Latin Small Letter Turned                           &#x0265;     ɥ
+H, Modifier Letter Small                               &#x02B0;     ʰ
+H, Script Capital                                      &#x210B;     ℋ
+Hacek, Combining                                       &#x030C;
+Hacek, Modifier Letter                                 &#x02C7;     ˇ
+Hair Space                                             &#x200A;      
+Halant                                                 &#x094D;
+Halanta, Tibetan Mark                                  &#x0F84;
+Half Fill Space, Ideographic                           &#x303F;     〿
+Half Integral, Bottom                                  &#x2321;     ⌡
+Half Integral, Top                                     &#x2320;     ⌠
+Half Marks, Combining                                  &#xFE20;
+Half Ring Above, Combining Left                        &#x0351;
+Half Ring Above, Combining Right                       &#x0357;
+Half Ring Below, Combining Left                        &#x031C;
+Half Ring Below, Combining Right                       &#x0339;
+Half Ring, Armenian Modifier Letter Left               &#x0559;     ՙ
+Half Ring, Armenian Modifier Letter Right              &#x055A;     ՚
+Half Ring, Modifier Letter Centred Left                &#x02D3;     ˓
+Half Ring, Modifier Letter Left                        &#x02BF;     ʿ
+Half Triangular Colon, Modifier Letter                 &#x02D1;     ˑ
+Half, Vulgar Fraction One                              &#x00BD;     ½
+Halfwidth And Fullwidth Forms                          &#xFF00;     ＀
+Halfwidth Cjk Punctuation                              &#xFF61;     ｡
+Halfwidth Japanese Katakana Variants                   &#xFF61;     ｡
+Halfwidth Korean Hangul Variants                       &#xFFA0;     ﾠ
+Halfwidth Symbol Variants                              &#xFFE8;     ￨
+Hamilton Operator                                      &#x25BD;     ▽
+Hammer And Pick                                        &#x2692;     hammer_and_pick
+Hammer And Sickle                                      &#x262D;     ☭
+Hamzah On Ha, Arabic Letter                            &#x06C0;     ۀ
+Han Ideographs                                         &#x4E00;     一
+Han-Daku-On, Combining Japanese                        &#x309A;
+Han-Daku-On, Japanese                                  &#x309C;     ゜
+Hand Symbols, Pointing                                 &#x261A;     ☚
+Hand, Victory                                          &#x270C;     ✌
+Hand, Writing                                          &#x270D;     ✍
+Hangul Archaic Letters, Korean                         &#x3165;     ㅥ
+Hangul Choseong Filler                                 &#x115F;     ᅟ
+Hangul Compatibility Jamo, Korean                      &#x3130;     ㄰
+Hangul Elements, Circled Korean                        &#x3260;     ㉠
+Hangul Elements, Parenthesized Korean                  &#x3200;     ㈀
+Hangul Filler                                          &#x3164;     ㅤ
+Hangul Jamo Combining Alphabet, Korean                 &#x1100;     ᄀ
+Hangul Jungseong Filler                                &#x1160;     ᅠ
+Hangul Syllables Area, Korean                          &#xAC00;     가
+Hangul Syllables, Circled Korean                       &#x326E;     ㉮
+Hangul Syllables, Parenthesized Korean                 &#x320E;     ㈎
+Hangul Variants, Halfwidth Korean                      &#xFFA0;     ﾠ
+Hangzhou Numerals                                      &#x3021;     〡
+Hanunoo                                                &#x1720;     ᜠ
+Harakat, Arabic                                        &#x064B;
+Harbor Symbol                                          &#x2693;     ⚓
+Harpoon Above, Combining Left                          &#x20D0;
+Harpoon Above, Combining Right                         &#x20D1;
+Harpoon With Barb Downwards, Combining Leftwards       &#x20ED;
+Harpoon With Barb Downwards, Combining Rightwards      &#x20EC;
+Harpoons                                               &#x21BC;     ↼
+Harpoons, Miscellaneous                                &#x294A;     ⥊
+Hartsakan Nshan, Armenian                              &#x055E;     ՞
+Hasant, Bengali                                        &#x09CD;
+Hasanta, Syloti Nagri Sign                             &#xA806;
+Hash                                                   &#x0023;     #
+Hat                                                    &#x0302;
+Hat                                                    &#x2229;     ∩
+Have A Nice Day!                                       &#x263A;     ☺
+Hazard Dingbats                                        &#x2620;     ☠
+Head Marks, Tibetan                                    &#x0F01;     ༁
+Heading, Start Of                                      &#x0001;     �
+Heading, Symbol For Start Of                           &#x2401;     ␁
+Heart Bullet, Reversed Rotated Floral                  &#x2619;     ☙
+Heart Dingbats                                         &#x2763;     ❣
+Heart Ornaments                                        &#x2763;     ❣
+Heavy Ballot X                                         &#x2718;     ✘
+Heavy Check Mark                                       &#x2714;     ✔
+Heavy Exclamation Mark Ornament                        &#x2762;     ❢
+Heavy Multiplication X                                 &#x2716;     ✖
+Heavy Sparkle                                          &#x2748;     ❈
+Hebrew                                                 &#x0590;     ֐
+Hebrew Alphabet                                        &#x05D0;     א
+Hebrew Cantillation Marks                              &#x0591;
+Hebrew Letterlike Mathematical Symbols                 &#x2135;     ℵ
+Hebrew Points And Punctuation                          &#x05B0;
+Hebrew Presentation Forms                              &#xFB1D;     יִ
+Hedera                                                 &#x2767;     ❧
+Heh With Yeh Above, Arabic Letter                      &#x06C0;     ۀ
+Helm Symbol                                            &#x2388;     ⎈
+Hermes, Staff Of                                       &#x269A;     ⚚
+Hermitian Conjugate Matrix                             &#x22B9;     ⊹
+Hexagram Symbols, Yijing / I Ching                     &#x4DC0;     ䷀
+High Surrogates                                        &#xD800;     �
+High Voltage Sign                                      &#x26A1;     ⚡
+High-Reversed-9 Quotation Mark, Double                 &#x201F;     ‟
+High-Reversed-9 Quotation Mark, Single                 &#x201B;     ‛
+Higher Rank Than                                       &#x227B;     ≻
+Hilbert Space                                          &#x210C;     ℌ
+Hiragana                                               &#x3040;     ぀
+Hiragana Iteration Mark                                &#x309D;     ゝ
+Hiragana Letter Small Ka                               &#x3095;     ゕ
+Hiragana Letter Small Ke                               &#x3096;     ゖ
+Hiragana Supplement                                    &#x3095;     ゕ
+Hiragana Voiced Iteration Mark                         &#x309E;     ゞ
+Histogram Marker                                       &#x25AE;     ▮
+Holler                                                 &#x2365;     ⍥
+Home                                                   &#x21B8;     ↸
+Home                                                   &#x21F1;     ⇱
+Homothetic                                             &#x223B;     ∻
+Homothetic Above, Combining                            &#x034B;
+Honorifics, Arabic                                     &#x0610;
+Hook Above, Combining                                  &#x0309;
+Hook Below, Combining Palatalized                      &#x0321;
+Hook Below, Combining Retroflex                        &#x0322;
+Hook, Modifier Letter Rhotic                           &#x02DE;     ˞
+Hook, Nasal                                            &#x0328;
+Hoot                                                   &#x2364;     ⍤
+Horizontal Bar                                         &#x2015;     ―
+Horizontal Ellipsis                                    &#x2026;     …
+Horizontal Ellipsis, Midline                           &#x22EF;     ⋯
+Horizontal Scan Lines                                  &#x23BA;     ⎺
+Horizontal Tabulation                                  &#x0009;    
+Horizontal Tabulation, Symbol For                      &#x2409;     ␉
+Horn, Combining                                        &#x031B;
+Hot Beverage                                           &#x2615;     ☕
+Hot Springs                                            &#x2668;     ♨
+Hourglass                                              &#x231B;     ⌛
+Hourglass, Black                                       &#x29D7;     ⧗
+Hours, Ideographic Telegraph Symbols For               &#x3358;     ㍘
+House                                                  &#x2302;     ⌂
+Hryvnia Sign                                           &#x20B4;     ₴
+Ht                                                     &#x0009;    
+Hv, Latin Small Letter                                 &#x0195;     ƕ
+Hwair, Latin Capital Letter                            &#x01F6;     Ƕ
+Hyphen                                                 &#x2010;     ‐
+Hyphen Bullet                                          &#x2043;     ⁃
+Hyphen Or Minus Sign                                   &#x002D;     -
+Hyphen, Armenian                                       &#x058A;     ֊
+Hyphen, Discretionary                                  &#x00AD;     ­
+Hyphen, Katakana-Hiragana Double                       &#x30A0;     ゠
+Hyphen, Mongolian Todo Soft                            &#x1806;     ᠆
+Hyphen, Non-Breaking                                   &#x2011;     ‑
+Hyphen, Papyrological                                  &#x035C;
+Hyphen, Soft                                           &#x00AD;     ­
+Hyphen-Minus                                           &#x002D;     -
+Hyphenation Point                                      &#x2027;     ‧
+Hyphus                                                 &#x002D;     -
+Hysteresis Symbol                                      &#x238E;     ⎎

@@ -1,0 +1,91 @@
+U
+Description                                            Entity       Preview
+U Bar, Latin Capital Letter                            &#x0244;     Ʉ
+U Bar, Latin Small Letter                              &#x0289;     ʉ
+U With Acute, Latin Capital Letter                     &#x00DA;     Ú
+U With Acute, Latin Small Letter                       &#x00FA;     ú
+U With Breve, Latin Small Letter                       &#x016D;     ŭ
+U With Caron, Latin Small Letter                       &#x01D4;     ǔ
+U With Circumflex Below, Latin Small Letter            &#x1E77;     ṷ
+U With Circumflex, Latin Capital Letter                &#x00DB;     Û
+U With Circumflex, Latin Small Letter                  &#x00FB;     û
+U With Diaeresis Below, Latin Small Letter             &#x1E73;     ṳ
+U With Diaeresis, Latin Capital Letter                 &#x00DC;     Ü
+U With Diaeresis, Latin Small Letter                   &#x00FC;     ü
+U With Dot Below, Latin Small Letter                   &#x1EE5;     ụ
+U With Double Acute, Latin Small Letter                &#x0171;     ű
+U With Double Grave, Latin Small Letter                &#x0215;     ȕ
+U With Grave, Latin Capital Letter                     &#x00D9;     Ù
+U With Grave, Latin Small Letter                       &#x00F9;     ù
+U With Hook Above, Latin Small Letter                  &#x1EE7;     ủ
+U With Horn, Latin Small Letter                        &#x01B0;     ư
+U With Inverted Breve, Latin Small Letter              &#x0217;     ȗ
+U With Macron, Latin Small Letter                      &#x016B;     ū
+U With Ogonek, Latin Small Letter                      &#x0173;     ų
+U With Ring Above, Latin Small Letter                  &#x016F;     ů
+U With Tilde Below, Latin Small Letter                 &#x1E75;     ṵ
+U With Tilde, Latin Small Letter                       &#x0169;     ũ
+U, Combining Latin Small Letter                        &#x0367;
+U, Latin Letter Small Capital                          &#x1D1C;     ᴜ
+U, Latin Small Letter Sideways                         &#x1D1D;     ᴝ
+U, Latin Small Letter Sideways Diaeresized             &#x1D1E;     ᴞ
+U, Latin Subscript Small Letter                        &#x1D64;     ᵤ
+Ugaritic                                               &#x10380;    𐎀
+Ukrainian Currency                                     &#x20B4;     ₴
+Umbrella                                               &#x2602;     ☂
+Umbrella With Rain Drops                               &#x2614;     ☔
+Umlaut                                                 &#x0308;
+Unaspirated, Modifier Letter                           &#x02ED;     ˭
+Underdot, Combining Triple                             &#x20E8;
+Underline                                              &#x0332;
+Underline Symbol, Continuous                           &#x2381;     ⎁
+Underline Symbol, Discontinuous                        &#x2382;     ⎂
+Underline, Double                                      &#x0333;
+Underscore                                             &#x0332;
+Underscore, Double                                     &#x0333;
+Underscore, Spacing                                    &#x005F;     _
+Underscore, Spacing Double                             &#x2017;     ‗
+Underscores, Overscores And                            &#xFE49;     ﹉
+Undertie                                               &#x203F;     ‿
+Undertie, Inverted                                     &#x2054;     ⁔
+Undo Symbol                                            &#x238C;     ⎌
+Unified Canadian Aboriginal Syllabics                  &#x1400;     ᐀
+Unified Ideographs Extension A, Cjk                    &#x3400;     㐀
+Unified Ideographs Extension B, Cjk                    &#x20000;    𠀀
+Unified Ideographs, Cjk                                &#x4E00;     一
+Union                                                  &#x222A;     ∪
+Union, Double                                          &#x22D3;     ⋓
+Union, Generalized                                     &#x22C3;     ⋃
+Union, Multiset                                        &#x228E;     ⊎
+Union, N-Ary                                           &#x22C3;     ⋃
+Unions, Intersections And                              &#x2A40;     ⩀
+Unique Element                                         &#x2129;     ℩
+Unit Separator                                         &#x001F;     �
+Unit Separator, Symbol For                             &#x241F;     ␟
+Universal Quantifier                                   &#x2200;     ∀
+Universal Recycling Symbol                             &#x2672;     ♲
+Unmarried Partnership Symbol                           &#x26AF;     ⚯
+Up Arrowhead                                           &#x2303;     ⌃
+Up Pointing Index, White                               &#x261D;     ☝
+Up Right Diagonal Ellipsis                             &#x22F0;     ⋰
+Up Tack                                                &#x22A5;     ⊥
+Up Tack Below, Combining                               &#x031D;
+Up Tack, Modifier Letter                               &#x02D4;     ˔
+Up, Close                                              &#x2050;     ⁐
+Up, Fast Cursor                                        &#x219F;     ↟
+Up, Page                                               &#x21DE;     ⇞
+Upa Modifiers                                          &#x02EF;     ˯
+Upper Blade Scissors                                   &#x2701;     ✁
+Upper Integral                                         &#x2A1B;     ⨛
+Upper Right Pencil                                     &#x2710;     ✐
+Uppercase Alphabet, Latin                              &#x0041;     A
+Upsilon, Latin Capital Letter                          &#x01B1;     Ʊ
+Upsilon, Latin Small Letter                            &#x028A;     ʊ
+Upstile, Apl                                           &#x2308;     ⌈
+Upward Pointing Triangle, Combining Enclosing          &#x20E4;
+Upwards Arrow                                          &#x2191;     ↑
+Upwards Arrow Below, Combining                         &#x034E;
+Uralic Phonetic Alphabet, Diacritics For               &#x0350;
+Uranus                                                 &#x2645;     ♅
+Urdu Paragraph Separator                               &#x203B;     ※
+Urn, Funeral                                           &#x26B1;     ⚱

@@ -1,0 +1,75 @@
+Q
+Description                                            Entity       Preview
+Q With Hook Tail, Latin Capital Letter Small           &#x024A;     Ɋ
+Q With Hook Tail, Latin Small Letter                   &#x024B;     ɋ
+Q With Hook, Latin Small Letter                        &#x02A0;     ʠ
+Q, Double-Struck Capital                               &#x211A;     ℚ
+Q, Rotated Capital                                     &#x213A;     ℺
+Q.E.D.                                                 &#x220E;     ∎
+Qp Digraph, Latin Small Letter                         &#x0239;     ȹ
+Quad, Em                                               &#x2001;      
+Quad, En                                               &#x2000;      
+Quad, Mutton                                           &#x2001;      
+Quadrant Control Code Graphics                         &#x25F0;     ◰
+Quadrature                                             &#x25A1;     □
+Quadruple Prime                                        &#x2057;     ⁗
+Quantic                                                &#x226C;     ≬
+Quantifier, Existential                                &#x2203;     ∃
+Quantifier, Universal                                  &#x2200;     ∀
+Quarter Moon, First                                    &#x263D;     ☽
+Quarter Moon, Last                                     &#x263E;     ☾
+Quarter Note                                           &#x2669;     ♩
+Quarter, Vulgar Fraction One                           &#x00BC;     ¼
+Quarters, Fractions                                    &#x00BC;     ¼
+Quarters, Vulgar Fraction Three                        &#x00BE;     ¾
+Quaternion Integral Operator                           &#x2A16;     ⨖
+Question Exclamation Mark                              &#x2048;     ⁈
+Question Mark                                          &#x003F;     ?
+Question Mark, Arabic                                  &#x061F;     ؟
+Question Mark, Armenian                                &#x055E;     ՞
+Question Mark, Double                                  &#x2047;     ⁇
+Question Mark, Ethiopic                                &#x1367;     ፧
+Question Mark, Exclamation                             &#x2049;     ⁉
+Question Mark, Greek                                   &#x003B;     ;
+Question Mark, Greek                                   &#x037E;     ;
+Question Mark, Inverted                                &#x00BF;     ¿
+Question Mark, Limbu                                   &#x1945;     ᥅
+Question Mark, Turned                                  &#x00BF;     ¿
+Questioned Equal To                                    &#x225F;     ≟
+Quill, Left Square Bracket With                        &#x2045;     ⁅
+Quill, Right Square Bracket With                       &#x2046;     ⁆
+Quine Corners                                          &#x231C;     ⌜
+Quotation Dash                                         &#x2015;     ―
+Quotation Mark                                         &#x0022;     "
+Quotation Mark Dingbats                                &#x275B;     ❛
+Quotation Mark Ornaments                               &#x275B;     ❛
+Quotation Mark, Double Comma                           &#x201D;     ”
+Quotation Mark, Double High-Reversed-9                 &#x201F;     ‟
+Quotation Mark, Double Low-9                           &#x201E;     „
+Quotation Mark, Double Prime                           &#x301E;     〞
+Quotation Mark, Double Reversed Comma                  &#x201F;     ‟
+Quotation Mark, Double Turned Comma                    &#x201C;     “
+Quotation Mark, Left Double                            &#x201C;     “
+Quotation Mark, Left Single                            &#x2018;     ‘
+Quotation Mark, Left-Pointing Double Angle             &#x00AB;     «
+Quotation Mark, Low Double Comma                       &#x201E;     „
+Quotation Mark, Low Double Prime                       &#x301F;     〟
+Quotation Mark, Low Single Comma                       &#x201A;     ‚
+Quotation Mark, Neutral                                &#x0022;     "
+Quotation Mark, Neutral Single                         &#x0027;     '
+Quotation Mark, Reversed Double Prime                  &#x301D;     〝
+Quotation Mark, Right Double                           &#x201D;     ”
+Quotation Mark, Right Single                           &#x2019;     ’
+Quotation Mark, Right-Pointing Double Angle            &#x00BB;     »
+Quotation Mark, Single Comma                           &#x2019;     ’
+Quotation Mark, Single High-Reversed-9                 &#x201B;     ‛
+Quotation Mark, Single Left-Pointing Angle             &#x2039;     ‹
+Quotation Mark, Single Low-9                           &#x201A;     ‚
+Quotation Mark, Single Reversed Comma                  &#x201B;     ‛
+Quotation Mark, Single Right-Pointing Angle            &#x203A;     ›
+Quotation Mark, Single Turned Comma                    &#x2018;     ‘
+Quotation Marks                                        &#x2018;     ‘
+Quotation Marks, Cjk                                   &#x300C;     「
+Quotation Marks, Ornamental Angle                      &#x276E;     ❮
+Quote, Apl                                             &#x0027;     '
+Qur'anic Annotation Signs, Arabic                      &#x06D6;

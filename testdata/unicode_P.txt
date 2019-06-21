@@ -1,0 +1,251 @@
+P
+Description                                            Entity       Preview
+P With Acute, Latin Small Letter                       &#x1E55;     ṕ
+P With Dot Above, Latin Small Letter                   &#x1E57;     ṗ
+P With Hook, Latin Small Letter                        &#x01A5;     ƥ
+P, Double-Struck Capital                               &#x2119;     ℙ
+P, Latin Letter Small Capital                          &#x1D18;     ᴘ
+P, Script Capital                                      &#x2118;     ℘
+Page Down                                              &#x21DF;     ⇟
+Page Up                                                &#x21DE;     ⇞
+Page, Next                                             &#x2398;     ⎘
+Page, Previous                                         &#x2397;     ⎗
+Palatal Hook, Latin Small Letter T With                &#x01AB;     ƫ
+Palatalized Hook Below, Combining                      &#x0321;
+Palm Branch                                            &#x2E19;     ⸙
+Paluta, Tibetan Mark                                   &#x0F85;     ྅
+Pamudpod, Hanunoo Sign                                 &#x1734;
+Paper Sign, Permanent                                  &#x267E;     ♾
+Paper Symbol, Partially-Recycled                       &#x267D;     ♽
+Paper Symbol, Recycled                                 &#x267C;     ♼
+Papyrological Hyphen                                   &#x035C;
+Paragraph Separator                                    &#x2029;      
+Paragraph Separator, Ethiopic                          &#x1368;     ፨
+Paragraph Separator, Georgian                          &#x10FB;     ჻
+Paragraph Separator, Urdu                              &#x203B;     ※
+Paragraph Sign                                         &#x00B6;     ¶
+Paragraph Sign Ornament, Curved Stem                   &#x2761;     ❡
+Paragraph Sign, European                               &#x00A7;     §
+Paraguayan Currency                                    &#x20B2;     ₲
+Parallel To                                            &#x2225;     ∥
+Parallel To, Not                                       &#x2226;     ∦
+Parallelogram, Black                                   &#x25B0;     ▰
+Parenthesis, Closing                                   &#x0029;     )
+Parenthesis, Left                                      &#x0028;     (
+Parenthesis, Left White                                &#x2985;     ⦅
+Parenthesis, Opening                                   &#x0028;     (
+Parenthesis, Ornate Left                               &#xFD3E;     ﴾
+Parenthesis, Ornate Right                              &#xFD3F;     ﴿
+Parenthesis, Right                                     &#x0029;     )
+Parenthesis, Right White                               &#x2986;     ⦆
+Parenthesized Cjk Ideographs                           &#x3220;     ㈠
+Parenthesized Korean Hangul Elements                   &#x3200;     ㈀
+Parenthesized Korean Hangul Syllables                  &#x320E;     ㈎
+Parenthesized Latin Letters                            &#x249C;     ⒜
+Parenthesized Numbers                                  &#x2474;     ⑴
+Parted Rule                                            &#x00A6;     ¦
+Partial Differential                                   &#x2202;     ∂
+Partial Function                                       &#x21F8;     ⇸
+Partial Injection                                      &#x2914;     ⤔
+Partial Line Backward                                  &#x008C;     �
+Partial Line Forward                                   &#x008B;     �
+Partial Relation                                       &#x21F9;     ⇹
+Partial Surjection                                     &#x2900;     ⤀
+Partially-Recycled Paper Symbol                        &#x267D;     ♽
+Partnership Symbol, Unmarried                          &#x26AF;     ⚯
+Patiw, Armenian                                        &#x055F;     ՟
+Patru, Tamil                                           &#x0BF6;     ௶
+Pause                                                  &#x2389;     ⎉
+Pdf                                                    &#x202C;     ‬
+Peace Symbol                                           &#x262E;     ☮
+Pencil                                                 &#x270F;     ✏
+Pencil Dingbats                                        &#x270E;     ✎
+Pencil, Lower Right                                    &#x270E;     ✎
+Pencil, Upper Right                                    &#x2710;     ✐
+Penny Sign, German                                     &#x20B0;     ₰
+Pentonkion, Greek                                      &#x2059;     ⁙
+Per Mille Sign                                         &#x2030;     ‰
+Per Sign                                               &#x214C;     ⅌
+Per Ten Thousand Sign                                  &#x2031;     ‱
+Per Thousand                                           &#x2030;     ‰
+Percent Sign                                           &#x0025;     %
+Percussive, Latin Letter Bidental                      &#x02AD;     ʭ
+Percussive, Latin Letter Bilabial                      &#x02AC;     ʬ
+Period                                                 &#x002E;     .
+Period, Numbers Followed By                            &#x2488;     ⒈
+Perispomeni, Combining Greek                           &#x0342;
+Permanent Paper Sign                                   &#x267E;     ♾
+Perpendicular                                          &#x22A5;     ⊥
+Persian, Old                                           &#x103A0;    𐎠
+Perspective                                            &#x2306;     ⌆
+Peseta Sign                                            &#x20A7;     ₧
+Peso Sign                                              &#x20B1;     ₱
+Phags-Pa                                               &#xA840;     ꡀ
+Phaistos Disc                                          &#x101D0;    𐇐
+Pharyngeal Voiced Fricative, Latin Letter              &#x0295;     ʕ
+Phi Symbol, Greek                                      &#x03D5;     ϕ
+Phi, Latin Small Letter                                &#x0278;     ɸ
+Philippine Double Punctuation                          &#x1736;     ᜶
+Philippine Single Punctuation                          &#x1735;     ᜵
+Phillipine Currency                                    &#x20B1;     ₱
+Phoenician                                             &#x10900;    𐤀
+Phonetic Digraphs                                      &#x02A3;     ʣ
+Phonetic Extensions                                    &#x1D00;     ᴀ
+Phonetic Extensions, Katakana                          &#x31F0;     ㇰ
+Phonetic Modifiers                                     &#x02B9;     ʹ
+Phonetic Modifiers Derived From Latin Letters          &#x02B0;     ʰ
+Phonetics And Symbols Area, Cjk                        &#x2E80;     ⺀
+Phonorecord Sign                                       &#x2117;     ℗
+Phul                                                   &#x2055;     ⁕
+Pi Symbol, Greek                                       &#x03D6;     ϖ
+Pi, Double-Struck Capital                              &#x213F;     ℿ
+Pi, Double-Struck Small                                &#x213C;     ℼ
+Pi, Greek Small Letter                                 &#x03C0;     π
+Pi, Mathematical Constant 3.141592...                  &#x03C0;     π
+Pictures For Control Codes, Graphic                    &#x2400;     ␀
+Pilcrow Sign                                           &#x00B6;     ¶
+Pilcrow Sign, Reversed                                 &#x204B;     ⁋
+Pillow                                                 &#x2311;     ⌑
+Pipe                                                   &#x01C0;     ǀ
+Pipe, Double                                           &#x01C1;     ǁ
+Pipe, Double-Barred                                    &#x01C2;     ǂ
+Pisces                                                 &#x2653;     ♓
+Piska                                                  &#x2052;     ⁒
+Pitchfork                                              &#x22D4;     ⋔
+Place Of Interest Sign                                 &#x2318;     ⌘
+Plaintiff                                              &#x226C;     ≬
+Planck Constant                                        &#x210E;     ℎ
+Planck Constant Over Two Pi                            &#x210F;     ℏ
+Planet Symbols                                         &#x263F;     ☿
+Plastics Recycling Symbols                             &#x2673;     ♳
+Playing Card Suits                                     &#x2660;     ♠
+Plus And Minus Sign Operators                          &#x2A22;     ⨢
+Plus Sign                                              &#x002B;     +
+Plus Sign Below, Combining                             &#x031F;
+Plus Sign Operators, Specialized                       &#x29FA;     ⧺
+Plus Sign, Modifier Letter                             &#x02D6;     ˖
+Plus, Circled                                          &#x2295;     ⊕
+Plus, Dot                                              &#x2214;     ∔
+Plus, Double                                           &#x29FA;     ⧺
+Plus, Invisible                                        &#x2064;     ⁤
+Plus, Squared                                          &#x229E;     ⊞
+Plus, Triple                                           &#x29FB;     ⧻
+Plus-Minus Sign                                        &#x00B1;     ±
+Pluto                                                  &#x2647;     ♇
+Point, Decimal                                         &#x002E;     .
+Point, Hyphenation                                     &#x2027;     ‧
+Pointers                                               &#x25BA;     ►
+Pointing Hand Symbols                                  &#x261A;     ☚
+Pointing Index Finger Dingbats                         &#x261A;     ☚
+Pointing Index, Black Left                             &#x261A;     ☚
+Pointing Index, Black Right                            &#x261B;     ☛
+Pointing Index, White Down                             &#x261F;     ☟
+Pointing Index, White Left                             &#x261C;     ☜
+Pointing Index, White Right                            &#x261E;     ☞
+Pointing Index, White Up                               &#x261D;     ☝
+Points And Punctuation, Hebrew                         &#x05B0;
+Points, Hebrew                                         &#x05B0;
+Points, Syriac                                         &#x0730;
+Poison                                                 &#x2620;     ☠
+Political Symbols, Religious And                       &#x2625;     ☥
+Polygonal Symbols                                      &#x2B12;     ⬒
+Polytonic Greek, Precomposed                           &#x1F00;     ἀ
+Pop Directional Formatting                             &#x202C;     ‬
+Position Indicator                                     &#x2316;     ⌖
+Positive Difference Or Sum                             &#x2A24;     ⨤
+Positive Difference, Sum Or                            &#x2A26;     ⨦
+Positive, Most                                         &#x223E;     ∾
+Postal Mark                                            &#x3012;     〒
+Postal Mark Face                                       &#x3020;     〠
+Postal Mark, Circled                                   &#x3036;     〶
+Pound Sign                                             &#x0023;     #
+Pound Sign                                             &#x00A3;     £
+Pound Sterling                                         &#x00A3;     £
+Pounds                                                 &#x2114;     ℔
+Power Set                                              &#x1D4AB;    𝒫
+Precedence Signs, Order Relation                       &#x227A;     ≺
+Precedence Signs, Order Relation                       &#x22DE;     ⋞
+Precedes                                               &#x227A;     ≺
+Precedes Under Relation                                &#x22B0;     ⊰
+Precedes, Double                                       &#x2ABB;     ⪻
+Precomposed Polytonic Greek                            &#x1F00;     ἀ
+Prescription Take                                      &#x211E;     ℞
+Presentation Forms, Alphabetic                         &#xFB00;     ﬀ
+Presentation Forms, Hebrew                             &#xFB1D;     יִ
+Presentation Forms-A, Arabic                           &#xFB50;     ﭐ
+Presentation Forms-B, Arabic                           &#xFE70;     ﹰ
+Previous Page                                          &#x2397;     ⎗
+Prime                                                  &#x2032;     ′
+Prime Quotation Mark, Double                           &#x301E;     〞
+Prime Quotation Mark, Low Double                       &#x301F;     〟
+Prime Quotation Mark, Reversed Double                  &#x301D;     〝
+Prime, Double                                          &#x2033;     ″
+Prime, Modifier Letter                                 &#x02B9;     ʹ
+Prime, Modifier Letter Double                          &#x02BA;     ʺ
+Prime, Quadruple                                       &#x2057;     ⁗
+Prime, Reversed                                        &#x2035;     ‵
+Prime, Reversed Double                                 &#x2036;     ‶
+Prime, Reversed Triple                                 &#x2037;     ‷
+Prime, Triple                                          &#x2034;     ‴
+Print Screen Symbol                                    &#x2399;     ⎙
+Privacy Message                                        &#x009E;     �
+Private Use Area                                       &#xE000;     
+Private Use Area-A, Supplementary                      &#xF0000;    󰀀
+Private Use Area-B, Supplementary                      &#x100000;   􀀀
+Private Use One                                        &#x0091;     �
+Private Use Two                                        &#x0092;     �
+Product Sign                                           &#x220F;     ∏
+Product, Cartesian                                     &#x00D7;     ×
+Product, Direct                                        &#x2299;     ⊙
+Product, Interior                                      &#x2A3C;     ⨼
+Product, Left Normal Factor Semidirect                 &#x22C9;     ⋉
+Product, Left Semidirect                               &#x22CB;     ⋋
+Product, N-Ary                                         &#x220F;     ∏
+Product, Right Normal Factor Semidirect                &#x22CA;     ⋊
+Product, Right Semidirect                              &#x22CC;     ⋌
+Product, Righthand Interior                            &#x2A3D;     ⨽
+Product, Shuffle                                       &#x29E2;     ⧢
+Product, Smash                                         &#x2A33;     ⨳
+Product, Tensor                                        &#x2297;     ⊗
+Product, Vector Or Cross                               &#x2A2F;     ⨯
+Product, Wreath                                        &#x2240;     ≀
+Program Command, Application                           &#x009F;     �
+Prohibition                                            &#x20E0;
+Projective                                             &#x2305;     ⌅
+Proof, End Of                                          &#x220E;     ∎
+Proper Intersection                                    &#x22D4;     ⋔
+Property Line                                          &#x214A;     ⅊
+Proportion                                             &#x2237;     ∷
+Proportion, Geometric                                  &#x223A;     ∺
+Proportional To                                        &#x221D;     ∝
+Proportional To                                        &#x223C;     ∼
+Proves                                                 &#x22A2;     ⊢
+Psili, Greek                                           &#x0313;
+Published                                              &#x2117;     ℗
+Pullback                                               &#x27D3;     ⟓
+Punctuation And Signs, Greek                           &#x0374;     ʹ
+Punctuation And Signs, Myanmar                         &#x104A;     ၊
+Punctuation And Signs, Syriac                          &#x0700;     ܀
+Punctuation And Symbols, Ascii                         &#x0020;    
+Punctuation And Symbols, Latin-1                       &#x00A0;    
+Punctuation For Vertical Text, Double                  &#x2047;     ⁇
+Punctuation Ornaments                                  &#x275B;     ❛
+Punctuation Space                                      &#x2008;      
+Punctuation, Arabic                                    &#x060C;     ،
+Punctuation, Canadian Syllabics                        &#x166D;     ᙭
+Punctuation, Cjk Symbols And                           &#x3000;     　
+Punctuation, Cuneiform Numbers And                     &#x12400;    𒐀
+Punctuation, Ethiopic                                  &#x1361;     ፡
+Punctuation, General                                   &#x2000;      
+Punctuation, Halfwidth Cjk                             &#xFF61;     ｡
+Punctuation, Hebrew Points And                         &#x05B0;
+Punctuation, Mongolian                                 &#x1800;     ᠀
+Punctuation, Ogham                                     &#x169B;     ᚛
+Punctuation, Philippine Double                         &#x1736;     ᜶
+Punctuation, Philippine Single                         &#x1735;     ᜵
+Punctuation, Runic                                     &#x16EB;     ᛫
+Punctuation, Supplemental                              &#x2E00;     ⸀
+Punt, Irish                                            &#x00A3;     £
+Purna Viram, Devanagari                                &#x0964;     ।
+Pushout                                                &#x27D4;     ⟔
+Puspika                                                &#x2055;     ⁕

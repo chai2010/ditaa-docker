@@ -1,0 +1,203 @@
+I
+Description                                            Entity       Preview
+I Bar, Latin Capital Letter                            &#x0197;     Ɨ
+I Ching / Yijing Hexagram Symbols                      &#x4DC0;     ䷀
+I Ching / Yijing Monogram And Digram Symbols           &#x268A;     ⚊
+I Ching / Yijing Trigram Symbols                       &#x2630;     ☰
+I Dot, Latin Capital Letter                            &#x0130;     İ
+I With Acute, Latin Capital Letter                     &#x00CD;     Í
+I With Acute, Latin Small Letter                       &#x00ED;     í
+I With Breve, Latin Small Letter                       &#x012D;     ĭ
+I With Caron, Latin Small Letter                       &#x01D0;     ǐ
+I With Circumflex, Latin Capital Letter                &#x00CE;     Î
+I With Circumflex, Latin Small Letter                  &#x00EE;     î
+I With Diaeresis, Latin Capital Letter                 &#x00CF;     Ï
+I With Diaeresis, Latin Small Letter                   &#x00EF;     ï
+I With Dot Above, Latin Capital Letter                 &#x0130;     İ
+I With Dot Below, Latin Small Letter                   &#x1ECB;     ị
+I With Double Grave, Latin Small Letter                &#x0209;     ȉ
+I With Grave, Latin Capital Letter                     &#x00CC;     Ì
+I With Grave, Latin Small Letter                       &#x00EC;     ì
+I With Hook Above, Latin Small Letter                  &#x1EC9;     ỉ
+I With Inverted Breve, Latin Small Letter              &#x020B;     ȋ
+I With Macron, Latin Small Letter                      &#x012B;     ī
+I With Ogonek, Latin Small Letter                      &#x012F;     į
+I With Stroke, Latin Capital Letter                    &#x0197;     Ɨ
+I With Stroke, Latin Small Letter                      &#x0268;     ɨ
+I With Tilde Below, Latin Small Letter                 &#x1E2D;     ḭ
+I With Tilde, Latin Small Letter                       &#x0129;     ĩ
+I, Black-Letter Capital                                &#x2111;     ℑ
+I, Combining Latin Small Letter                        &#x0365;
+I, Double-Struck Italic Small                          &#x2148;     ⅈ
+I, Latin Letter Small Capital                          &#x026A;     ɪ
+I, Latin Small Letter Dotless                          &#x0131;     ı
+I, Latin Small Letter Turned                           &#x1D09;     ᴉ
+I, Latin Subscript Small Letter                        &#x1D62;     ᵢ
+I, Script Capital                                      &#x2110;     ℐ
+I, Superscript Latin Small Letter                      &#x2071;     ⁱ
+Identical To                                           &#x2261;     ≡
+Identical To, Not                                      &#x2262;     ≢
+Ideograms, Linear B                                    &#x10080;    𐂀
+Ideographic Annotation, Japanese Kanbun                &#x3190;     ㆐
+Ideographic Closing Mark                               &#x3006;     〆
+Ideographic Comma                                      &#x3001;     、
+Ideographic Description Characters, Cjk                &#x2FF0;     ⿰
+Ideographic Full Stop                                  &#x3002;     。
+Ideographic Half Fill Space                            &#x303F;     〿
+Ideographic Iteration Mark                             &#x3005;     々
+Ideographic Iteration Mark, Vertical                   &#x303B;     〻
+Ideographic Number Zero                                &#x3007;     〇
+Ideographic Space                                      &#x3000;     　
+Ideographic Telegraph Symbols For Days                 &#x33E0;     ㏠
+Ideographic Telegraph Symbols For Hours                &#x3358;     ㍘
+Ideographic Telegraph Symbols For Months               &#x32C0;     ㋀
+Ideographic Tone Marks                                 &#x302A;
+Ideographic Variation Indicator                        &#x303E;     〾
+Ideographs Area, Cjk                                   &#x3400;     㐀
+Ideographs Area, Supplementary Cjk                     &#x20000;    𠀀
+Ideographs Extension A, Cjk Unified                    &#x3400;     㐀
+Ideographs Extension B, Cjk Unified                    &#x20000;    𠀀
+Ideographs Supplement, Cjk Compatibility               &#x2F800;    丽
+Ideographs, Circled                                    &#x3280;     ㊀
+Ideographs, Cjk Compatibility                          &#xF900;     豈
+Ideographs, Cjk Unified                                &#x4E00;     一
+Ideographs, Dprk Compatibility                         &#xFA70;     並
+Ideographs, Han                                        &#x4E00;     一
+Ideographs, Jis X 0213 Compatibility                   &#xFA30;     侮
+Ideographs, Parenthesized Cjk                          &#x3220;     ㈠
+Idle, Symbol For Synchronous                           &#x2416;     ␖
+Idle, Synchronous                                      &#x0016;     �
+Ij, Latin Small Ligature                               &#x0133;     ĳ
+Image Of                                               &#x22B7;     ⊷
+Image Of, Square                                       &#x228F;     ⊏
+Imaginary Part                                         &#x2111;     ℑ
+Implies                                                &#x22A2;     ⊢
+Inches                                                 &#x2033;     ″
+Included In Set                                        &#x2282;     ⊂
+Includes In Set                                        &#x2283;     ⊃
+Incorporated, Japanese                                 &#x337F;     ㍿
+Increment                                              &#x2206;     ∆
+Independence                                           &#x2AEB;     ⫫
+Independent                                            &#x2ADD;     ⫝
+Independent, Not                                       &#x2ADC;     ⫝̸
+Index Finger Dingbats, Pointing                        &#x261A;     ☚
+Index, Black Left Pointing                             &#x261A;     ☚
+Index, Black Right Pointing                            &#x261B;     ☛
+Index, White Down Pointing                             &#x261F;     ☟
+Index, White Left Pointing                             &#x261C;     ☜
+Index, White Right Pointing                            &#x261E;     ☞
+Index, White Up Pointing                               &#x261D;     ☝
+Indian Currency                                        &#x20A8;     ₨
+Indicator, Backward Arrow                              &#x25C5;     ◅
+Indicator, Forward Arrow                               &#x25BB;     ▻
+Inequality Signs, Equality And                         &#x2243;     ≃
+Inequality Signs, Equality And                         &#x22D5;     ⋕
+Infinity                                               &#x221E;     ∞
+Infix Bag Count                                        &#x266F;     ♯
+Information Separator Four                             &#x001C;     �
+Information Separator One                              &#x001F;     �
+Information Separator Three                            &#x001D;     �
+Information Separator Two                              &#x001E;     �
+Information Source                                     &#x2139;     ℹ
+Ingressive Airflow                                     &#x2193;     ↓
+Injection, Finite                                      &#x2915;     ⤕
+Injection, Finite Surjective                           &#x2918;     ⤘
+Injection, Partial                                     &#x2914;     ⤔
+Injection, Surjective                                  &#x2917;     ⤗
+Injection, Total                                       &#x21A3;     ↣
+Insertion Point, Caret                                 &#x2041;     ⁁
+Insertion Symbol                                       &#x2380;     ⎀
+Integers                                               &#x2124;     ℤ
+Integral                                               &#x222B;     ∫
+Integral Operator, Quaternion                          &#x2A16;     ⨖
+Integral Signs                                         &#x222B;     ∫
+Integral, Anticlockwise Contour                        &#x2233;     ∳
+Integral, Bottom Half                                  &#x2321;     ⌡
+Integral, Clockwise                                    &#x2231;     ∱
+Integral, Clockwise Contour                            &#x2232;     ∲
+Integral, Contour                                      &#x222E;     ∮
+Integral, Counterclockwise Contour                     &#x2233;     ∳
+Integral, Double                                       &#x222C;     ∬
+Integral, Lower                                        &#x2A1C;     ⨜
+Integral, Riemann                                      &#x211B;     ℛ
+Integral, Surface                                      &#x222F;     ∯
+Integral, Top Half                                     &#x2320;     ⌠
+Integral, Triple                                       &#x222D;     ∭
+Integral, Upper                                        &#x2A1B;     ⨛
+Integral, Volume                                       &#x2230;     ∰
+Integrals, Summations And                              &#x2A0A;     ⨊
+Integration, Anticlockwise                             &#x2A11;     ⨑
+Integration, Counterclockwise                          &#x2A11;     ⨑
+Intercalate                                            &#x22BA;     ⊺
+Interest Sign, Place Of                                &#x2318;     ⌘
+Interior Product                                       &#x2A3C;     ⨼
+Interior Product, Righthand                            &#x2A3D;     ⨽
+Interleave                                             &#x2AF4;     ⫴
+Interlinear Annotation                                 &#xFFF9;     ￹
+Interlinear Annotation Anchor                          &#xFFF9;     ￹
+Interlinear Annotation Separator                       &#xFFFA;     ￺
+Interlinear Annotation Terminator                      &#xFFFB;     ￻
+Interrobang                                            &#x203D;     ‽
+Interrobang, Inverted                                  &#x2E18;     ⸘
+Interrupt                                              &#x238A;     ⎊
+Intersection                                           &#x2229;     ∩
+Intersection, Double                                   &#x22D2;     ⋒
+Intersection, Electrical                               &#x23E7;     ⏧
+Intersection, Generalized                              &#x22C2;     ⋂
+Intersection, N-Ary                                    &#x22C2;     ⋂
+Intersection, Proper                                   &#x22D4;     ⋔
+Intersections And Unions                               &#x2A40;     ⩀
+Intersyllabic Tsheg, Tibetan Mark                      &#x0F0B;     ་
+Introducer, Control Sequence                           &#x009B;     �
+Introducer, Single Character                           &#x009A;     �
+Inverse Numbers, Circled                               &#x2776;     ❶
+Inverted Breve Below, Combining                        &#x032F;
+Inverted Breve, Combining                              &#x0311;
+Inverted Breve, Combining Double                       &#x0361;
+Inverted Bridge Below, Combining                       &#x033A;
+Inverted Double Arch Below, Combining                  &#x032B;
+Inverted Exclamation Mark                              &#x00A1;     ¡
+Inverted Glottal Stop, Latin Letter                    &#x0296;     ʖ
+Inverted Interrobang                                   &#x2E18;     ⸘
+Inverted Lazy S                                        &#x223E;     ∾
+Inverted Ohm Sign                                      &#x2127;     ℧
+Inverted Question Mark                                 &#x00BF;     ¿
+Inverted R, Latin Letter Small Capital                 &#x0281;     ʁ
+Inverted R, Modifier Letter Small Capital              &#x02B6;     ʶ
+Inverted Undertie                                      &#x2054;     ⁔
+Invisible Comma                                        &#x2063;     ⁣
+Invisible Plus                                         &#x2064;     ⁤
+Invisible Separator                                    &#x2063;     ⁣
+Invisible Times                                        &#x2062;     ⁢
+Iota Below, Greek Non-Spacing                          &#x0345;
+Iota Subscript, Greek                                  &#x0345;
+Iota, Latin Capital Letter                             &#x0196;     Ɩ
+Iota, Latin Small Letter                               &#x0269;     ɩ
+Iota, Turned Greek Small Letter                        &#x2129;     ℩
+Ipa Extensions                                         &#x0250;     ɐ
+Ipa, Diacritics For                                    &#x0346;
+Iranian Currency                                       &#xFDFC;     ﷼
+Irish Punt                                             &#x00A3;     £
+Isotech Entity &Amp;Iinfin;                            &#x29DC;     ⧜
+Israeli Currency                                       &#x20AA;     ₪
+Isshar, Bengali                                        &#x09FA;     ৺
+Isshar, Oriya                                          &#x0B70;     ୰
+Italian Currency                                       &#x20A4;     ₤
+Italian Lira                                           &#x00A3;     £
+Italic Greek Mathematical Symbols                      &#x1D6E2;    𝛢
+Italic Greek Mathematical Symbols, Bold                &#x1D71C;    𝜜
+Italic Greek Mathematical Symbols, Sans-Serif Bold     &#x1D790;    𝞐
+Italic Mathematical Symbols                            &#x1D434;    𝐴
+Italic Mathematical Symbols, Bold                      &#x1D468;    𝑨
+Italic Mathematical Symbols, Sans-Serif                &#x1D608;    𝘈
+Italic Mathematical Symbols, Sans-Serif Bold           &#x1D63C;    𝘼
+Italic, Old                                            &#x10300;    𐌀
+Itc Zapf Dingbats Series 100                           &#x2700;     ✀
+Iteration Mark, Hiragana                               &#x309D;     ゝ
+Iteration Mark, Hiragana Voiced                        &#x309E;     ゞ
+Iteration Mark, Ideographic                            &#x3005;     々
+Iteration Mark, Katakana                               &#x30FD;     ヽ
+Iteration Mark, Katakana Voiced                        &#x30FE;     ヾ
+Iteration Mark, Vertical Ideographic                   &#x303B;     〻
+Ivy Leaf                                               &#x2767;     ❧
+Izafet                                                 &#x06C0;     ۀ

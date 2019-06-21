@@ -1,0 +1,167 @@
+G
+Description                                            Entity       Preview
+G With Acute, Latin Small Letter                       &#x01F5;     ǵ
+G With Breve, Latin Small Letter                       &#x011F;     ğ
+G With Caron, Latin Small Letter                       &#x01E7;     ǧ
+G With Cedilla, Latin Small Letter                     &#x0123;     ģ
+G With Circumflex, Latin Small Letter                  &#x011D;     ĝ
+G With Dot Above, Latin Small Letter                   &#x0121;     ġ
+G With Hook, Latin Capital Letter                      &#x0193;     Ɠ
+G With Hook, Latin Letter Small Capital                &#x029B;     ʛ
+G With Hook, Latin Small Letter                        &#x0260;     ɠ
+G With Macron, Latin Small Letter                      &#x1E21;     ḡ
+G With Stroke, Latin Small Letter                      &#x01E5;     ǥ
+G, Latin Letter Small Capital                          &#x0262;     ɢ
+G, Latin Small Letter Script                           &#x0261;     ɡ
+G, Script Small                                        &#x210A;     ℊ
+G, Turned Sans-Serif Capital                           &#x2141;     ⅁
+Game                                                   &#x2141;     ⅁
+Gamma Function                                         &#x0393;     Γ
+Gamma, Double-Struck Capital                           &#x213E;     ℾ
+Gamma, Double-Struck Small                             &#x213D;     ℽ
+Gamma, Latin Capital Letter                            &#x0194;     Ɣ
+Gamma, Latin Small Letter                              &#x0263;     ɣ
+Gamma, Latin Small Letter Baby                         &#x0264;     ɤ
+Gamma, Modifier Letter Small                           &#x02E0;     ˠ
+Gear                                                   &#x2699;     ⚙
+Gemini                                                 &#x264A;     ♊
+Gender Symbols                                         &#x26A2;     ⚢
+Genealogical Symbols                                   &#x26AD;     ⚭
+General Punctuation                                    &#x2000;      
+General Scripts Area                                   &#x0000;     �
+General Scripts Area, Supplementary                    &#x10000;    𐀀
+Generalized Intersection                               &#x22C2;     ⋂
+Generalized Union                                      &#x22C3;     ⋃
+Geometric Proportion                                   &#x223A;     ∺
+Geometric Shapes                                       &#x25A0;     ■
+Geometrically Equal To                                 &#x2251;     ≑
+Geometrically Equivalent To                            &#x224E;     ≎
+Georgian                                               &#x10A0;     Ⴀ
+Georgian Alphabet                                      &#x10D0;     ა
+Georgian Capital Letters                               &#x10A0;     Ⴀ
+Georgian Comma                                         &#x00B7;     ·
+Georgian Extensions                                    &#x10F1;     ჱ
+Georgian Full Stop                                     &#x0589;     ։
+Georgian Khutsuri                                      &#x10A0;     Ⴀ
+Georgian Mkhedruli                                     &#x10D0;     ა
+Georgian Paragraph Separator                           &#x10FB;     ჻
+Georgian Small Letters                                 &#x10D0;     ა
+Georgian Supplement                                    &#x2D00;     ⴀ
+German Mark Pre-Wwii                                   &#x2133;     ℳ
+German Penny Sign                                      &#x20B0;     ₰
+Geta Mark                                              &#x3013;     〓
+Ghana Currency                                         &#x20B5;     ₵
+Gimel Symbol                                           &#x2137;     ℷ
+Glagolitic                                             &#x2C00;     Ⰰ
+Gleich Stark                                           &#x29E6;     ⧦
+Glottal Stop                                           &#x02BC;     ʼ
+Glottal Stop, Latin Capital Letter                     &#x0241;     Ɂ
+Glottal Stop, Latin Letter                             &#x0294;     ʔ
+Glottal Stop, Latin Letter Inverted                    &#x0296;     ʖ
+Glottal Stop, Latin Letter Reversed                    &#x0295;     ʕ
+Glottal Stop, Latin Small Letter                       &#x0242;     ɂ
+Glottal Stop, Modifier Letter                          &#x02C0;     ˀ
+Glottal Stop, Modifier Letter Reversed                 &#x02C1;     ˁ
+Glottal Stop, Modifier Letter Small Reversed           &#x02E4;     ˤ
+Gnaborretni                                            &#x2E18;     ⸘
+Go Markers                                             &#x2686;     ⚆
+Golden Numbers, Runic                                  &#x16EE;     ᛮ
+Gothic                                                 &#x10330;    𐌰
+Grapheme Joiner, Combining                             &#x034F;
+Graphic Characters, Terminal                           &#x23B7;     ⎷
+Graphic Characters, Terminal                           &#x2596;     ▖
+Graphic Pictures For Control Codes                     &#x2400;     ␀
+Graphics For Control Codes                             &#x237D;     ⍽
+Graphics, Quadrant Control Code                        &#x25F0;     ◰
+Grave Accent                                           &#x0060;     `
+Grave Accent Below, Combining                          &#x0316;
+Grave Accent, Combining                                &#x0300;
+Grave Accent, Combining Double                         &#x030F;
+Grave Accent, Modifier Letter                          &#x02CB;     ˋ
+Grave Accent, Modifier Letter Low                      &#x02CE;     ˎ
+Grave Accent, Spacing                                  &#x0060;     `
+Grave Accent, Swedish                                  &#x02DF;     ˟
+Grave Tone Mark, Combining                             &#x0340;
+Greater-Than Or Equal To                               &#x2265;     ≥
+Greater-Than Sign                                      &#x003E;     >
+Greater-Than, Much                                     &#x226B;     ≫
+Greater-Than, Very Much                                &#x22D9;     ⋙
+Greek                                                  &#x0370;     Ͱ
+Greek Alphabet                                         &#x0391;     Α
+Greek Ano Teleia                                       &#x00B7;     ·
+Greek Archaic Letters                                  &#x03D8;     Ϙ
+Greek Beta Symbol                                      &#x03D0;     ϐ
+Greek Capital Letters                                  &#x0391;     Α
+Greek Currency                                         &#x20AF;     ₯
+Greek Dasia                                            &#x0314;
+Greek Dialytika                                        &#x0308;
+Greek Dialytika Tonos, Combining                       &#x0344;
+Greek Enotikon                                         &#x203F;     ‿
+Greek Extended                                         &#x1F00;     ἀ
+Greek Iota Subscript                                   &#x0345;
+Greek Koronis, Combining                               &#x0343;
+Greek Letters, Double-Struck                           &#x213C;     ℼ
+Greek Lunate Epsilon Symbol                            &#x03F5;     ϵ
+Greek Lunate Sigma Symbol                              &#x03F2;     ϲ
+Greek Mathematical Symbols                             &#x1D6A8;    𝚨
+Greek Mathematical Symbols, Bold                       &#x1D6A8;    𝚨
+Greek Mathematical Symbols, Bold Italic                &#x1D71C;    𝜜
+Greek Mathematical Symbols, Italic                     &#x1D6E2;    𝛢
+Greek Mathematical Symbols, Sans-Serif Bold            &#x1D756;    𝝖
+Greek Mathematical Symbols, Sans-Serif Bold Italic     &#x1D790;    𝞐
+Greek Middle Dot                                       &#x00B7;     ·
+Greek Musical Notation, Ancient                        &#x1D200;    𝈀
+Greek Non-Spacing Iota Below                           &#x0345;
+Greek Numbers, Ancient                                 &#x10140;    𐅀
+Greek Old Testament                                    &#x1D516;    𝔖
+Greek Oxia                                             &#x0301;
+Greek Pentonkion                                       &#x2059;     ⁙
+Greek Perispomeni, Combining                           &#x0342;
+Greek Phi Symbol                                       &#x03D5;     ϕ
+Greek Pi Symbol                                        &#x03D6;     ϖ
+Greek Psili                                            &#x0313;
+Greek Punctuation And Signs                            &#x0374;     ʹ
+Greek Question Mark                                    &#x003B;     ;
+Greek Question Mark                                    &#x037E;     ;
+Greek Reversed Lunate Epsilon Symbol                   &#x03F6;     ϶
+Greek Rough Breathing Mark                             &#x0314;
+Greek Small Letter Iota, Turned                        &#x2129;     ℩
+Greek Small Letter Lunate Sigma                        &#x03F2;     ϲ
+Greek Small Letter Pi                                  &#x03C0;     π
+Greek Small Letters                                    &#x03B1;     α
+Greek Smooth Breathing Mark                            &#x0313;
+Greek Textual Symbols, Ancient                         &#x2E0E;     ⸎
+Greek Theta Symbol                                     &#x03D1;     ϑ
+Greek Tonos                                            &#x0301;
+Greek Varia                                            &#x0300;
+Greek Variant Letterforms                              &#x03D0;     ϐ
+Greek Vrachy                                           &#x0306;
+Greek Ypogegrammeni, Combining                         &#x0345;
+Greek, Diacritics For                                  &#x0342;
+Greek, Precomposed Polytonic                           &#x1F00;     ἀ
+Ground, Earth                                          &#x23DA;     ⏚
+Group Lock                                             &#x21F0;     ⇰
+Group Separator                                        &#x001D;     �
+Group Separator, Symbol For                            &#x241D;     ␝
+Guarani Sign                                           &#x20B2;     ₲
+Guarded Area, End Of                                   &#x0097;     �
+Guarded Area, Start Of                                 &#x0096;     �
+Guillemet, Left Pointing                               &#x00AB;     «
+Guillemet, Left Pointing Single                        &#x2039;     ‹
+Guillemet, Right Pointing                              &#x00BB;     »
+Guillemet, Right Pointing Single                       &#x203A;     ›
+Gujarati                                               &#x0A80;     ઀
+Gujarati Consonants                                    &#x0A95;     ક
+Gujarati Dependent Vowel Signs                         &#x0ABE;
+Gujarati Digits                                        &#x0AE6;     ૦
+Gujarati Independent Vowels                            &#x0A85;     અ
+Gujarati Rupee Sign                                    &#x0AF1;     ૱
+Gurmukhi                                               &#x0A00;     ਀
+Gurmukhi Addak                                         &#x0A71;
+Gurmukhi Consonants                                    &#x0A15;     ਕ
+Gurmukhi Dependent Vowel Signs                         &#x0A3E;
+Gurmukhi Digits                                        &#x0A66;     ੦
+Gurmukhi Ek Onkar                                      &#x0A74;     ੴ
+Gurmukhi Independent Vowels                            &#x0A05;     ਅ
+Gurmukhi Khanda                                        &#x262C;     ☬
+Gurmukhi Tippi                                         &#x0A70;

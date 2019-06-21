@@ -1,0 +1,231 @@
+M
+Description                                            Entity       Preview
+M With Acute, Latin Small Letter                       &#x1E3F;     ḿ
+M With Dot Above, Latin Small Letter                   &#x1E41;     ṁ
+M With Dot Below, Latin Small Letter                   &#x1E43;     ṃ
+M With Hook, Latin Small Letter                        &#x0271;     ɱ
+M With Long Leg, Latin Small Letter Turned             &#x0270;     ɰ
+M, Combining Latin Small Letter                        &#x036B;
+M, Latin Capital Letter Turned                         &#x019C;     Ɯ
+M, Latin Letter Small Capital                          &#x1D0D;     ᴍ
+M, Latin Small Letter Sideways Turned                  &#x1D1F;     ᴟ
+M, Latin Small Letter Turned                           &#x026F;     ɯ
+M, Script Capital                                      &#x2133;     ℳ
+M-Matrix                                               &#x2133;     ℳ
+Maatham, Tamil                                         &#x0BF4;     ௴
+Macron                                                 &#x00AF;     ¯
+Macron Below, Combining                                &#x0331;
+Macron Below, Combining Double                         &#x035F;
+Macron Left Half, Combining                            &#xFE24;
+Macron Right Half, Combining                           &#xFE25;
+Macron, Combining                                      &#x0304;
+Macron, Combining Double                               &#x035E;
+Macron, Modifier Letter                                &#x02C9;     ˉ
+Macron, Modifier Letter Low                            &#x02CD;     ˍ
+Macron, Spacing                                        &#x00AF;     ¯
+Mahjong Tiles                                          &#x1F000;    🀀
+Malayalam                                              &#x0D00;
+Malayalam Chandrakkala                                 &#x0D4D;
+Malayalam Chillu Letters                               &#x0D7A;     ൺ
+Malayalam Consonants                                   &#x0D15;     ക
+Malayalam Dependent Vowel Signs                        &#x0D3E;
+Malayalam Digits                                       &#x0D66;     ൦
+Malayalam Independent Vowels                           &#x0D05;     അ
+Malayalam Sign Virama                                  &#x0D4D;
+Malayalam Vowel Half-U                                 &#x0D4D;
+Male Sign                                              &#x2642;     ♂
+Maltese Cross                                          &#x2720;     ✠
+Manchu Comma, Mongolian                                &#x1808;     ᠈
+Manchu Full Stop, Mongolian                            &#x1809;     ᠉
+Mandarin Chinese Fifth Or Neutral Tone                 &#x02D9;     ˙
+Mandarin Chinese First Tone                            &#x02C9;     ˉ
+Mandarin Chinese Fourth Tone                           &#x02CB;     ˋ
+Mandarin Chinese Second Tone                           &#x02CA;     ˊ
+Mandarin Chinese Third Tone                            &#x02C7;     ˇ
+Map Symbols, Dictionary And                            &#x2690;     ⚐
+Maplet                                                 &#x21A6;     ↦
+Maps From                                              &#x27FB;     ⟻
+Maps From                                              &#x2906;     ⤆
+Maps To                                                &#x27FC;     ⟼
+Maps To                                                &#x2905;     ⤅
+Maps To                                                &#x2907;     ⤇
+Mark Pre-Wwii, German                                  &#x2133;     ℳ
+Marker, Histogram                                      &#x25AE;     ▮
+Marker, Line                                           &#x2319;     ⌙
+Markers, Go                                            &#x2686;     ⚆
+Marks, Combining Diacritical                           &#x0300;
+Marks, Combining Half                                  &#xFE20;
+Marriage Symbol                                        &#x26AD;     ⚭
+Mars                                                   &#x2642;     ♂
+Masculine Ordinal Indicator                            &#x00BA;     º
+Masu Mark                                              &#x303C;     〼
+Mathematical Alphanumeric Symbols                      &#x1D400;    𝐀
+Mathematical Brackets                                  &#x27E6;     ⟦
+Mathematical Constant 3.141592... Pi                   &#x03C0;     π
+Mathematical Digits Symbols                            &#x1D7CE;    𝟎
+Mathematical Operators                                 &#x2200;     ∀
+Mathematical Operators, Dotted                         &#x2234;     ∴
+Mathematical Operators, Enclosed                       &#x2295;     ⊕
+Mathematical Operators, Supplemental                   &#x2A00;     ⨀
+Mathematical Operators, Tilde                          &#x223B;     ∻
+Mathematical Space, Medium                             &#x205F;      
+Mathematical Symbols                                   &#x27C0;     ⟀
+Mathematical Symbols                                   &#x2980;     ⦀
+Mathematical Symbols, Black-Letter                     &#x1D504;    𝔄
+Mathematical Symbols, Bold Fraktur                     &#x1D56C;    𝕬
+Mathematical Symbols, Bold Greek                       &#x1D6A8;    𝚨
+Mathematical Symbols, Bold Italic                      &#x1D468;    𝑨
+Mathematical Symbols, Bold Italic Greek                &#x1D71C;    𝜜
+Mathematical Symbols, Bold Script                      &#x1D4D0;    𝓐
+Mathematical Symbols, Dotless                          &#x1D6A4;    𝚤
+Mathematical Symbols, Double-Struck                    &#x1D538;    𝔸
+Mathematical Symbols, Fraktur                          &#x1D504;    𝔄
+Mathematical Symbols, Greek                            &#x1D6A8;    𝚨
+Mathematical Symbols, Hebrew Letterlike                &#x2135;     ℵ
+Mathematical Symbols, Italic                           &#x1D434;    𝐴
+Mathematical Symbols, Italic Greek                     &#x1D6E2;    𝛢
+Mathematical Symbols, Monospace                        &#x1D670;    𝙰
+Mathematical Symbols, Sans-Serif                       &#x1D5A0;    𝖠
+Mathematical Symbols, Sans-Serif Bold                  &#x1D5D4;    𝗔
+Mathematical Symbols, Sans-Serif Bold Greek            &#x1D756;    𝝖
+Mathematical Symbols, Sans-Serif Bold Italic           &#x1D63C;    𝘼
+Mathematical Symbols, Sans-Serif Bold Italic Greek     &#x1D790;    𝞐
+Mathematical Symbols, Sans-Serif Italic                &#x1D608;    𝘈
+Mathematical Symbols, Script                           &#x1D49C;    𝒜
+Mathematical Symbols-A, Miscellaneous                  &#x27C0;     ⟀
+Mathematical Symbols-B, Miscellaneous                  &#x2980;     ⦀
+Matrix, Hermitian Conjugate                            &#x22B9;     ⊹
+Measured Angle                                         &#x2221;     ∡
+Measured Angles, Angles And                            &#x299B;     ⦛
+Measured By                                            &#x225E;     ≞
+Med Avdrag Av                                          &#x2052;     ⁒
+Medieval Superscript Letter Diacritics                 &#x0363;
+Medieval Superscript Letter Diacritics, Latin          &#x1DD3;
+Medievalist Punctuation                                &#x2E2A;     ⸪
+Medium Black Circle                                    &#x26AB;     ⚫
+Medium Mathematical Space                              &#x205F;      
+Medium Small Square, Black                             &#x25FE;     ◾
+Medium Small White Circle                              &#x26AC;     ⚬
+Medium Square, Black                                   &#x25FC;     ◼
+Medium White Circle                                    &#x26AA;     ⚪
+Medium, End Of                                         &#x0019;     �
+Medium, Symbol For End Of                              &#x2419;     ␙
+Member, Contains As                                    &#x220B;     ∋
+Member, Does Not Contain As                            &#x220C;     ∌
+Member, Small Contains As                              &#x220D;     ∍
+Membership Signs, Set                                  &#x2208;     ∈
+Membership, Z Notation Bag                             &#x22FF;     ⋿
+Mercury                                                &#x263F;     ☿
+Merge                                                  &#x2A07;     ⨇
+Merpadi, Tamil                                         &#x0BF8;     ௸
+Message Waiting                                        &#x0095;     �
+Message, Privacy                                       &#x009E;     �
+Metrical Symbols                                       &#x23D1;     ⏑
+Mho                                                    &#x2127;     ℧
+Micro Sign                                             &#x00B5;     µ
+Mid Space                                              &#x2005;      
+Middle Dot                                             &#x00B7;     ·
+Middle Dot, Greek                                      &#x00B7;     ·
+Middle Dot, Katakana                                   &#x30FB;     ・
+Middle Dot, Latin Small Letter L With                  &#x0140;     ŀ
+Middle Dot, Vertical Line With                         &#x237F;     ⍿
+Middle Tilde, Latin Capital Letter O With              &#x019F;     Ɵ
+Middle Tilde, Latin Small Letter L With                &#x026B;     ɫ
+Midline Horizontal Ellipsis                            &#x22EF;     ⋯
+Midpoint                                               &#x00B7;     ·
+Mill Sign                                              &#x20A5;     ₥
+Mille Sign, Per                                        &#x2030;     ‰
+Milreis                                                &#x0024;     $
+Minim                                                  &#x264F;     ♏
+Minim Alternate Glyph                                  &#x264D;     ♍
+Mining Symbol                                          &#x2692;     hammer_and_pick
+Minus Sign                                             &#x2212;     −
+Minus Sign Below, Combining                            &#x0320;
+Minus Sign Operators, Plus And                         &#x2A22;     ⨢
+Minus Sign, Commercial                                 &#x2052;     ⁒
+Minus Sign, Hyphen Or                                  &#x002D;     -
+Minus Sign, Modifier Letter                            &#x02D7;     ˗
+Minus Tilde                                            &#x2242;     ≂
+Minus, Circled                                         &#x2296;     ⊖
+Minus, Dot                                             &#x2238;     ∸
+Minus, Set                                             &#x2216;     ∖
+Minus, Squared                                         &#x229F;     ⊟
+Minus-Or-Plus Sign                                     &#x2213;     ∓
+Minutes                                                &#x2032;     ′
+Miny                                                   &#x29FF;     ⧿
+Mkhedruli, Georgian                                    &#x10D0;     ა
+Modal Logic Operators                                  &#x27E0;     ⟠
+Models                                                 &#x22A7;     ⊧
+Modifier Letter Extensions                             &#x1D2C;     ᴬ
+Modifier Letters, Latin Superscript                    &#x02B0;     ʰ
+Modifier Letters, Spacing                              &#x02B0;     ʰ
+Modifier Tone Letters                                  &#xA700;     ꜀
+Modifiers Derived From Latin Letters, Phonetic         &#x02B0;     ʰ
+Modifiers, Phonetic                                    &#x02B9;     ʹ
+Modifiers, Upa                                         &#x02EF;     ˯
+Mongolian                                              &#x1800;     ᠀
+Mongolian Basic Letters                                &#x1820;     ᠠ
+Mongolian Birga                                        &#x1800;     ᠀
+Mongolian Colon                                        &#x1804;     ᠄
+Mongolian Comma                                        &#x1802;     ᠂
+Mongolian Currency                                     &#x20AE;     ₮
+Mongolian Digits                                       &#x1810;     ᠐
+Mongolian Ellipsis                                     &#x1801;     ᠁
+Mongolian Extensions                                   &#x1843;     ᡃ
+Mongolian Format Controls                              &#x180B;
+Mongolian Four Dots                                    &#x1805;     ᠅
+Mongolian Free Variation Selector One                  &#x180B;
+Mongolian Free Variation Selector Three                &#x180D;
+Mongolian Free Variation Selector Two                  &#x180C;
+Mongolian Full Stop                                    &#x1803;     ᠃
+Mongolian Manchu Comma                                 &#x1808;     ᠈
+Mongolian Manchu Full Stop                             &#x1809;     ᠉
+Mongolian Nirugu                                       &#x180A;     ᠊
+Mongolian Punctuation                                  &#x1800;     ᠀
+Mongolian Sibe Syllable Boundary Marker                &#x1807;     ᠇
+Mongolian Todo Soft Hyphen                             &#x1806;     ᠆
+Mongolian Vowel Separator                              &#x180E;     ᠎
+Monogram And Digram Symbols, Yijing / I Ching          &#x268A;     ⚊
+Monospace Digits                                       &#x1D7F6;    𝟶
+Monospace Mathematical Symbols                         &#x1D670;    𝙰
+Monostable Symbol                                      &#x238D;     ⎍
+Month Sign, Tamil                                      &#x0BF4;     ௴
+Months, Enclosed Cjk Letters And                       &#x3200;     ㈀
+Months, Ideographic Telegraph Symbols For              &#x32C0;     ㋀
+Moon, First Quarter                                    &#x263D;     ☽
+Moon, Last Quarter                                     &#x263E;     ☾
+Most Positive                                          &#x223E;     ∾
+Moustache, Left                                        &#x23B0;     ⎰
+Moustache, Right                                       &#x23B1;     ⎱
+Much Greater-Than                                      &#x226B;     ≫
+Much Greater-Than, Very                                &#x22D9;     ⋙
+Much Less-Than                                         &#x226A;     ≪
+Much Less-Than, Very                                   &#x22D8;     ⋘
+Multimap                                               &#x22B8;     ⊸
+Multiplication And Division Sign Operators             &#x2A2F;     ⨯
+Multiplication Sign                                    &#x00D7;     ×
+Multiplication X                                       &#x2715;     ✕
+Multiplication X, Heavy                                &#x2716;     ✖
+Multiplication, Multiset                               &#x228D;     ⊍
+Multiset                                               &#x228C;     ⊌
+Multiset Multiplication                                &#x228D;     ⊍
+Multiset Union                                         &#x228E;     ⊎
+Music Dingbats                                         &#x2669;     ♩
+Music Flat Sign                                        &#x266D;     ♭
+Music Natural Sign                                     &#x266E;     ♮
+Music Sharp Sign                                       &#x266F;     ♯
+Musical Notation, Ancient Greek                        &#x1D200;    𝈀
+Musical Symbols                                        &#x1D100;    𝄀
+Musical Symbols, Balinese                              &#x1B61;     ᭡
+Musical Symbols, Basic                                 &#x2669;     ♩
+Musical Symbols, Byzantine                             &#x1D000;    𝀀
+Mutton                                                 &#x2003;      
+Mutton Quad                                            &#x2001;      
+Myanmar                                                &#x1000;     က
+Myanmar Consonants                                     &#x1000;     က
+Myanmar Dependent Vowel Signs                          &#x102C;
+Myanmar Digits                                         &#x1040;     ၀
+Myanmar Independent Vowels                             &#x1021;     အ
+Myanmar Killer                                         &#x1039;
+Myanmar Sign Virama                                    &#x1039;
+Myanmar Signs                                          &#x1036;

@@ -1,0 +1,15 @@
+X
+Description                                            Entity       Preview
+X Above, Combining                                     &#x033D;
+X Below, Combining                                     &#x0353;
+X In A Rectangle Box                                   &#x2327;     ⌧
+X With Diaeresis, Latin Small Letter                   &#x1E8D;     ẍ
+X With Dot Above, Latin Small Letter                   &#x1E8B;     ẋ
+X, Ballot                                              &#x2717;     ✗
+X, Ballot Box With                                     &#x2612;     ☒
+X, Combining Latin Small Letter                        &#x036F;
+X, Heavy Ballot                                        &#x2718;     ✘
+X, Heavy Multiplication                                &#x2716;     ✖
+X, Modifier Letter Small                               &#x02E3;     ˣ
+X, Multiplication                                      &#x2715;     ✕
+Xor                                                    &#x22BB;     ⊻

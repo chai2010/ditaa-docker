@@ -1,0 +1,549 @@
+S
+Description                                            Entity       Preview
+S With Acute, Latin Small Letter                       &#x015B;     ś
+S With Caron, Latin Small Letter                       &#x0161;     š
+S With Cedilla, Latin Small Letter                     &#x015F;     ş
+S With Circumflex, Latin Small Letter                  &#x015D;     ŝ
+S With Comma Below, Latin Small Letter                 &#x0219;     ș
+S With Dot Above, Latin Small Letter                   &#x1E61;     ṡ
+S With Dot Above, Latin Small Letter Long              &#x1E9B;     ẛ
+S With Dot Below, Latin Small Letter                   &#x1E63;     ṣ
+S With Hook, Latin Small Letter                        &#x0282;     ʂ
+S With Swash Tail, Latin Small Letter                  &#x023F;     ȿ
+S, Inverted Lazy                                       &#x223E;     ∾
+S, Latin Small Letter Long                             &#x017F;     ſ
+S, Latin Small Letter Sharp                            &#x00DF;     ß
+S, Lazy                                                &#x223D;     ∽
+S, Modifier Letter Small                               &#x02E2;     ˢ
+Sagittarius                                            &#x2650;     ♐
+Saltire                                                &#x2613;     ☓
+Sam, Syriac                                            &#x070F;     ܏
+Samaritan Source, Symbol For                           &#x214F;     ⅏
+Sans-Serif Bold Digits                                 &#x1D7EC;    𝟬
+Sans-Serif Bold Greek Mathematical Symbols             &#x1D756;    𝝖
+Sans-Serif Bold Italic Greek Mathematical Symbols      &#x1D790;    𝞐
+Sans-Serif Bold Italic Mathematical Symbols            &#x1D63C;    𝘼
+Sans-Serif Bold Mathematical Symbols                   &#x1D5D4;    𝗔
+Sans-Serif Capital G, Turned                           &#x2141;     ⅁
+Sans-Serif Capital L, Reversed                         &#x2143;     ⅃
+Sans-Serif Capital L, Turned                           &#x2142;     ⅂
+Sans-Serif Capital Y, Turned                           &#x2144;     ⅄
+Sans-Serif Digits                                      &#x1D7E2;    𝟢
+Sans-Serif Italic Mathematical Symbols                 &#x1D608;    𝘈
+Sans-Serif Mathematical Symbols                        &#x1D5A0;    𝖠
+Satisfies                                              &#x22A8;     ⊨
+Satisfies, Necessarily                                 &#x2AF1;     ⫱
+Satisfies, Ordinarily                                  &#x2AE2;     ⫢
+Saturating Subtraction                                 &#x2238;     ∸
+Saturn                                                 &#x2644;     ♄
+Saurashtra                                             &#xA880;
+Scales                                                 &#x2696;     ⚖
+Scan Lines, Horizontal                                 &#x23BA;     ⎺
+Schema Hiding                                          &#x29F9;     ⧹
+Schwa, Latin Capital Letter                            &#x018F;     Ə
+Schwa, Latin Small Letter                              &#x0259;     ə
+Scissors, Black                                        &#x2702;     ✂
+Scissors, Upper Blade                                  &#x2701;     ✁
+Scissors, White                                        &#x2704;     ✄
+Scorpius                                               &#x264F;     ♏
+Screen Symbol, Clear                                   &#x239A;     ⎚
+Screen Symbol, Print                                   &#x2399;     ⎙
+Screen, Combining Enclosing                            &#x20E2;
+Script A, Latin Small Letter                           &#x0251;     ɑ
+Script Capital B                                       &#x212C;     ℬ
+Script Capital E                                       &#x2130;     ℰ
+Script Capital F                                       &#x2131;     ℱ
+Script Capital H                                       &#x210B;     ℋ
+Script Capital I                                       &#x2110;     ℐ
+Script Capital L                                       &#x2112;     ℒ
+Script Capital M                                       &#x2133;     ℳ
+Script Capital P                                       &#x2118;     ℘
+Script Capital R                                       &#x211B;     ℛ
+Script F, Latin Small Letter                           &#x0192;     ƒ
+Script G, Latin Small Letter                           &#x0261;     ɡ
+Script Mathematical Symbols                            &#x1D49C;    𝒜
+Script Mathematical Symbols, Bold                      &#x1D4D0;    𝓐
+Script Small E                                         &#x212F;     ℯ
+Script Small G                                         &#x210A;     ℊ
+Script Small L                                         &#x2113;     ℓ
+Script Small O                                         &#x2134;     ℴ
+Script Theta                                           &#x03D1;     ϑ
+Script V, Latin Capital Letter                         &#x01B2;     Ʋ
+Script V, Latin Small Letter                           &#x028B;     ʋ
+Scrolling                                              &#x21F3;     ⇳
+Scruple                                                &#x2108;     ℈
+Seagull Below, Combining                               &#x033C;
+Second Tone, Mandarin Chinese                          &#x02CA;     ˊ
+Seconds                                                &#x2033;     ″
+Section Sign                                           &#x00A7;     §
+Section Sign, European                                 &#x00B6;     ¶
+Sector                                                 &#x2314;     ⌔
+Segment                                                &#x2313;     ⌓
+Selected Area, End Of                                  &#x0087;     �
+Selected Area, Start Of                                &#x0086;     �
+Selectors Supplement, Variation                        &#xE0100;
+Selectors, Variation                                   &#xFE00;
+Semicolon                                              &#x003B;     ;
+Semicolon, Arabic                                      &#x061B;     ؛
+Semicolon, Ethiopic                                    &#x1364;     ፤
+Semicolon, Reversed                                    &#x204F;     ⁏
+Semidirect Product, Left                               &#x22CB;     ⋋
+Semidirect Product, Left Normal Factor                 &#x22C9;     ⋉
+Semidirect Product, Right                              &#x22CC;     ⋌
+Semidirect Product, Right Normal Factor                &#x22CA;     ⋊
+Separator Dot, Aegean Word                             &#x10101;    𐄁
+Separator Key Symbol, Decimal                          &#x2396;     ⎖
+Separator Line, Aegean Word                            &#x10100;    𐄀
+Separator, Arabic Date                                 &#x060D;     ؍
+Separator, Arabic Decimal                              &#x066B;     ٫
+Separator, Arabic Phrase                               &#x066C;     ٬
+Separator, Arabic Thousands                            &#x066C;     ٬
+Separator, Decimal                                     &#x002C;     ,
+Separator, Devanagari Phrase                           &#x0964;     ।
+Separator, Ethiopic Paragraph                          &#x1368;     ፨
+Separator, File                                        &#x001C;     �
+Separator, Georgian Paragraph                          &#x10FB;     ჻
+Separator, Group                                       &#x001D;     �
+Separator, Interlinear Annotation                      &#xFFFA;     ￺
+Separator, Invisible                                   &#x2063;     ⁣
+Separator, Line                                        &#x2028;      
+Separator, Mongolian Vowel                             &#x180E;     ᠎
+Separator, Paragraph                                   &#x2029;      
+Separator, Record                                      &#x001E;     �
+Separator, Unit                                        &#x001F;     �
+Separator, Urdu Paragraph                              &#x203B;     ※
+Septuagint                                             &#x1D516;    𝔖
+Sequence Bracket, Left                                 &#x27E8;     ⟨
+Sequence Bracket, Right                                &#x27E9;     ⟩
+Sequence Concatenation                                 &#x2040;     ⁀
+Sequence Introducer, Control                           &#x009B;     �
+Service Mark                                           &#x2120;     ℠
+Sesame Dot                                             &#xFE45;     ﹅
+Sesame Dot, White                                      &#xFE46;     ﹆
+Set Membership Signs                                   &#x2208;     ∈
+Set Minus                                              &#x2216;     ∖
+Set Of Complex Numbers, The                            &#x2102;     ℂ
+Set Of Integers, The                                   &#x2124;     ℤ
+Set Of Rational Numbers, The                           &#x211A;     ℚ
+Set Of Real Numbers, The                               &#x211D;     ℝ
+Set Transmit State                                     &#x0093;     �
+Set, Empty                                             &#x2205;     ∅
+Set, Included In                                       &#x2282;     ⊂
+Set, Includes In                                       &#x2283;     ⊃
+Set, Null                                              &#x2205;     ∅
+Set, Power                                             &#x1D4AB;    𝒫
+Sets, Empty                                            &#x29B0;     ⦰
+Sextile                                                &#x2736;     ✶
+Shade Characters                                       &#x2591;     ░
+Shadowed White Circle                                  &#x274D;     ❍
+Shamrock                                               &#x2618;     ☘
+Shamrock                                               &#x2663;     ♣
+Shapes, Geometric                                      &#x25A0;     ■
+Sharp S, Latin Small Letter                            &#x00DF;     ß
+Sharp Sign, Music                                      &#x266F;     ♯
+Shavian                                                &#x10450;    𐑐
+Sheqel Sign, New                                       &#x20AA;     ₪
+Shesht, Armenian                                       &#x055B;     ՛
+Shift                                                  &#x21E7;     ⇧
+Shift In                                               &#x000F;     �
+Shift In, Symbol For                                   &#x240F;     ␏
+Shift Out                                              &#x000E;     �
+Shift Out, Symbol For                                  &#x240E;     ␎
+Shogi Piece, Black                                     &#x2617;     ☗
+Shogi Piece, White                                     &#x2616;     ☖
+Short                                                  &#x0306;
+Short Slash Overlay                                    &#x0337;
+Short Solidus Overlay, Combining                       &#x0337;
+Short Stroke Overlay, Combining                        &#x0335;
+Short Vertical Line Overlay, Combining                 &#x20D3;
+Shouldered Open Box                                    &#x237D;     ⍽
+Showery Weather                                        &#x2614;     ☔
+Shuffle Product                                        &#x29E2;     ⧢
+Sibe Syllable Boundary Marker, Mongolian               &#x1807;     ᠇
+Sidelining Emphasis Marks                              &#xFE45;     ﹅
+Sideways Diaeresized U, Latin Small Letter             &#x1D1E;     ᴞ
+Sideways O With Stroke, Latin Small Letter             &#x1D13;     ᴓ
+Sideways O, Latin Small Letter                         &#x1D11;     ᴑ
+Sideways Open O, Latin Small Letter                    &#x1D12;     ᴒ
+Sideways Turned M, Latin Small Letter                  &#x1D1F;     ᴟ
+Sideways U, Latin Small Letter                         &#x1D1D;     ᴝ
+Sigma Symbol, Greek Lunate                             &#x03F2;     ϲ
+Sigma, Greek Small Letter Lunate                       &#x03F2;     ϲ
+Signs, Warning                                         &#x2620;     ☠
+Signs, Warning                                         &#x26A0;     ⚠
+Similar To                                             &#x223C;     ∼
+Sine Wave                                              &#x223F;     ∿
+Single Character Introducer                            &#x009A;     �
+Single Comma Quotation Mark                            &#x2019;     ’
+Single Comma Quotation Mark, Low                       &#x201A;     ‚
+Single Guillemet, Left Pointing                        &#x2039;     ‹
+Single Guillemet, Right Pointing                       &#x203A;     ›
+Single High-Reversed-9 Quotation Mark                  &#x201B;     ‛
+Single Left-Pointing Angle Quotation Mark              &#x2039;     ‹
+Single Low-9 Quotation Mark                            &#x201A;     ‚
+Single Punctuation, Philippine                         &#x1735;     ᜵
+Single Quotation Mark, Left                            &#x2018;     ‘
+Single Quotation Mark, Neutral                         &#x0027;     '
+Single Quotation Mark, Right                           &#x2019;     ’
+Single Reversed Comma Quotation Mark                   &#x201B;     ‛
+Single Right-Pointing Angle Quotation Mark             &#x203A;     ›
+Single Shift Three                                     &#x008F;     �
+Single Shift Two                                       &#x008E;     �
+Single Turned Comma Quotation Mark                     &#x2018;     ‘
+Sinhala                                                &#x0D80;     ඀
+Sinhala Consonants                                     &#x0D9A;     ක
+Sinhala Dependent Vowel Signs                          &#x0DCF;
+Sinhala Independent Vowels                             &#x0D85;     අ
+Sinhala Sign Al-Lakuna                                 &#x0DCA;
+Sinhala Virama                                         &#x0DCA;
+Six-Per-Em Space                                       &#x2006;      
+Sixteenth Notes, Beamed                                &#x266C;     ♬
+Sixths, Fractions                                      &#x2159;     ⅙
+Skull And Crossbones                                   &#x2620;     ☠
+Slash                                                  &#x002F;     /
+Slash Overlay, Long                                    &#x0338;
+Slash Overlay, Long Double                             &#x20EB;
+Slash Overlay, Short                                   &#x0337;
+Slash, Circled Division                                &#x2298;     ⊘
+Slash, Division                                        &#x2215;     ∕
+Slash, Fraction                                        &#x2044;     ⁄
+Slash, Latin Capital Letter O                          &#x00D8;     Ø
+Slash, Latin Small Letter O                            &#x00F8;     ø
+Slope                                                  &#x2333;     ⌳
+Small Capital Ae, Latin Letter                         &#x1D01;     ᴁ
+Small Capital Eth, Latin Letter                        &#x1D06;     ᴆ
+Small Capital Ezh, Latin Letter                        &#x1D23;     ᴣ
+Small Capital Oe, Latin Letter                         &#x0276;     ɶ
+Small Capital Ou, Latin Letter                         &#x1D15;     ᴕ
+Small Circle, Black                                    &#x2022;     •
+Small Contains As Member                               &#x220D;     ∍
+Small Element Of                                       &#x220A;     ∊
+Small Form Variants                                    &#xFE50;     ﹐
+Small Gamma, Double-Struck                             &#x213D;     ℽ
+Small Gamma, Modifier Letter                           &#x02E0;     ˠ
+Small Ka, Hiragana Letter                              &#x3095;     ゕ
+Small Ke, Hiragana Letter                              &#x3096;     ゖ
+Small Letters, Armenian                                &#x0561;     ա
+Small Letters, Combining Latin                         &#x0363;
+Small Letters, Cyrillic                                &#x0430;     а
+Small Letters, Georgian                                &#x10D0;     ა
+Small Letters, Greek                                   &#x03B1;     α
+Small Letters, Latin                                   &#x0061;     a
+Small Ligature Ae, Latin                               &#x00E6;     æ
+Small Ligature Ij, Latin                               &#x0133;     ĳ
+Small Ligature Oe, Latin                               &#x0153;     œ
+Small Pi, Double-Struck                                &#x213C;     ℼ
+Small Reversed Glottal Stop, Modifier Letter           &#x02E4;     ˤ
+Small Square, Black Medium                             &#x25FE;     ◾
+Small Tilde                                            &#x02DC;     ˜
+Small White Circle, Medium                             &#x26AC;     ⚬
+Smash Product                                          &#x2A33;     ⨳
+Smile                                                  &#x2323;     ⌣
+Smiling Face, Black                                    &#x263B;     ☻
+Smiling Face, White                                    &#x263A;     ☺
+Smirk                                                  &#x2368;     ⍨
+Smooth Breathing Mark, Greek                           &#x0313;
+Snowflake Dingbats                                     &#x2744;     ❄
+Snowflakes                                             &#x2721;     ✡
+Snowman                                                &#x2603;     ☃
+Snowy Weather                                          &#x2603;     ☃
+Soft Hyphen                                            &#x00AD;     ­
+Soft Hyphen, Mongolian Todo                            &#x1806;     ᠆
+Software-Function Symbol                               &#x2394;     ⎔
+Solid                                                  &#x2588;     █
+Solidus                                                &#x002F;     /
+Solidus                                                &#x2044;     ⁄
+Solidus Operator, Double                               &#x2AFD;     ⫽
+Solidus Operator, Reverse                              &#x29F5;     ⧵
+Solidus Overlay, Combining Long                        &#x0338;
+Solidus Overlay, Combining Long Double                 &#x20EB;
+Solidus Overlay, Combining Reverse                     &#x20E5;
+Solidus Overlay, Combining Short                       &#x0337;
+Solidus, Big                                           &#x29F8;     ⧸
+Solidus, Big Reverse                                   &#x29F9;     ⧹
+Solidus, Reverse                                       &#x005C;     \
+Sound Recording Copyright                              &#x2117;     ℗
+Source, Information                                    &#x2139;     ℹ
+Space                                                  &#x0020;    
+Space Mark, Ogham                                      &#x1680;      
+Space, Em                                              &#x2003;      
+Space, En                                              &#x2002;      
+Space, Figure                                          &#x2007;      
+Space, Four-Per-Em                                     &#x2005;      
+Space, Graphic For                                     &#x2423;     ␣
+Space, Hair                                            &#x200A;      
+Space, Hilbert                                         &#x210C;     ℌ
+Space, Ideographic                                     &#x3000;     　
+Space, Ideographic Half Fill                           &#x303F;     〿
+Space, Keyboard Symbol For No Break                    &#x237D;     ⍽
+Space, Medium Mathematical                             &#x205F;      
+Space, Mid                                             &#x2005;      
+Space, Narrow No-Break                                 &#x202F;      
+Space, No-Break                                        &#x00A0;    
+Space, Non-Breaking                                    &#x00A0;    
+Space, Punctuation                                     &#x2008;      
+Space, Six-Per-Em                                      &#x2006;      
+Space, Symbol For                                      &#x2420;     ␠
+Space, Thick                                           &#x2004;      
+Space, Thin                                            &#x2009;      
+Space, Three-Per-Em                                    &#x2004;      
+Space, Zero Width                                      &#x200B;     ​
+Space, Zero Width No-Break                             &#xFEFF;     ﻿
+Spaces                                                 &#x2000;      
+Spacing Acute Accent                                   &#x00B4;     ´
+Spacing Cedilla                                        &#x00B8;     ¸
+Spacing Circumflex Accent                              &#x005E;     ^
+Spacing Clones Of Diacritics                           &#x02D8;     ˘
+Spacing Diaeresis                                      &#x00A8;     ¨
+Spacing Double Underscore                              &#x2017;     ‗
+Spacing Grave Accent                                   &#x0060;     `
+Spacing Macron                                         &#x00AF;     ¯
+Spacing Modifier Letters                               &#x02B0;     ʰ
+Spacing Overscore                                      &#x203E;     ‾
+Spacing Tilde                                          &#x007E;     ~
+Spacing Underscore                                     &#x005F;     _
+Spanish Currency                                       &#x20A7;     ₧
+Sparkle                                                &#x2747;     ❇
+Sparkle, Heavy                                         &#x2748;     ❈
+Specials                                               &#xFFF0;     ￰
+Specials Area, Compatibility And                       &#xF900;     豈
+Spherical Angle                                        &#x2222;     ∢
+Square Below, Combining                                &#x033B;
+Square Bracket With Quill, Left                        &#x2045;     ⁅
+Square Bracket With Quill, Right                       &#x2046;     ⁆
+Square Bracket, Closing                                &#x005D;     ]
+Square Bracket, Left                                   &#x005B;     [
+Square Bracket, Left White                             &#x301A;     〚
+Square Bracket, Opening                                &#x005B;     [
+Square Bracket, Right                                  &#x005D;     ]
+Square Bracket, Right White                            &#x301B;     〛
+Square Cap                                             &#x2293;     ⊓
+Square Cup                                             &#x2294;     ⊔
+Square Foot                                            &#x23CD;     ⏍
+Square Image Of                                        &#x228F;     ⊏
+Square Lozenge                                         &#x2311;     ⌑
+Square Original Of                                     &#x2290;     ⊐
+Square Root                                            &#x221A;     √
+Square Symbols                                         &#x29C4;     ⧄
+Square, Black Medium                                   &#x25FC;     ◼
+Square, Black Medium Small                             &#x25FE;     ◾
+Square, Combining Enclosing                            &#x20DE;
+Square, Viewdata                                       &#x2317;     ⌗
+Squared                                                &#x00B2;     ²
+Squared Dot Operator                                   &#x22A1;     ⊡
+Squared Japanese Katakana Words                        &#x3300;     ㌀
+Squared Latin Abbreviations                            &#x3371;     ㍱
+Squared Minus                                          &#x229F;     ⊟
+Squared Plus                                           &#x229E;     ⊞
+Squared Times                                          &#x22A0;     ⊠
+Squares                                                &#x25A0;     ■
+Squares                                                &#x2B1A;     ⬚
+Squat Reversed Esh, Latin Small Letter                 &#x0285;     ʅ
+Srak Ah, Khmer                                         &#x17C7;
+Srak Am, Khmer                                         &#x17C6;
+Srog Med, Tibetan                                      &#x0F84;
+St. Andrew's Cross                                     &#x2613;     ☓
+Staff Of Aesculapius                                   &#x2695;     ⚕
+Staff Of Hermes                                        &#x269A;     ⚚
+Star                                                   &#x002A;     *
+Star And Crescent                                      &#x262A;     ☪
+Star Dingbats                                          &#x2726;     ✦
+Star Equals                                            &#x225B;     ≛
+Star Of David                                          &#x2721;     ✡
+Star Operator                                          &#x22C6;     ⋆
+Star, Arabic Five Pointed                              &#x066D;     ٭
+Star, Black                                            &#x2605;     ★
+Star, White                                            &#x2606;     ☆
+Starburst                                              &#x273A;     ✺
+Stars                                                  &#x2721;     ✡
+Start Of Guarded Area                                  &#x0096;     �
+Start Of Heading                                       &#x0001;     �
+Start Of Heading, Symbol For                           &#x2401;     ␁
+Start Of Selected Area                                 &#x0086;     �
+Start Of String                                        &#x0098;     �
+Start Of Text                                          &#x0002;     �
+Start Of Text, Symbol For                              &#x2402;     ␂
+Statement Is True                                      &#x22A8;     ⊨
+Sterling, Pound                                        &#x00A3;     £
+Stile, Apl                                             &#x2223;     ∣
+Straight Epsilon                                       &#x03F5;     ϵ
+Straight Epsilon, Reversed                             &#x03F6;     ϶
+Straightness                                           &#x23E4;     ⏤
+Stress Mark                                            &#x0301;
+Stretched C, Latin Letter                              &#x0297;     ʗ
+Strictly Equivalent To                                 &#x2263;     ≣
+String Terminator                                      &#x009C;     �
+String, Device Control                                 &#x0090;     �
+String, Start Of                                       &#x0098;     �
+Stroke Overlay, Combining Double Vertical              &#x20E6;
+Stroke Overlay, Combining Long                         &#x0336;
+Stroke Overlay, Combining Short                        &#x0335;
+Stroke, Latin Capital Letter O With                    &#x00D8;     Ø
+Stroke, Latin Small Letter O With                      &#x00F8;     ø
+Strokes, Cjk                                           &#x31C0;     ㇀
+Subgroup Of, Normal                                    &#x22B2;     ⊲
+Subgroup Signs, Normal                                 &#x22EA;     ⋪
+Subgroup, Contains As Normal                           &#x22B3;     ⊳
+Subjoined Consonants, Tibetan                          &#x0F90;
+Subscript Digits                                       &#x2080;     ₀
+Subscript, Greek Iota                                  &#x0345;
+Subscripts                                             &#x2080;     ₀
+Subset And Superset Relations                          &#x2ABD;     ⪽
+Subset Of                                              &#x2282;     ⊂
+Subset Of, Not A                                       &#x2284;     ⊄
+Subset Signs, Superset And                             &#x2282;     ⊂
+Subset, Double                                         &#x22D0;     ⋐
+Substitute                                             &#x001A;     �
+Substitute Form Two, Symbol For                        &#x2426;     ␦
+Substitute, Symbol For                                 &#x241A;     ␚
+Subtending Marks, Arabic                               &#x0600;     ؀
+Subtraction, Bag                                       &#x2A41;     ⩁
+Subtraction, Saturating                                &#x2238;     ∸
+Succeeds                                               &#x227B;     ≻
+Succeeds Under Relation                                &#x22B1;     ⊱
+Succeeds, Double                                       &#x2ABC;     ⪼
+Such That                                              &#x220B;     ∋
+Such That                                              &#x2223;     ∣
+Suits, Playing Card                                    &#x2660;     ♠
+Sum Or Positive Difference                             &#x2A26;     ⨦
+Sum, Direct                                            &#x2295;     ⊕
+Sum, Positive Difference Or                            &#x2A24;     ⨤
+Summation Sign                                         &#x2211;     ∑
+Summation Sign Parts                                   &#x23B2;     ⎲
+Summation, Double-Struck N-Ary                         &#x2140;     ⅀
+Summation, N-Ary                                       &#x2211;     ∑
+Summations And Integrals                               &#x2A0A;     ⨊
+Sun                                                    &#x2609;     ☉
+Sun With Rays, Black                                   &#x2600;     ☀
+Sun With Rays, White                                   &#x263C;     ☼
+Sundanese                                              &#x1B80;
+Sunna, Telugu                                          &#x0C02;
+Superscript Digits                                     &#x2070;     ⁰
+Superscript Letter Diacritics, Latin Medieval          &#x1DD3;
+Superscript Letter Diacritics, Medieval                &#x0363;
+Superscript Modifier Letters, Latin                    &#x02B0;     ʰ
+Superscript One                                        &#x00B9;     ¹
+Superscript Three                                      &#x00B3;     ³
+Superscript Two                                        &#x00B2;     ²
+Superscript Zero                                       &#x2070;     ⁰
+Superscripts                                           &#x2070;     ⁰
+Superset And Subset Signs                              &#x2282;     ⊂
+Superset Of                                            &#x2283;     ⊃
+Superset Of, Not A                                     &#x2285;     ⊅
+Superset Relations, Subset And                         &#x2ABD;     ⪽
+Superset, Double                                       &#x22D1;     ⋑
+Supplemental Arrows-B                                  &#x2900;     ⤀
+Supplemental Mathematical Operators                    &#x2A00;     ⨀
+Supplemental Punctuation                               &#x2E00;     ⸀
+Supplementary Cjk Ideographs Area                      &#x20000;    𠀀
+Supplementary General Scripts Area                     &#x10000;    𐀀
+Supplementary Private Use Area-A                       &#xF0000;    󰀀
+Supplementary Private Use Area-B                       &#x100000;   􀀀
+Surface Integral                                       &#x222F;     ∯
+Surjection, Finite                                     &#x2901;     ⤁
+Surjection, Partial                                    &#x2900;     ⤀
+Surjection, Total                                      &#x21A0;     ↠
+Surjective Injection                                   &#x2917;     ⤗
+Surjective Injection, Finite                           &#x2918;     ⤘
+Surrogates Area                                        &#xD800;     �
+Surrogates, High                                       &#xD800;     �
+Surrogates, Low                                        &#xDC00;     �
+Suzhou Numerals                                        &#x3021;     〡
+Swash Tail, Latin Small Letter S With                  &#x023F;     ȿ
+Swash Tail, Latin Small Letter Z With                  &#x0240;     ɀ
+Swedish Grave Accent                                   &#x02DF;     ˟
+Swords, Crossed                                        &#x2694;     ⚔
+Swung Dash                                             &#x2053;     ⁓
+Syllabary, Cypriot                                     &#x10800;    𐠀
+Syllabary, Linear B                                    &#x10000;    𐀀
+Syllabics Full Stop, Canadian                          &#x166E;     ᙮
+Syllabics Punctuation, Canadian                        &#x166D;     ᙭
+Syllabics, Unified Canadian Aboriginal                 &#x1400;     ᐀
+Syllables, Cherokee                                    &#x13A0;     Ꭰ
+Syllables, Circled Korean Hangul                       &#x326E;     ㉮
+Syllables, Ethiopic                                    &#x1200;     ሀ
+Syllables, Korean Hangul                               &#xAC00;     가
+Syllables, Parenthesized Korean Hangul                 &#x320E;     ㈎
+Syllables, Yi                                          &#xA000;     ꀀ
+Syloti Nagri                                           &#xA800;     ꠀ
+Symbol Variants, Fullwidth                             &#xFFE0;     ￠
+Symbol Variants, Halfwidth                             &#xFFE8;     ￨
+Symbols And Punctuation, Cjk                           &#x3000;     　
+Symbols Area                                           &#x2000;      
+Symbols Area, Cjk Phonetics And                        &#x2E80;     ⺀
+Symbols For Days, Ideographic Telegraph                &#x33E0;     ㏠
+Symbols For Divination, Khmer Numeric                  &#x17F0;     ៰
+Symbols For Hours, Ideographic Telegraph               &#x3358;     ㍘
+Symbols For Months, Ideographic Telegraph              &#x32C0;     ㋀
+Symbols, Ancient Greek Textual                         &#x2E0E;     ⸎
+Symbols, Apl Functional                                &#x2336;     ⌶
+Symbols, Ascii Punctuation And                         &#x0020;    
+Symbols, Astrological                                  &#x263D;     ☽
+Symbols, Balinese Musical                              &#x1B61;     ᭡
+Symbols, Basic Musical                                 &#x2669;     ♩
+Symbols, Bowtie                                        &#x29D1;     ⧑
+Symbols, Byzantine Musical                             &#x1D000;    𝀀
+Symbols, Chess                                         &#x2654;     ♔
+Symbols, Circle                                        &#x29B5;     ⦵
+Symbols, Combining Diacritical Marks For               &#x20D0;
+Symbols, Currency                                      &#x20A0;     ₠
+Symbols, Dentistry Notation                            &#x23BE;     ⎾
+Symbols, Diacritical Marks For                         &#x20D0;
+Symbols, Dictionary And Map                            &#x2690;     ⚐
+Symbols, Drafting                                      &#x232D;     ⌭
+Symbols, Electrotechnical                              &#x238D;     ⎍
+Symbols, Error Bar                                     &#x29EE;     ⧮
+Symbols, Gender                                        &#x26A2;     ⚢
+Symbols, Genealogical                                  &#x26AD;     ⚭
+Symbols, Greek Mathematical                            &#x1D6A8;    𝚨
+Symbols, Hebrew Letterlike Mathematical                &#x2135;     ℵ
+Symbols, I Ching / Yijing Hexagram                     &#x4DC0;     ䷀
+Symbols, I Ching / Yijing Monogram And Digram          &#x268A;     ⚊
+Symbols, I Ching / Yijing Trigram                      &#x2630;     ☰
+Symbols, Japanese Chess                                &#x2616;     ☖
+Symbols, Keyboard                                      &#x21E6;     ⇦
+Symbols, Keyboard                                      &#x2324;     ⌤
+Symbols, Keyboard                                      &#x2380;     ⎀
+Symbols, Keyboard                                      &#x2396;     ⎖
+Symbols, Khmer                                         &#x19E0;     ᧠
+Symbols, Latin-1 Punctuation And                       &#x00A0;    
+Symbols, Letterlike                                    &#x2100;     ℀
+Symbols, Mathematical                                  &#x27C0;     ⟀
+Symbols, Mathematical                                  &#x2980;     ⦀
+Symbols, Mathematical Alphanumeric                     &#x1D400;    𝐀
+Symbols, Mathematical Digits                           &#x1D7CE;    𝟎
+Symbols, Metrical                                      &#x23D1;     ⏑
+Symbols, Miscellaneous                                 &#x2600;     ☀
+Symbols, Musical                                       &#x1D100;    𝄀
+Symbols, New Testament Editorial                       &#x2E00;     ⸀
+Symbols, Planet                                        &#x263F;     ☿
+Symbols, Plastics Recycling                            &#x2673;     ♳
+Symbols, Playing Card                                  &#x2660;     ♠
+Symbols, Pointing Hand                                 &#x261A;     ☚
+Symbols, Polygonal                                     &#x2B12;     ⬒
+Symbols, Recycling                                     &#x2672;     ♲
+Symbols, Religious And Political                       &#x2625;     ☥
+Symbols, Square                                        &#x29C4;     ⧄
+Symbols, Tai Xuan Jing                                 &#x1D300;    𝌀
+Symbols, Tamil                                         &#x0BF3;     ௳
+Symbols, Tibetan                                       &#x0FC4;     ࿄
+Symbols, Triangle                                      &#x29CA;     ⧊
+Symbols, Weather And Astrological                      &#x2600;     ☀
+Symbols, Yijing / I Ching Hexagram                     &#x4DC0;     ䷀
+Symbols, Yijing / I Ching Monogram And Digram          &#x268A;     ⚊
+Symbols, Yijing / I Ching Trigram                      &#x2630;     ☰
+Symbols, Zodiacal                                      &#x2648;     ♈
+Symbols-A, Miscellaneous Mathematical                  &#x27C0;     ⟀
+Symbols-B, Miscellaneous Mathematical                  &#x2980;     ⦀
+Symmetric Difference                                   &#x2206;     ∆
+Symmetric Difference                                   &#x2238;     ∸
+Symmetric Difference                                   &#x2296;     ⊖
+Symmetry                                               &#x232F;     ⌯
+Synchronous Idle                                       &#x0016;     �
+Synchronous Idle, Symbol For                           &#x2416;     ␖
+Syriac                                                 &#x0700;     ܀
+Syriac Cross, East                                     &#x2671;     ♱
+Syriac Cross, West                                     &#x2670;     ♰
+Syriac Letters                                         &#x0710;     ܐ
+Syriac Punctuation And Signs                           &#x0700;     ܀
+Syriac Sam                                             &#x070F;     ܏

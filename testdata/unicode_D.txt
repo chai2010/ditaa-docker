@@ -1,0 +1,359 @@
+D
+Description                                            Entity       Preview
+D Retroflex Hook, Latin Small Letter                   &#x0256;     ɖ
+D With Caron, Latin Small Letter                       &#x010F;     ď
+D With Cedilla, Latin Small Letter                     &#x1E11;     ḑ
+D With Circumflex Below, Latin Small Letter            &#x1E13;     ḓ
+D With Curl, Latin Small Letter                        &#x0221;     ȡ
+D With Dot Above, Latin Small Letter                   &#x1E0B;     ḋ
+D With Dot Below, Latin Small Letter                   &#x1E0D;     ḍ
+D With Hook, Latin Capital Letter                      &#x018A;     Ɗ
+D With Hook, Latin Small Letter                        &#x0257;     ɗ
+D With Line Below, Latin Small Letter                  &#x1E0F;     ḏ
+D With Stroke, Latin Small Letter                      &#x0111;     đ
+D With Tail, Latin Small Letter                        &#x0256;     ɖ
+D With Topbar, Latin Small Letter                      &#x018C;     ƌ
+D'alembertian                                          &#x29E0;     ⧠
+D, Combining Latin Small Letter                        &#x0369;
+D, Double-Struck Italic Capital                        &#x2145;     ⅅ
+D, Double-Struck Italic Small                          &#x2146;     ⅆ
+D, Latin Capital Letter African                        &#x0189;     Ɖ
+D, Latin Letter Small Capital                          &#x1D05;     ᴅ
+Dagger                                                 &#x2020;     †
+Dagger, Double                                         &#x2021;     ‡
+Daku-On, Combining Japanese                            &#x3099;
+Daku-On, Japanese                                      &#x309B;     ゛
+Dalet Symbol                                           &#x2138;     ℸ
+Danda, Devanagari                                      &#x0964;     ।
+Danda, Devanagari Double                               &#x0965;     ॥
+Dash, Angled                                           &#x00AC;     ¬
+Dash, Circled                                          &#x229D;     ⊝
+Dash, Em                                               &#x2014;     —
+Dash, En                                               &#x2013;     –
+Dash, Figure                                           &#x2012;     ‒
+Dash, Quotation                                        &#x2015;     ―
+Dash, Swung                                            &#x2053;     ⁓
+Dash, Wave                                             &#x301C;     〜
+Dash, Wavy                                             &#x3030;     〰
+Dashed Low Line                                        &#xFE4D;     ﹍
+Dashed Overline                                        &#xFE49;     ﹉
+Dashes                                                 &#x2010;     ‐
+Dasia, Greek                                           &#x0314;
+Data Link Escape                                       &#x0010;     �
+Data Link Escape, Symbol For                           &#x2410;     ␐
+Database Theory Operators                              &#x27D5;     ⟕
+David, Star Of                                         &#x2721;     ✡
+Day Sign, Tamil                                        &#x0BF3;     ௳
+Days, Ideographic Telegraph Symbols For                &#x33E0;     ㏠
+Db Digraph, Latin Small Letter                         &#x0238;     ȸ
+Debit Sign, Tamil                                      &#x0BF6;     ௶
+Decimal Point                                          &#x002E;     .
+Decimal Separator                                      &#x002C;     ,
+Decimal Separator Key Symbol                           &#x2396;     ⎖
+Decimal Separator, Arabic                              &#x066B;     ٫
+Deergh Viram, Devanagari                               &#x0965;     ॥
+Degree Celsius                                         &#x2103;     ℃
+Degree Fahrenheit                                      &#x2109;     ℉
+Degree Sign                                            &#x00B0;     °
+Degrees Centigrade                                     &#x2103;     ℃
+Del                                                    &#x2207;     ∇
+Delete                                                 &#x007F;     �
+Delete Form Two, Symbol For                            &#x2425;     ␥
+Delete To The Left Key                                 &#x232B;     ⌫
+Delete To The Right Key                                &#x2326;     ⌦
+Delete, Symbol For                                     &#x2421;     ␡
+Delta Equal To                                         &#x225C;     ≜
+Delta, Latin Small Letter Turned                       &#x018D;     ƍ
+Demotic, Coptic Letters Derived From                   &#x03E2;     Ϣ
+Dental Click, Latin Letter                             &#x01C0;     ǀ
+Dentistry Notation Symbols                             &#x23BE;     ⎾
+Depth Symbol                                           &#x21A7;     ↧
+Derivative                                             &#x0307;
+Derivative, Double                                     &#x0308;
+Derivative, Fourth                                     &#x20DC;
+Derivative, Third                                      &#x20DB;
+Descending Node                                        &#x260B;     ☋
+Deseret                                                &#x10400;    𐐀
+Devanagari                                             &#x0900;
+Devanagari Bindu                                       &#x0902;
+Devanagari Consonants                                  &#x0915;     क
+Devanagari Danda                                       &#x0964;     ।
+Devanagari Deergh Viram                                &#x0965;     ॥
+Devanagari Dependent Vowel Signs                       &#x093E;
+Devanagari Digits                                      &#x0966;     ०
+Devanagari Double Danda                                &#x0965;     ॥
+Devanagari Extensions                                  &#x0951;
+Devanagari Independent Vowels                          &#x0904;     ऄ
+Devanagari Om                                          &#x0950;     ॐ
+Devanagari Purna Viram                                 &#x0964;     ।
+Devanagari Sign Anusvara                               &#x0902;
+Devanagari Sign Avagraha                               &#x093D;     ऽ
+Devanagari Sign Candrabindu                            &#x0901;
+Devanagari Sign Nukta                                  &#x093C;
+Devanagari Sign Virama                                 &#x094D;
+Devanagari Sign Visarga                                &#x0903;
+Device Controls                                        &#x0011;     �
+Device Controls, Symbols For                           &#x2411;     ␑
+Dharma, Wheel Of                                       &#x2638;     ☸
+Diacritic, Finite Function                             &#x20E6;
+Diacritical Marks For Symbols, Combining               &#x20D0;
+Diacritical Marks, Combining                           &#x0300;
+Diacritics For Greek                                   &#x0342;
+Diacritics For Ipa                                     &#x0346;
+Diacritics For Uralic Phonetic Alphabet                &#x0350;
+Diacritics, Cjk                                        &#x302A;
+Diacritics, Double                                     &#x035C;
+Diacritics, Enclosing                                  &#x20DD;
+Diacritics, Medieval Superscript Letter                &#x0363;
+Diacritics, Ordinary                                   &#x0300;
+Diacritics, Overstruck                                 &#x0334;
+Diacritics, Spacing Clones Of                          &#x02D8;     ˘
+Diaeresis                                              &#x00A8;     ¨
+Diaeresis Below, Combining                             &#x0324;
+Diaeresis, Combining                                   &#x0308;
+Diaeresis, Spacing                                     &#x00A8;     ¨
+Diagonal Ellipsis, Down Right                          &#x22F1;     ⋱
+Diagonal Ellipsis, Up Right                            &#x22F0;     ⋰
+Dialytika Tonos, Combining Greek                       &#x0344;
+Dialytika, Greek                                       &#x0308;
+Diameter Sign                                          &#x2300;     ⌀
+Diamond Operator                                       &#x22C4;     ⋄
+Diamond, Combining Enclosing                           &#x20DF;
+Diamonds                                               &#x25C6;     ◆
+Diamonds And Lozenges                                  &#x2B25;     ⬥
+Dice                                                   &#x2680;     ⚀
+Dictionary And Map Symbols                             &#x2690;     ⚐
+Dictionary Punctuation                                 &#x2E1A;     ⸚
+Diesis                                                 &#x2021;     ‡
+Difference Between                                     &#x223C;     ∼
+Difference Between                                     &#x224F;     ≏
+Difference Or Sum, Positive                            &#x2A24;     ⨤
+Difference, Backward                                   &#x2207;     ∇
+Difference, Forward                                    &#x2206;     ∆
+Difference, Sum Or Positive                            &#x2A26;     ⨦
+Difference, Symmetric                                  &#x2206;     ∆
+Difference, Symmetric                                  &#x2238;     ∸
+Difference, Symmetric                                  &#x2296;     ⊖
+Differential, Partial                                  &#x2202;     ∂
+Digamma Inversum, Claudian                             &#x2132;     Ⅎ
+Digit Zero, Circled                                    &#x24EA;     ⓪
+Digits Minus Half, Tibetan                             &#x0F2A;     ༪
+Digits Symbols, Mathematical                           &#x1D7CE;    𝟎
+Digits, Arabic-Indic                                   &#x0660;     ٠
+Digits, Ascii                                          &#x0030;     0
+Digits, Balinese                                       &#x1B50;     ᭐
+Digits, Bengali                                        &#x09E6;     ০
+Digits, Bold                                           &#x1D7CE;    𝟎
+Digits, Devanagari                                     &#x0966;     ०
+Digits, Dingbat Circled                                &#x2776;     ❶
+Digits, Double-Struck                                  &#x1D7D8;    𝟘
+Digits, Eastern Arabic-Indic                           &#x06F0;     ۰
+Digits, Ethiopic                                       &#x1369;     ፩
+Digits, Gujarati                                       &#x0AE6;     ૦
+Digits, Gurmukhi                                       &#x0A66;     ੦
+Digits, Kannada                                        &#x0CE6;     ೦
+Digits, Kharoshthi                                     &#x10A40;    𐩀
+Digits, Khmer                                          &#x17E0;     ០
+Digits, Lao                                            &#x0ED0;     ໐
+Digits, Limbu                                          &#x1946;     ᥆
+Digits, Malayalam                                      &#x0D66;     ൦
+Digits, Mongolian                                      &#x1810;     ᠐
+Digits, Monospace                                      &#x1D7F6;    𝟶
+Digits, Myanmar                                        &#x1040;     ၀
+Digits, New Tai Lue                                    &#x19D0;     ᧐
+Digits, Oriya                                          &#x0B66;     ୦
+Digits, Osmanya                                        &#x104A0;    𐒠
+Digits, Sans-Serif                                     &#x1D7E2;    𝟢
+Digits, Sans-Serif Bold                                &#x1D7EC;    𝟬
+Digits, Subscript                                      &#x2080;     ₀
+Digits, Superscript                                    &#x2070;     ⁰
+Digits, Tamil                                          &#x0BE7;     ௧
+Digits, Telugu                                         &#x0C66;     ౦
+Digits, Thai                                           &#x0E50;     ๐
+Digits, Tibetan                                        &#x0F20;     ༠
+Digram Symbols, Yijing / I Ching Monogram And          &#x268A;     ⚊
+Digraphs Matching Serbian Cyrillic Letters, Croatian   &#x01C4;     Ǆ
+Digraphs, Phonetic                                     &#x02A3;     ʣ
+Digraphs, Yiddish                                      &#x05F0;     װ
+Dijkstra Choice                                        &#x2AFE;     ⫾
+Dijkstra Choice, N-Ary                                 &#x2AFF;     ⫿
+Dimension Origin                                       &#x2331;     ⌱
+Dingbat Arrows                                         &#x2794;     ➔
+Dingbat Circled Digits                                 &#x2776;     ❶
+Dingbats                                               &#x2700;     ✀
+Dingbats Series 100, Itc Zapf                          &#x2700;     ✀
+Dingbats, Arrow                                        &#x2794;     ➔
+Dingbats, Asterisk                                     &#x2722;     ✢
+Dingbats, Cross                                        &#x2719;     ✙
+Dingbats, Drop-Shadowed                                &#x274D;     ❍
+Dingbats, Hazard                                       &#x2620;     ☠
+Dingbats, Heart                                        &#x2763;     ❣
+Dingbats, Miscellaneous                                &#x2600;     ☀
+Dingbats, Music                                        &#x2669;     ♩
+Dingbats, Pencil                                       &#x270E;     ✎
+Dingbats, Pointing Index Finger                        &#x261A;     ☚
+Dingbats, Quotation Mark                               &#x275B;     ❛
+Dingbats, Scissors                                     &#x2701;     ✁
+Dingbats, Snowflake                                    &#x2744;     ❄
+Dingbats, Star                                         &#x2726;     ✦
+Dingbats, Vertical Bar                                 &#x2758;     ❘
+Dingbats, Warning                                      &#x2620;     ☠
+Dingbats, Weather                                      &#x2600;     ☀
+Dingbats, Zapf                                         &#x2700;     ✀
+Direct Current Symbol Form Two                         &#x2393;     ⎓
+Direct Product                                         &#x2299;     ⊙
+Direct Sum                                             &#x2295;     ⊕
+Directional Format Characters                          &#x202A;     ‪
+Directional Formatting, Pop                            &#x202C;     ‬
+Discontinuous Underline Symbol                         &#x2382;     ⎂
+Discretionary Hyphen                                   &#x00AD;     ­
+Disjunction                                            &#x2228;     ∨
+Ditto Mark                                             &#x3003;     〃
+Divides                                                &#x2223;     ∣
+Divination, Khmer Numeric Symbols For                  &#x17F0;     ៰
+Division Sign                                          &#x00F7;     ÷
+Division Sign Operators, Multiplication And            &#x2A2F;     ⨯
+Division Sign, Circled                                 &#x2A38;     ⨸
+Division Slash                                         &#x2215;     ∕
+Division Slash, Circled                                &#x2298;     ⊘
+Division Times                                         &#x22C7;     ⋇
+Division, Long                                         &#x27CC;     ⟌
+Divorce Symbol                                         &#x26AE;     ⚮
+Does Not Contain As Member                             &#x220C;     ∌
+Does Not Divide                                        &#x2224;     ∤
+Does Not Exist, There                                  &#x2204;     ∄
+Does Not Yield                                         &#x22A3;     ⊣
+Dollar Sign                                            &#x0024;     $
+Domain Restriction                                     &#x25C1;     ◁
+Domino Tiles                                           &#x1F030;    🀰
+Dong Sign                                              &#x20AB;     ₫
+Dot                                                    &#x002E;     .
+Dot Above                                              &#x02D9;     ˙
+Dot Above Right, Combining                             &#x0358;
+Dot Above, Combining                                   &#x0307;
+Dot Above, Double                                      &#x0308;
+Dot Below, Combining                                   &#x0323;
+Dot Below, Myanmar Sign                                &#x1037;
+Dot Leader, One                                        &#x2024;     ․
+Dot Leader, Three                                      &#x2026;     …
+Dot Leader, Two                                        &#x2025;     ‥
+Dot Minus                                              &#x2238;     ∸
+Dot Operator                                           &#x22C5;     ⋅
+Dot Operator, Circled                                  &#x2299;     ⊙
+Dot Operator, Squared                                  &#x22A1;     ⊡
+Dot Plus                                               &#x2214;     ∔
+Dot Punctuation, Five                                  &#x2059;     ⁙
+Dot Punctuation, Four                                  &#x2058;     ⁘
+Dot Punctuation, Three                                 &#x2056;     ⁖
+Dot Punctuation, Two                                   &#x205A;     ⁚
+Dot, Greek Middle                                      &#x00B7;     ·
+Dot, Katakana Middle                                   &#x30FB;     ・
+Dot, Latin Capital Letter I                            &#x0130;     İ
+Dot, Middle                                            &#x00B7;     ·
+Dot, Sesame                                            &#xFE45;     ﹅
+Dot, Vertical Line With Middle                         &#x237F;     ⍿
+Dot, White Sesame                                      &#xFE46;     ﹆
+Dotless I, Latin Small Letter                          &#x0131;     ı
+Dotless J With Stroke, Latin Small Letter              &#x025F;     ɟ
+Dotless J, Latin Small Letter                          &#x0237;     ȷ
+Dotless Mathematical Symbols                           &#x1D6A4;    𝚤
+Dots Above, Combining Four                             &#x20DC;
+Dots Above, Combining Three                            &#x20DB;
+Dots, Mongolian Four                                   &#x1805;     ᠅
+Dots, Vertical Four                                    &#x205E;     ⁞
+Dotted Circle                                          &#x25CC;     ◌
+Dotted Cross                                           &#x205C;     ⁜
+Dotted Fence                                           &#x2999;     ⦙
+Dotted Mathematical Operators                          &#x2234;     ∴
+Double Acute Accent                                    &#x02DD;     ˝
+Double Acute Accent, Combining                         &#x030B;
+Double Angle Bracket, Left                             &#x300A;     《
+Double Angle Bracket, Mathematical Left                &#x27EA;     ⟪
+Double Angle Bracket, Mathematical Right               &#x27EB;     ⟫
+Double Angle Bracket, Right                            &#x300B;     》
+Double Angle Quotation Mark, Left-Pointing             &#x00AB;     «
+Double Angle Quotation Mark, Right-Pointing            &#x00BB;     »
+Double Apostrophe, Modifier Letter                     &#x02EE;     ˮ
+Double Arch Below, Combining Inverted                  &#x032B;
+Double Arrows                                          &#x21CD;     ⇍
+Double Breve Below, Combining                          &#x035C;
+Double Breve, Combining                                &#x035D;
+Double Circled Numbers                                 &#x24F5;     ⓵
+Double Comma Quotation Mark                            &#x201D;     ”
+Double Comma Quotation Mark, Low                       &#x201E;     „
+Double Dagger                                          &#x2021;     ‡
+Double Danda, Devanagari                               &#x0965;     ॥
+Double Derivative                                      &#x0308;
+Double Diacritics                                      &#x035C;
+Double Dot Above                                       &#x0308;
+Double Exclamation Mark                                &#x203C;     ‼
+Double Grave Accent, Combining                         &#x030F;
+Double High-Reversed-9 Quotation Mark                  &#x201F;     ‟
+Double Hyphen, Katakana-Hiragana                       &#x30A0;     ゠
+Double Integral                                        &#x222C;     ∬
+Double Intersection                                    &#x22D2;     ⋒
+Double Inverted Breve, Combining                       &#x0361;
+Double Logical And                                     &#x2A53;     ⩓
+Double Logical Or                                      &#x2A54;     ⩔
+Double Low Line                                        &#x2017;     ‗
+Double Low Line, Combining                             &#x0333;
+Double Low-9 Quotation Mark                            &#x201E;     „
+Double Macron Below, Combining                         &#x035F;
+Double Macron, Combining                               &#x035E;
+Double Operators                                       &#x22D0;     ⋐
+Double Overline, Combining                             &#x033F;
+Double Pipe                                            &#x01C1;     ǁ
+Double Plus                                            &#x29FA;     ⧺
+Double Precedes                                        &#x2ABB;     ⪻
+Double Prime                                           &#x2033;     ″
+Double Prime Quotation Mark                            &#x301E;     〞
+Double Prime Quotation Mark, Low                       &#x301F;     〟
+Double Prime Quotation Mark, Reversed                  &#x301D;     〝
+Double Prime, Modifier Letter                          &#x02BA;     ʺ
+Double Prime, Reversed                                 &#x2036;     ‶
+Double Punctuation For Vertical Text                   &#x2047;     ⁇
+Double Punctuation, Philippine                         &#x1736;     ᜶
+Double Question Mark                                   &#x2047;     ⁇
+Double Quotation Mark, Left                            &#x201C;     “
+Double Quotation Mark, Right                           &#x201D;     ”
+Double Reversed Comma Quotation Mark                   &#x201F;     ‟
+Double Rightwards Arrow Below, Combining               &#x0362;
+Double Ring Below, Combining                           &#x035A;
+Double Slash Overlay, Long                             &#x20EB;
+Double Solidus Operator                                &#x2AFD;     ⫽
+Double Solidus Overlay, Combining Long                 &#x20EB;
+Double Subset                                          &#x22D0;     ⋐
+Double Succeeds                                        &#x2ABC;     ⪼
+Double Superset                                        &#x22D1;     ⋑
+Double Tilde, Combining                                &#x0360;
+Double Turned Comma Quotation Mark                     &#x201C;     “
+Double Underline                                       &#x0333;
+Double Underscore                                      &#x0333;
+Double Underscore, Spacing                             &#x2017;     ‗
+Double Union                                           &#x22D3;     ⋓
+Double Vertical Line                                   &#x2016;     ‖
+Double Vertical Line Above, Combining                  &#x030E;
+Double Vertical Line Below, Combining                  &#x0348;
+Double Vertical Stroke Overlay, Combining              &#x20E6;
+Double Wavy Overline                                   &#xFE4C;     ﹌
+Double-Barred Pipe                                     &#x01C2;     ǂ
+Double-Struck Digits                                   &#x1D7D8;    𝟘
+Double-Struck Greek Letters                            &#x213C;     ℼ
+Double-Struck Greek Letters                            &#x213D;     ℽ
+Double-Struck Italic Mathematical Symbols              &#x2145;     ⅅ
+Double-Struck Mathematical Symbols                     &#x1D538;    𝔸
+Down Arrowhead                                         &#x2304;     ⌄
+Down Pointing Index, White                             &#x261F;     ☟
+Down Right Diagonal Ellipsis                           &#x22F1;     ⋱
+Down Tack                                              &#x22A4;     ⊤
+Down Tack Below, Combining                             &#x031E;
+Down, Page                                             &#x21DF;     ⇟
+Downstile, Apl                                         &#x230A;     ⌊
+Downwards Arrow                                        &#x2193;     ↓
+Dprk Compatibility Ideographs                          &#xFA70;     並
+Drachma Sign                                           &#x20AF;     ₯
+Drafting Symbols                                       &#x232D;     ⌭
+Dram                                                   &#x0292;     ʒ
+Draughts And Checkers, Symbols For                     &#x26C0;     ⛀
+Drop                                                   &#x264F;     ♏
+Drop-Shadowed Dingbats                                 &#x274D;     ❍

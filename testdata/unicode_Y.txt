@@ -1,0 +1,38 @@
+Y
+Description                                            Entity       Preview
+Y With Acute, Latin Capital Letter                     &#x00DD;     Ý
+Y With Acute, Latin Small Letter                       &#x00FD;     ý
+Y With Circumflex, Latin Small Letter                  &#x0177;     ŷ
+Y With Diaeresis, Latin Capital Letter                 &#x0178;     Ÿ
+Y With Diaeresis, Latin Small Letter                   &#x00FF;     ÿ
+Y With Dot Above, Latin Small Letter                   &#x1E8F;     ẏ
+Y With Dot Below, Latin Small Letter                   &#x1EF5;     ỵ
+Y With Grave, Latin Small Letter                       &#x1EF3;     ỳ
+Y With Hook Above, Latin Small Letter                  &#x1EF7;     ỷ
+Y With Hook, Latin Small Letter                        &#x01B4;     ƴ
+Y With Macron, Latin Small Letter                      &#x0233;     ȳ
+Y With Ring Above, Latin Small Letter                  &#x1E99;     ẙ
+Y With Stroke, Latin Capital Letter                    &#x024E;     Ɏ
+Y With Stroke, Latin Small Letter                      &#x024F;     ɏ
+Y With Tilde, Latin Small Letter                       &#x1EF9;     ỹ
+Y, Latin Letter Small Capital                          &#x028F;     ʏ
+Y, Latin Small Letter Turned                           &#x028E;     ʎ
+Y, Modifier Letter Small                               &#x02B8;     ʸ
+Y, Turned Sans-Serif Capital                           &#x2144;     ⅄
+Yamakkan, Thai Character                               &#x0E4E;
+Year Sign, Tamil                                       &#x0BF5;     ௵
+Yen Sign                                               &#x00A5;     ¥
+Yentamna, Armenian                                     &#x058A;     ֊
+Yi Radicals                                            &#xA490;     ꒐
+Yi Syllables                                           &#xA000;     ꀀ
+Yiddish Digraphs                                       &#x05F0;     װ
+Yield, Does Not                                        &#x22A3;     ⊣
+Yields                                                 &#x22A2;     ⊢
+Yijing / I Ching Hexagram Symbols                      &#x4DC0;     ䷀
+Yijing / I Ching Monogram And Digram Symbols           &#x268A;     ⚊
+Yijing / I Ching Trigram Symbols                       &#x2630;     ☰
+Yin Yang                                               &#x262F;     ☯
+Yogh, Latin Small Letter                               &#x021D;     ȝ
+Ypogegrammeni, Combining Greek                         &#x0345;
+Yr, Latin Letter                                       &#x01A6;     Ʀ
+Yuan Sign                                              &#x00A5;     ¥
